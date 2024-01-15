@@ -8,10 +8,16 @@
    - Những công nghệ nổi bật đằng sau thương mại điện tử là Internet, Web và ngày càng nhiều nền tảng di động.
    - Ở góc độ kinh doanh, một trong những xu hướng quan trọng nhất cần lưu ý là tất cả các hình thức thương mại điện tử tiếp tục cho thấy sự tăng trưởng rất mạnh mẽ. Từ góc độ công nghệ, nền tảng di động cuối cùng đã xuất hiện một cách thành công, thúc đẩy sự tăng trưởng vượt bậc trong quảng cáo trên thiết bị di động và biến thương mại điện tử di động thực sự thành hiện thực. Ở cấp độ xã hội, các vấn đề chính bao gồm quyền riêng tư và sự giám sát của chính phủ, bảo vệ sở hữu trí tuệ, bảo mật trực tuyến và quản trị Internet.
 4. Xác định và mô tả các tính năng độc đáo của công nghệ thương mại điện tử
-5. Mô tả các loại hình thương mại điện tử chính.
-6. Tìm hiểu sự phát triển của thương mại điện tử
-7. Mô tả các chủ đề chính làm cơ sở cho việc nghiên cứu thương mại điện tử.
-8. Xác định các ngành học chính đóng góp cho thương mại điện tử.
+   - **Tính phổ biến (Ubiquity)**: có sẵn ở mọi nơi, mọi lúc, giúp bạn có thể mua sắm từ máy tính để bàn, ở nhà, tại nơi làm việc hoặc thậm chí từ ô tô.
+   - **Phạm vi tiếp cận toàn cầu (Global reach)**: cho phép các giao dịch thương mại vượt qua ranh giới văn hóa và quốc gia một cách thuận tiện và tiết kiệm chi phí hơn nhiều so với thương mại truyền thống.
+   - **Các tiêu chuẩn chung (Universal standards)**: được chia sẻ bởi tất cả các quốc gia trên thế giới, trái ngược với hầu hết các công nghệ thương mại truyền thống vốn khác nhau giữa các quốc gia.
+   - **Sự phong phú (Richness)**: cho phép người bán trực tuyến truyền tải thông điệp tiếp thị theo cách không thể thực hiện được bằng các công nghệ thương mại truyền thống.
+   - **Tính tương tác (Interactivity)**: cho phép giao tiếp hai chiều giữa người bán và người tiêu dùng và cho phép người bán thu hút người tiêu dùng theo những cách tương tự như trải nghiệm trực tiếp, nhưng trên quy mô toàn cầu, rộng lớn hơn nhiều.
+   - **Mật độ thông tin (Information density)**: là tổng số lượng và chất lượng thông tin có sẵn cho tất cả những người tham gia thị trường. Internet làm giảm chi phí thu thập, lưu trữ, xử lý và liên lạc thông tin đồng thời tăng tính cập nhật, tính chính xác và kịp thời của thông tin.
+6. Mô tả các loại hình thương mại điện tử chính.
+7. Tìm hiểu sự phát triển của thương mại điện tử
+8. Mô tả các chủ đề chính làm cơ sở cho việc nghiên cứu thương mại điện tử.
+9. Xác định các ngành học chính đóng góp cho thương mại điện tử.
 ## Bài 2: Hạ tầng cho thương mại điện tử
 - Internet: Nền tảng công nghệ
 - Cơ sở hạ tầng và truy cập Internet
