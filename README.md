@@ -325,13 +325,83 @@ Các câu hỏi bạn phải hỏi và trả lời khi phát triển sự hiện
 19. Thảo luận tại sao hệ thống EBPP ngày càng trở nên phổ biến.
 20. Các loại hệ thống EBPP chính giống và khác nhau như thế nào?
 
-## Bài 6: Tiếp thị và quảng cáo thương mại điện tử
-- Các chiến lược và công cụ tiếp thị và quảng cáo thương mại kỹ thuật số
-- Người tiêu dùng trực tuyến: Khán giả Internet và hành vi của người tiêu dùng
-- Các chiến lược và công cụ tiếp thị và quảng cáo thương mại kỹ thuật số
-- Công nghệ tiếp thị qua Internet
-- Hiểu chi phí và lợi ích của truyền thông tiếp thị trực tuyến
-- Nghiên cứu điển hình: Quảng cáo có lập trình: Tiếp thị theo thời gian thực
+## Bài 6: Khái niệm tiếp thị và quảng cáo thương mại điện tử
+### Tóm tắt nội dung chính
+1. Hiểu các đặc điểm chính của khán giả Internet, các khái niệm cơ bản về hành vi và hoạt động mua hàng của người tiêu dùng cũng như cách người tiêu dùng cư xử trực tuyến.
+- Các đặc điểm chính của khán giả Internet bao gồm số lượng người dùng trực tuyến, cường độ và phạm vi sử dụng, nhân khẩu học và các khía cạnh, loại kết nối Internet và hiệu ứng cộng đồng.
+- Các mô hình hành vi của người tiêu dùng cố gắng dự đoán hoặc giải thích người tiêu dùng mua gì, mua ở đâu, khi nào, bao nhiêu và tại sao họ mua. Các yếu tố tác động đến hành vi mua hàng bao gồm các yếu tố văn hóa, xã hội và tâm lý.
+- Có năm giai đoạn trong quá trình ra quyết định của người tiêu dùng: nhận thức về nhu cầu, tìm kiếm thêm thông tin, đánh giá các lựa chọn thay thế, quyết định mua hàng thực tế và liên hệ sau khi mua hàng với công ty.
+- Quá trình ra quyết định trực tuyến của người tiêu dùng về cơ bản là giống nhau, với việc bổ sung hai yếu tố mới: khả năng của trang web và nền tảng di động cũng như hành vi nhấp chuột của người tiêu dùng.
+
+2. Xác định và mô tả các chiến lược và công cụ tiếp thị và quảng cáo thương mại kỹ thuật số cơ bản.
+- Trang web là công cụ chính để thiết lập mối quan hệ ban đầu với khách hàng.
+- Tiếp thị và quảng cáo qua công cụ tìm kiếm cho phép các công ty trả tiền cho các công cụ tìm kiếm để được đưa vào chỉ mục của công cụ tìm kiếm (trước đây là miễn phí và dựa trên tiêu chí “khách quan”), nhận được sự đảm bảo rằng công ty của họ sẽ xuất hiện trong kết quả tìm kiếm có liên quan.
+- Quảng cáo hiển thị hình ảnh là các thông điệp quảng cáo mà người dùng có thể phản hồi bằng cách nhấp vào biểu ngữ và nhấp vào liên kết đến mô tả sản phẩm hoặc ưu đãi. Quảng cáo hiển thị hình ảnh bao gồm quảng cáo biểu ngữ, đa phương tiện, quảng cáo video và tài trợ.
+- Tiếp thị qua e-mail gửi e-mail trực tiếp đến những người dùng quan tâm và đã được chứng minh là một trong những hình thức truyền thông tiếp thị hiệu quả nhất.
+- Tiếp thị tạo khách hàng tiềm năng sử dụng nhiều hiện diện thương mại điện tử để tạo khách hàng tiềm năng cho các doanh nghiệp mà sau này có thể liên hệ và chuyển đổi thành khách hàng.
+- Tiếp thị liên kết liên quan đến việc một công ty đặt biểu tượng hoặc quảng cáo biểu ngữ của mình trên trang web của một công ty khác mà từ đó người dùng của trang web đó có thể nhấp qua trang web của công ty liên kết.
+- Tiếp thị lan truyền là một hình thức tiếp thị xã hội liên quan đến việc thu hút khách hàng chuyển thông điệp tiếp thị của công ty đến bạn bè, gia đình và đồng nghiệp.
+- Tiếp thị và quảng cáo trên mạng xã hội liên quan đến việc sử dụng biểu đồ xã hội để truyền đạt hình ảnh thương hiệu và trực tiếp thúc đẩy doanh số bán sản phẩm và dịch vụ.
+- Tiếp thị và quảng cáo trên thiết bị di động và địa phương liên quan đến việc sử dụng quảng cáo hiển thị hình ảnh, quảng cáo trên công cụ tìm kiếm, quảng cáo video và nhắn tin di động trên các thiết bị di động như điện thoại thông minh và máy tính bảng, thường sử dụng vị trí địa lý của người dùng.
+- Tiếp thị đa kênh (kết hợp các nỗ lực tiếp thị ngoại tuyến và trực tuyến) thường là hiệu quả nhất. Mặc dù nhiều dự án thương mại điện tử muốn phụ thuộc nhiều vào truyền thông trực tuyến, nhưng các chiến dịch truyền thông tiếp thị thành công nhất trong việc thúc đẩy lưu lượng truy cập đều kết hợp cả chiến thuật trực tuyến và ngoại tuyến.
+- Các kỹ thuật giữ chân khách hàng để tăng cường mối quan hệ với khách hàng bao gồm cá nhân hóa, tiếp thị từng người một và quảng cáo dựa trên sở thích, tùy chỉnh và hợp tác sản xuất với khách hàng cũng như dịch vụ khách hàng (chẳng hạn như CRM, Câu hỏi thường gặp, trò chuyện trực tiếp, đại lý thông minh và hệ thống phản hồi tự động).
+- Chiến lược định giá trực tuyến bao gồm cung cấp sản phẩm và dịch vụ miễn phí, tạo phiên bản, đóng gói và định giá linh hoạt.
+
+3. Xác định và mô tả các công nghệ chính hỗ trợ tiếp thị trực tuyến.
+- Nhật ký giao dịch web—bản ghi ghi lại hoạt động của người dùng tại một trang web. Cùng với dữ liệu từ các biểu mẫu đăng ký và cơ sở dữ liệu giỏ hàng, chúng đại diện cho một kho tàng thông tin tiếp thị cho cả các trang web riêng lẻ và toàn bộ ngành công nghiệp trực tuyến.
+- Tệp theo dõi—Các tệp khác nhau, như cookie, đèn hiệu web, cookie Flash và ứng dụng, theo dõi người dùng và theo dõi hành vi của họ khi họ truy cập các trang web trên Web.
+- Cơ sở dữ liệu, kho dữ liệu, khai thác dữ liệu và lập hồ sơ—các công nghệ cho phép nhà tiếp thị xác định chính xác khách hàng trực tuyến là ai và họ muốn gì, sau đó cung cấp cho khách hàng chính xác những gì họ muốn, khi họ muốn, với mức giá phù hợp .
+- Hệ thống CRM—một kho lưu trữ thông tin khách hàng ghi lại tất cả các liên hệ mà khách hàng có với một công ty và tạo ra hồ sơ khách hàng có sẵn cho mọi người trong công ty có nhu cầu “biết về khách hàng”.
+
+4. Hiểu chi phí và lợi ích của truyền thông tiếp thị trực tuyến.
+- Các thuật ngữ chính mà người ta phải biết để hiểu được các đánh giá về hiệu quả của truyền thông tiếp thị trực tuyến cũng như chi phí và lợi ích của nó bao gồm:
+   - Số lần hiển thị: số lần quảng cáo được phân phát.
+   - Tỷ lệ nhấp: số lần một quảng cáo được nhấp vào.
+   - Tỷ lệ xem qua: tỷ lệ phản hồi trong 30 ngày cho một quảng cáo.
+   - Lượt truy cập: số lượng yêu cầu http mà máy chủ của công ty nhận được.
+   - Lượt xem trang: số lượng trang được khách truy cập xem.
+   - Độ dính (thời lượng): khoảng thời gian trung bình mà du khách lưu lại tại một điểm di sản.
+   - Số lượng khách truy cập: số lượng khách truy cập riêng biệt, duy nhất vào một trang web.
+   - Lòng trung thành: tỷ lệ người mua quay lại sau một năm.
+   - Tiếp cận: tỷ lệ phần trăm tổng số người tiêu dùng trên thị trường sẽ truy cập một trang web.
+   - Lần truy cập gần đây: số ngày trung bình trôi qua giữa các lần truy cập.
+   - Tỷ lệ mua lại: tỷ lệ khách truy cập thể hiện sự quan tâm đến sản phẩm của trang web bằng cách đăng ký hoặc truy cập các trang sản phẩm.
+   - Tỷ lệ chuyển đổi: tỷ lệ khách truy cập mua thứ gì đó. • Tỷ lệ duyệt để mua—tỷ lệ số mặt hàng đã mua trên số lượt xem sản phẩm.
+   - Tỷ lệ xem trên giỏ hàng: tỷ lệ số lần nhấp vào “Thêm vào giỏ hàng” trên số lượt xem sản phẩm.
+   - Tỷ lệ chuyển đổi giỏ hàng: tỷ lệ số đơn đặt hàng thực tế trên số lần nhấp chuột “Thêm vào giỏ hàng”.
+   - Tỷ lệ chuyển đổi thanh toán: tỷ lệ đơn đặt hàng thực tế so với số lần thanh toán bắt đầu.
+   - Tỷ lệ bỏ qua: tỷ lệ người mua hàng bắt đầu biểu mẫu giỏ hàng nhưng sau đó không hoàn thành biểu mẫu.
+   - Tỷ lệ duy trì: tỷ lệ phần trăm khách hàng hiện tại tiếp tục mua hàng thường xuyên.
+   - Tỷ lệ hao mòn: tỷ lệ khách hàng mua một lần nhưng không quay lại trong vòng một năm.
+   - Tỷ lệ mở: tỷ lệ phần trăm khách hàng mở thư và xem được thư.
+   - Tỷ lệ gửi: tỷ lệ phần trăm người nhận e-mail đã nhận được e-mail.
+   - Tỷ lệ nhấp qua (e-mail): phần trăm người nhận e-mail đã nhấp qua phiếu mua hàng.
+   - Tỷ lệ trả lại: tỷ lệ phần trăm e-mail không thể gửi được.
+- Các nghiên cứu đã chỉ ra rằng tỷ lệ nhấp chuột thấp không phải là dấu hiệu cho thấy quảng cáo trực tuyến thiếu tác động thương mại và giao tiếp quảng cáo vẫn diễn ra ngay cả khi người dùng không phản hồi trực tiếp bằng cách nhấp chuột. Quảng cáo trực tuyến dưới nhiều hình thức khác nhau đã được chứng minh là có thể nâng cao nhận thức về thương hiệu và thu hồi thương hiệu, tạo ra nhận thức tích cực về thương hiệu và tăng ý định mua hàng.
+- Hiệu quả không thể được xem xét nếu không phân tích chi phí. Các mô hình định giá điển hình cho truyền thông tiếp thị trực tuyến bao gồm trao đổi, giá mỗi nghìn (CPM), giá mỗi nhấp chuột (CPC), giá mỗi hành động (CPA), mô hình kết hợp và tài trợ.
+- Truyền thông tiếp thị trực tuyến thường ít tốn kém hơn so với tiếp thị truyền thông đại chúng truyền thống. Ngoài ra, bán hàng trực tuyến nói chung có thể tương quan trực tiếp với các nỗ lực tiếp thị trực tuyến, không giống như các chiến thuật truyền thông tiếp thị truyền thống.
+
+### Câu hỏi ôn tập
+1. Sự tăng trưởng của Internet xét về mặt số lượng người dùng có được dự kiến sẽ tiếp tục vô thời hạn không? Điều gì, nếu có, sẽ khiến nó chậm lại?
+2. Ngoài các công cụ tìm kiếm, một số ứng dụng phổ biến nhất của Internet là gì?
+3. Bạn cho rằng Internet thúc đẩy hay cản trở hoạt động xã hội? Giải thích vị trí của bạn.
+4. Nghiên cứu đã chỉ ra rằng nhiều người tiêu dùng sử dụng Internet để điều tra việc mua hàng trước khi thực sự mua, việc này thường được thực hiện tại cửa hàng thực tế. Điều này có ý nghĩa gì đối với người bán hàng trực tuyến? Họ có thể làm gì để lôi kéo nhiều người mua hàng trực tuyến hơn là nghiên cứu thuần túy?
+5. Google đã thực hiện một số thay đổi nào đối với thuật toán công cụ tìm kiếm của mình để cải thiện kết quả tìm kiếm và trải nghiệm người dùng?
+6. Tại sao mạng lưới quảng cáo lại gây tranh cãi? Có thể làm gì, nếu có, để vượt qua bất kỳ sự kháng cự nào đối với kỹ thuật này?
+7. Hệ thống tự động hóa tiếp thị là gì và nó được sử dụng như thế nào?
+8. Liệt kê sự khác biệt giữa cơ sở dữ liệu, kho dữ liệu và khai thác dữ liệu.
+9. Kể tên một số hạn chế của kỹ thuật khai thác dữ liệu được sử dụng trong tiếp thị trên Internet.
+10. Chiến lược định giá nào hóa ra lại nguy hiểm đối với nhiều dự án thương mại điện tử trong những ngày đầu của thương mại điện tử? Tại sao?
+11. Phân biệt giá có khác với việc định phiên bản không? Nếu vậy thì làm thế nào?
+12. Một số lý do khiến quà tặng miễn phí, chẳng hạn như dịch vụ Internet miễn phí và quà tặng, không có tác dụng tạo ra doanh thu tại một trang web là gì?
+13. Giải thích cách hoạt động của việc lập phiên bản. Điều này khác với định giá động như thế nào?
+14. Tại sao các công ty cung cấp sản phẩm và dịch vụ trọn gói lại có lợi thế hơn những công ty không hoặc không thể cung cấp tùy chọn này?
+15. Một số lý do khiến quảng cáo trực tuyến vẫn chỉ chiếm khoảng 37% tổng thị trường quảng cáo là gì?
+16. Một số lợi ích của việc tiếp thị trực tiếp qua email là gì?
+17. Tại sao quảng cáo ngoại tuyến vẫn quan trọng?
+18. Sự khác biệt giữa lượt truy cập và lượt xem trang là gì? Tại sao đây không phải là thước đo tốt nhất về lưu lượng truy cập web? Số liệu nào được ưu tiên cho số lượng lưu lượng truy cập?
+19. Xác định CTR, CPM, CPC, CPA và VTR.
+20. Phân tích trang web là gì và chúng được sử dụng như thế nào?
 
 ## Bài 7: Tiếp thị xã hội, di động và địa phương
 - Giới thiệu về tiếp thị xã hội, di động và địa phương
