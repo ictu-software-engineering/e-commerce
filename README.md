@@ -64,12 +64,41 @@ Có hai cách tiếp cận chính đối với thương mại điện tử: kỹ
 19. Những người theo phương pháp tiếp cận hành vi nghiên cứu thương mại điện tử quan tâm đến điều gì?
 ## Bài 2: Hạ tầng cho thương mại điện tử
 ### Tóm tắt nội dung chính
-- Internet: Nền tảng công nghệ
-- Cơ sở hạ tầng và truy cập Internet
-- Trang web
-- Internet và Web: Tính năng và Dịch vụ
-- Ứng dụng dành cho thiết bị di động
-- Nghiên cứu điển hình: Akamai Technologies: Cố gắng duy trì nguồn cung trước nhu cầu
+1. Xác định các thành phần chính của mô hình kinh doanh thương mại điện tử.
+Một mô hình kinh doanh thành công giải quyết hiệu quả tám yếu tố chính:
+- **Giá trị đề xuất (value proposition)**: cách sản phẩm hoặc dịch vụ của công ty đáp ứng nhu cầu của khách hàng. Các giá trị đề xuất thương mại điện tử điển hình bao gồm cá nhân hóa, tùy chỉnh, tiện lợi và giảm chi phí tìm kiếm sản phẩm và phân phối giá.
+- **Mô hình doanh thu (revenue model)**: cách công ty lên kế hoạch kiếm tiền từ hoạt động của mình. Các mô hình doanh thu thương mại điện tử chính bao gồm mô hình quảng cáo, mô hình đăng ký, mô hình phí giao dịch, mô hình bán hàng và mô hình liên kết.
+- **Cơ hội thị trường (market opportunity)**: tiềm năng doanh thu trong không gian thị trường dự định của công ty.
+- **Môi trường cạnh tranh (competitive environment)**: các đối thủ cạnh tranh trực tiếp và gián tiếp kinh doanh trong cùng một không gian thị trường, bao gồm số lượng và lợi nhuận của họ.
+- **Lợi thế cạnh tranh (competitive advantage)**: các yếu tố giúp phân biệt doanh nghiệp với đối thủ cạnh tranh, cho phép doanh nghiệp cung cấp sản phẩm ưu việt với chi phí thấp hơn.
+- **Chiến lược thị trường (market strategy)**: kế hoạch mà một công ty phát triển nhằm vạch ra cách thức công ty sẽ thâm nhập thị trường và thu hút khách hàng.
+- **Phát triển tổ chức (organizational development)**: quá trình xác định tất cả các chức năng trong doanh nghiệp và các kỹ năng cần thiết để thực hiện từng công việc, cũng như quá trình tuyển dụng những nhân viên giỏi.
+- **Đội ngũ quản lý (management team)**: nhóm các cá nhân được giữ lại để hướng dẫn sự phát triển và mở rộng của công ty.
+  
+2. Mô tả các mô hình kinh doanh B2C chính.
+Có một số mô hình kinh doanh khác nhau đang được sử dụng trong lĩnh vực thương mại điện tử B2C. Các mô hình chính bao gồm:
+- **Cổng thông tin (portal)**: cung cấp các công cụ tìm kiếm mạnh mẽ cùng với gói nội dung và dịch vụ tích hợp; thường sử dụng mô hình kết hợp đăng ký/doanh thu quảng cáo/phí giao dịch; có thể là chung hoặc chuyên biệt (xoáy).
+- **Nhà bán lẻ điện tử (e-tailer)**: phiên bản trực tuyến của nhà bán lẻ truyền thống; bao gồm người bán ảo (chỉ cửa hàng bán lẻ trực tuyến), nhà bán lẻ điện tử truyền thống (kênh phân phối trực tuyến cho một công ty cũng có cửa hàng thực), người bán theo danh mục (phiên bản trực tuyến của danh mục thư trực tiếp) và nhà sản xuất bán trực tiếp cho người tiêu dùng.
+- **Nhà cung cấp nội dung (content provider)**: các công ty thông tin và giải trí cung cấp nội dung số; thường sử dụng mô hình doanh thu từ quảng cáo, đăng ký hoặc phí giới thiệu liên kết.
+- **Môi giới giao dịch (transaction broker)**: xử lý các giao dịch bán hàng trực tuyến; thường sử dụng mô hình doanh thu phí giao dịch.
+- **Người tạo lập thị trường (market creator)**: sử dụng công nghệ Internet để tạo ra các thị trường mang người mua và người bán lại với nhau; thường sử dụng mô hình doanh thu phí giao dịch.
+- **Nhà cung cấp dịch vụ (service provider)** — cung cấp dịch vụ trực tuyến.
+- **Nhà cung cấp cộng đồng (community provider)**: cung cấp một cộng đồng trực tuyến gồm những cá nhân có cùng chí hướng để kết nối và chia sẻ thông tin; doanh thu được tạo ra bởi quảng cáo, phí giới thiệu và đăng ký.
+
+3. Mô tả các mô hình kinh doanh B2B chính.
+Các mô hình kinh doanh chính được sử dụng cho đến nay trong lĩnh vực B2B bao gồm:
+- **Nhà phân phối điện tử (e-distributor)**: cung cấp sản phẩm trực tiếp cho từng doanh nghiệp.
+- **Mua sắm điện tử (e-procurement)**: các công ty đơn lẻ tạo ra thị trường kỹ thuật số cho hàng nghìn người bán và người mua.
+- **Trao đổi (exchange)**: thị trường kỹ thuật số được sở hữu độc lập cho các đầu vào trực tiếp, thường dành cho một nhóm ngành dọc.
+- **Tập đoàn công nghiệp (industry consortium)**: thị trường kỹ thuật số dọc thuộc sở hữu của ngành.
+- **Mạng lưới công nghiệp tư nhân (private industrial network)**: mạng lưới công nghiệp tư nhân thuộc sở hữu của ngành điều phối chuỗi cung ứng với một số đối tác hạn chế.
+
+4. Hiểu các khái niệm và chiến lược kinh doanh chính áp dụng cho thương mại điện tử.
+Thương mại điện tử đã có tác động lớn đến môi trường kinh doanh trong thập kỷ qua và đã ảnh hưởng đến:
+- Cơ cấu ngành:  bản chất của những người tham gia trong một ngành và khả năng thương lượng tương đối của họ bằng cách thay đổi cơ sở cạnh tranh giữa các đối thủ, rào cản gia nhập, mối đe dọa của các sản phẩm thay thế mới, sức mạnh của nhà cung cấp và khả năng thương lượng của người mua.
+- Chuỗi giá trị ngành: tập hợp các hoạt động được thực hiện trong một ngành bởi các nhà cung cấp, nhà sản xuất, nhà vận chuyển, nhà phân phối và nhà bán lẻ nhằm chuyển hóa đầu vào thô thành sản phẩm và dịch vụ cuối cùng bằng cách giảm chi phí thông tin và các chi phí giao dịch khác.
+- Chuỗi giá trị doanh nghiệp: tập hợp các hoạt động được thực hiện trong một doanh nghiệp riêng lẻ để tạo ra sản phẩm cuối cùng từ đầu vào thô bằng cách tăng hiệu quả hoạt động.
+- Chiến lược kinh doanh: một tập hợp các kế hoạch nhằm đạt được lợi nhuận dài hạn vượt trội trên vốn đầu tư vào một công ty bằng cách đưa ra những cách thức độc đáo để khác biệt hóa sản phẩm, đạt được lợi thế về chi phí, cạnh tranh toàn cầu hoặc cạnh tranh trong một thị trường hoặc phân khúc sản phẩm hẹp.
 
 ## Bài 3: Xây dựng sự hiện diện của thương mại điện tử
 - Tưởng tượng sự hiện diện thương mại điện tử
