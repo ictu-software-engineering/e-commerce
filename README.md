@@ -38,6 +38,10 @@ Thương mại điện tử bao gồm ba chủ đề có liên quan chặt chẽ
 - **Xã hội**: Hiểu được áp lực mà thương mại điện tử toàn cầu đặt lên xã hội đương đại là điều quan trọng để thành công trên thị trường thương mại điện tử. Các vấn đề xã hội chính là sở hữu trí tuệ, quyền riêng tư cá nhân và chính sách công.
 
 11. Xác định các ngành học chính đóng góp cho thương mại điện tử.
+Có hai cách tiếp cận chính đối với thương mại điện tử: kỹ thuật và hành vi. Mỗi cách tiếp cận này được đại diện bởi một số ngành học thuật.
+- Về mặt kỹ thuật, nó bao gồm khoa học máy tính, quản lý vận hành và hệ thống thông tin.
+- Về mặt hành vi, nó bao gồm các hệ thống thông tin cũng như xã hội học, kinh tế, tài chính kế toán, quản lý và tiếp thị.
+
 ## Bài 2: Hạ tầng cho thương mại điện tử
 - Internet: Nền tảng công nghệ
 - Cơ sở hạ tầng và truy cập Internet
