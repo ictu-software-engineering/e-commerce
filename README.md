@@ -14,10 +14,18 @@
    - **Sự phong phú (Richness)**: cho phép người bán trực tuyến truyền tải thông điệp tiếp thị theo cách không thể thực hiện được bằng các công nghệ thương mại truyền thống.
    - **Tính tương tác (Interactivity)**: cho phép giao tiếp hai chiều giữa người bán và người tiêu dùng và cho phép người bán thu hút người tiêu dùng theo những cách tương tự như trải nghiệm trực tiếp, nhưng trên quy mô toàn cầu, rộng lớn hơn nhiều.
    - **Mật độ thông tin (Information density)**: là tổng số lượng và chất lượng thông tin có sẵn cho tất cả những người tham gia thị trường. Internet làm giảm chi phí thu thập, lưu trữ, xử lý và liên lạc thông tin đồng thời tăng tính cập nhật, tính chính xác và kịp thời của thông tin.
+   - **Công nghệ xã hội (Social technology)**: cung cấp mô hình truyền thông đại chúng từ nhiều đến nhiều. Hàng triệu người dùng có thể tạo ra nội dung được hàng triệu người dùng khác sử dụng. Kết quả là sự hình thành các mạng xã hội trên diện rộng và quy tụ lượng lớn khán giả trên các nền tảng mạng xã hội.
 6. Mô tả các loại hình thương mại điện tử chính.
-7. Tìm hiểu sự phát triển của thương mại điện tử
-8. Mô tả các chủ đề chính làm cơ sở cho việc nghiên cứu thương mại điện tử.
-9. Xác định các ngành học chính đóng góp cho thương mại điện tử.
+Có 06 loại thương mại điện tử chính:
+- **Thương mại điện tử B2C** liên quan đến việc doanh nghiệp bán hàng cho người tiêu dùng và là loại hình thương mại điện tử mà hầu hết người tiêu dùng đều có thể gặp phải.
+- **Thương mại điện tử B2B** liên quan đến việc các doanh nghiệp bán hàng cho các doanh nghiệp khác và là hình thức thương mại điện tử lớn nhất.
+- **Thương mại điện tử C2C** là phương tiện để người tiêu dùng bán hàng cho nhau. Trong thương mại điện tử C2C, người tiêu dùng chuẩn bị sản phẩm cho thị trường, đặt sản phẩm để bán đấu giá hoặc bán và dựa vào nhà tạo lập thị trường để cung cấp danh mục, công cụ tìm kiếm và khả năng thanh toán giao dịch để sản phẩm có thể dễ dàng được hiển thị, khám phá và được trả tiền.
+- **Thương mại điện tử xã hội** là thương mại điện tử được thực hiện bởi mạng xã hội và các mối quan hệ xã hội trực tuyến.
+- **Thương mại điện tử (M-commerce)** liên quan đến việc sử dụng các thiết bị kỹ thuật số không dây để thực hiện các giao dịch trực tuyến.
+- **Thương mại điện tử địa phương (Local e-commerce)** là một hình thức thương mại điện tử tập trung vào việc thu hút người tiêu dùng dựa trên vị trí địa lý hiện tại của họ.
+8. Tìm hiểu sự phát triển của thương mại điện tử
+9. Mô tả các chủ đề chính làm cơ sở cho việc nghiên cứu thương mại điện tử.
+10. Xác định các ngành học chính đóng góp cho thương mại điện tử.
 ## Bài 2: Hạ tầng cho thương mại điện tử
 - Internet: Nền tảng công nghệ
 - Cơ sở hạ tầng và truy cập Internet
