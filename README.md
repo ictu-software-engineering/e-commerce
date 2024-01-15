@@ -281,6 +281,28 @@ Các câu hỏi bạn phải hỏi và trả lời khi phát triển sự hiện
 - Ngoài mã hóa, còn có một số công cụ khác được sử dụng để bảo mật các kênh truyền thông Internet, bao gồm: Lớp cổng bảo mật (SSL)/Bảo mật lớp vận chuyển (TLS), mạng riêng ảo (VPN) và bảo mật không dây các tiêu chuẩn như WPA2.
 - Sau khi các kênh liên lạc được bảo mật, các công cụ bảo vệ mạng, máy chủ và máy khách cần được triển khai. Chúng bao gồm: tường lửa, proxy, hệ thống ngăn chặn và phát hiện xâm nhập (IDS/IDP), kiểm soát hệ điều hành và phần mềm chống vi-rút.
 
+4. Đánh giá cao tầm quan trọng của các chính sách, thủ tục và luật pháp trong việc tạo ra sự an toàn.
+
+- Để giảm thiểu các mối đe dọa bảo mật, các công ty thương mại điện tử phải phát triển chính sách doanh nghiệp mạch lạc, có tính đến bản chất của rủi ro, tài sản thông tin cần bảo vệ cũng như các quy trình và công nghệ cần thiết để giải quyết rủi ro, cũng như việc thực hiện và quản lý. các cơ chế kiểm toán.
+- Luật công và việc thực thi tích cực các đạo luật về tội phạm mạng cũng được yêu cầu để tăng chi phí cho các hành vi bất hợp pháp trên Internet và bảo vệ chống lại việc doanh nghiệp lạm dụng thông tin.
+- Các bước chính trong việc phát triển một kế hoạch bảo mật là:
+   - Thực hiện đánh giá rủi ro: đánh giá các rủi ro và điểm dễ bị tổn thương.
+   - Phát triển chính sách bảo mật: một tập hợp các tuyên bố ưu tiên các rủi ro thông tin, xác định các mục tiêu rủi ro có thể chấp nhận được và xác định các cơ chế để đạt được các mục tiêu này.
+   - Tạo một kế hoạch thực hiện: một kế hoạch xác định cách bạn sẽ chuyển các mức độ rủi ro có thể chấp nhận được thành một bộ công cụ, công nghệ, chính sách và thủ tục.
+   - Thành lập một nhóm bảo mật: những cá nhân sẽ chịu trách nhiệm bảo trì, kiểm tra và cải tiến liên tục.
+   - Thực hiện kiểm tra bảo mật định kỳ: đánh giá thường xuyên nhật ký truy cập và bất kỳ mô hình hoạt động bất thường nào.
+
+5. Xác định các hệ thống thanh toán thương mại điện tử chính được sử dụng hiện nay.
+- Các loại hệ thống thanh toán thương mại điện tử chính được sử dụng hiện nay bao gồm:
+   - Giao dịch thẻ tín dụng trực tuyến, là hình thức chính của hệ thống thanh toán trực tuyến. Có năm bên liên quan đến việc mua thẻ tín dụng trực tuyến: người tiêu dùng, người bán, cơ quan thanh toán bù trừ, ngân hàng thương mại (đôi khi được gọi là “ngân hàng mua lại”) và ngân hàng phát hành thẻ của người tiêu dùng. Tuy nhiên, hệ thống thẻ tín dụng trực tuyến có một số hạn chế liên quan đến bảo mật, rủi ro thương mại, chi phí và công bằng xã hội.
+   - PayPal, là một ví dụ về hệ thống thanh toán thay thế cho phép người tiêu dùng thực hiện thanh toán trực tuyến, tức thì cho người bán và các cá nhân khác dựa trên giá trị được lưu trữ trong tài khoản trực tuyến. Các ví dụ khác bao gồm Thanh toán bằng Amazon, Visa Checkout, MasterPass, Bill Me Later và WU Pay.
+   - Hệ thống thanh toán di động, sử dụng đầu đọc thẻ tín dụng được gắn vào điện thoại thông minh (Square, Pay-Pal Here) hoặc chip giao tiếp trường gần (NFC), cho phép thanh toán di động tại điểm bán hàng (Apple Pay, Android Pay và Samsung Chi trả).
+   - Tiền kỹ thuật số, chẳng hạn như Bitcoin và tiền ảo. Tiền kỹ thuật số ngày càng trở nên quan trọng và có thể được sử dụng để che giấu các khoản thanh toán khỏi chính quyền cũng như hỗ trợ trao đổi giá trị hợp pháp.
+
+6. Mô tả các tính năng và chức năng của hệ thống thanh toán và trình bày hóa đơn điện tử.
+- Hệ thống xuất trình và thanh toán hóa đơn điện tử (EBPP) là một dạng hệ thống thanh toán trực tuyến các hóa đơn hàng tháng. Dịch vụ EBPP cho phép người tiêu dùng xem hóa đơn điện tử và thanh toán chúng thông qua chuyển khoản điện tử từ tài khoản ngân hàng hoặc thẻ tín dụng.
+- Những người chơi chính trong không gian thị trường EBPP bao gồm: ngân hàng trực tuyến, hệ thống thanh toán trực tiếp, hệ thống thanh toán di động và tổ chức hợp nhất.
+
 ### Câu hỏi ôn tập
 1. Tại sao trộm cắp trực tuyến lại ít rủi ro hơn? Giải thích một số cách bọn tội phạm lừa dối người tiêu dùng và người bán.
 2. Giải thích lý do tại sao một trang web thương mại điện tử có thể không muốn báo cáo là mục tiêu của tội phạm mạng.
