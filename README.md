@@ -177,11 +177,32 @@ nội dung?
 ## Bài 4: Xây dựng sự hiện diện thương mại điện tử: Trang web, Trang web dành cho thiết bị di động và Ứng dụng
 ### Tóm tắt nội dung chính
 1. Hiểu các câu hỏi phải hỏi và trả lời cũng như các bước nên thực hiện để phát triển sự hiện diện thương mại điện tử.
+Các câu hỏi bạn phải hỏi và trả lời khi phát triển sự hiện diện thương mại điện tử bao gồm:
+• Tầm nhìn của bạn là gì và bạn hy vọng đạt được nó như thế nào?
+• Mô hình kinh doanh và doanh thu của bạn là gì?
+• Đối tượng mục tiêu là ai và ở đâu?
+• Đặc điểm của thị trường là gì?
+• Nội dung đến từ đâu?
+• Tiến hành phân tích SWOT.
+• Xây dựng bản đồ hiện diện thương mại điện tử.
+• Xây dựng một mốc thời gian.
+• Xây dựng ngân sách chi tiết.
 2. Giải thích quy trình cần tuân thủ trong việc xây dựng sự hiện diện thương mại điện tử.
-3. Xác định và hiểu những cân nhắc chính liên quan đến việc lựa chọn máy chủ web và phần mềm máy chủ thương mại điện tử.
-4. Hiểu các vấn đề liên quan đến việc lựa chọn phần cứng phù hợp nhất cho trang web thương mại điện tử.
-5. Xác định các công cụ bổ sung có thể cải thiện hiệu suất trang web.
-6. Hiểu những cân nhắc quan trọng liên quan đến việc phát triển trang web di động và xây dựng ứng dụng di động.
+- Các yếu tố bạn phải xem xét khi xây dựng một trang web thương mại điện tử bao gồm phần cứng, phần mềm, năng lực viễn thông, thiết kế trang web và nền tảng di động, nguồn nhân lực và khả năng tổ chức.
+- Vòng đời phát triển hệ thống (một phương pháp để hiểu mục tiêu kinh doanh của hệ thống và thiết kế giải pháp phù hợp) để xây dựng trang web thương mại điện tử bao gồm năm bước chính:
+  --> Xác định các mục tiêu kinh doanh cụ thể cho trang web và sau đó phát triển danh sách các chức năng hệ thống và yêu cầu thông tin.
+
+  --> Phát triển đặc tả thiết kế hệ thống (cả thiết kế logic và thiết kế vật lý).
+
+  --> Xây dựng địa điểm bằng nhân sự nội bộ hoặc bằng cách thuê toàn bộ hoặc một phần trách nhiệm của các nhà thầu bên ngoài.
+
+  --> Kiểm thử hệ thống (thử nghiệm đơn vị, thử nghiệm hệ thống, thử nghiệm chấp nhận, thử nghiệm A/B (tách) và thử nghiệm đa biến).
+  --> Thực hiện và duy trì trang web.
+3. 
+4. Xác định và hiểu những cân nhắc chính liên quan đến việc lựa chọn máy chủ web và phần mềm máy chủ thương mại điện tử.
+5. Hiểu các vấn đề liên quan đến việc lựa chọn phần cứng phù hợp nhất cho trang web thương mại điện tử.
+6. Xác định các công cụ bổ sung có thể cải thiện hiệu suất trang web.
+7. Hiểu những cân nhắc quan trọng liên quan đến việc phát triển trang web di động và xây dựng ứng dụng di động.
 ### Câu hỏi ôn tập
 1. Các yếu tố chính cần xem xét khi phát triển sự hiện diện thương mại điện tử là gì?
 2. Xác định vòng đời phát triển hệ thống và thảo luận các bước khác nhau liên quan đến việc tạo trang web thương mại điện tử.
@@ -197,22 +218,7 @@ nội dung?
 12. Tám yếu tố quan trọng nhất ảnh hưởng đến thiết kế trang web là gì và chúng ảnh hưởng đến hoạt động của trang web như thế nào?
 13. Java và JavaScript là gì? Họ đóng vai trò gì trong thiết kế trang web?
 14. Kể tên và mô tả ba phương pháp được sử dụng để đối xử với từng khách hàng. Tại sao chúng có ý nghĩa quan trọng đối với thương mại điện tử?
-1. Các yếu tố chính cần xem xét khi phát triển sự hiện diện thương mại điện tử là gì?
-2. Xác định vòng đời phát triển hệ thống và thảo luận các bước khác nhau liên quan đến việc tạo ra một
-trang web thương mại điện tử.
-3. Thảo luận về sự khác biệt giữa thiết kế trang web vật lý đơn giản và logic đơn giản.
-4. Tại sao kiểm thử hệ thống lại quan trọng? Kể tên các loại thử nghiệm và mối quan hệ của chúng với nhau.
-5. So sánh chi phí phát triển hệ thống và bảo trì hệ thống. Cái nào đắt hơn và
-Tại sao?
-6. Tại sao việc duy trì một trang web lại tốn kém đến vậy? Thảo luận về các yếu tố chính ảnh hưởng đến chi phí.
-7. Sự khác biệt chính giữa kiến trúc trang web một tầng và nhiều tầng là gì?
-8. Kể tên các chức năng cơ bản mà máy chủ web cần cung cấp.
-9. Các yếu tố chính cần cân nhắc khi chọn nền tảng phần cứng tốt nhất cho trang web của bạn là gì?
-10. Tại sao băng thông máy chủ web lại là vấn đề quan trọng đối với các trang thương mại điện tử?
-11. So sánh và đối chiếu các phương pháp chia tỷ lệ khác nhau. Giải thích tại sao khả năng mở rộng là vấn đề kinh doanh quan trọng đối với các trang web.
-12. Tám yếu tố quan trọng nhất ảnh hưởng đến thiết kế trang web là gì và chúng ảnh hưởng đến hoạt động của trang web như thế nào?
-13. Java và JavaScript là gì? Họ đóng vai trò gì trong thiết kế trang web?
-14. Kể tên và mô tả ba phương pháp được sử dụng để đối xử với từng khách hàng. Tại sao chúng có ý nghĩa quan trọng đối với thương mại điện tử?
+
 
 ## Bài 5: Chiến lược kinh doanh thương mại điện tử
 - Mô hình kinh doanh thương mại điện tử
