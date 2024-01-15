@@ -244,12 +244,35 @@ Các câu hỏi bạn phải hỏi và trả lời khi phát triển sự hiện
 14. Kể tên và mô tả ba phương pháp được sử dụng để đối xử với từng khách hàng. Tại sao chúng có ý nghĩa quan trọng đối với thương mại điện tử?
 
 
-## Bài 5: Chiến lược kinh doanh thương mại điện tử
-- Mô hình kinh doanh thương mại điện tử
-- Các mô hình kinh doanh chính từ doanh nghiệp đến người tiêu dùng (B2C)
-- Các mô hình kinh doanh chính giữa doanh nghiệp với doanh nghiệp (B2B)
-- Thương mại điện tử thay đổi hoạt động kinh doanh như thế nào: Chiến lược, cơ cấu và quy trình
-- Nghiên cứu điển hình: Câu lạc bộ Dollar Shave: Từ video lan truyền đến 1 tỷ USD chỉ sau 5 năm
+## Bài 5: Hệ thống thanh toán và bảo mật thương mại điện tử
+### Tóm tắt nội dung chính
+1. Hiểu phạm vi tội phạm thương mại điện tử và các vấn đề bảo mật, các khía cạnh chính của bảo mật thương mại điện tử và sự căng thẳng giữa bảo mật và các giá trị khác.
+   - Trong khi quy mô tổng thể của tội phạm mạng vẫn chưa rõ ràng, tội phạm mạng nhắm vào các trang thương mại điện tử đang gia tăng nhanh chóng, số lượng thiệt hại ngày càng tăng và ban quản lý các trang thương mại điện tử phải chuẩn bị cho nhiều cuộc tấn công tội phạm khác nhau.
+   - Có sáu khía cạnh chính đối với bảo mật thương mại điện tử: tính toàn vẹn, tính không chối bỏ, tính xác thực, tính bảo mật, quyền riêng tư và tính sẵn sàng.
+   - Mặc dù bảo mật máy tính được coi là cần thiết để bảo vệ hoạt động thương mại điện tử nhưng không phải là không có nhược điểm. Hai lĩnh vực chính có căng thẳng giữa hoạt động bảo mật và trang web là:
+   -    Dễ sử dụng—Càng nhiều biện pháp bảo mật được thêm vào một trang web thương mại điện tử thì trang web đó càng khó sử dụng và trang web càng trở nên chậm hơn, cản trở tính dễ sử dụng. Bảo mật được mua với cái giá là làm chậm bộ xử lý và tăng thêm đáng kể nhu cầu lưu trữ dữ liệu. Quá nhiều bảo mật có thể gây tổn hại đến lợi nhuận, trong khi không đủ có thể khiến công ty phá sản.
+  -    An toàn công cộng—Có sự mâu thuẫn giữa yêu cầu của các cá nhân về hành động ẩn danh và nhu cầu của các quan chức nhà nước nhằm duy trì an toàn công cộng có thể bị bọn tội phạm hoặc khủng bố đe dọa.
+### Câu hỏi ôn tập
+1. Tại sao trộm cắp trực tuyến lại ít rủi ro hơn? Giải thích một số cách bọn tội phạm lừa dối người tiêu dùng và người bán.
+2. Giải thích lý do tại sao một trang web thương mại điện tử có thể không muốn báo cáo là mục tiêu của tội phạm mạng.
+3. Đưa ra ví dụ về các vi phạm an ninh liên quan đến từng khía cạnh trong số sáu khía cạnh của an ninh thương mại điện tử. Ví dụ: sự cố về quyền riêng tư sẽ là gì?
+4. Bạn sẽ làm cách nào để bảo vệ công ty của mình trước cuộc tấn công Từ chối Dịch vụ?
+5. Nêu tên các điểm dễ bị tổn thương chính trong một giao dịch trực tuyến điển hình.
+6. Việc giả mạo đe dọa hoạt động của trang web như thế nào?
+7. Tại sao phần mềm quảng cáo hoặc phần mềm gián điệp được coi là mối đe dọa bảo mật?
+8. Một số bước mà công ty có thể thực hiện để hạn chế hoạt động tội phạm mạng từ bên trong doanh nghiệp là gì?
+9. Giải thích một số sai sót thời hiện đại liên quan đến mã hóa. Tại sao mã hóa ngày nay không an toàn như đầu thế kỷ này?
+10. Giải thích ngắn gọn cách thức hoạt động của mật mã khóa công khai.
+11. So sánh tường lửa và máy chủ proxy cũng như chức năng bảo mật của chúng.
+12. Máy tính cài phần mềm diệt virus có bảo vệ được khỏi virus không? Tại sao hoặc tại sao không?
+13. Xác định và thảo luận năm bước trong việc phát triển kế hoạch bảo mật thương mại điện tử.
+14. Thiết bị sinh trắc học giúp nâng cao tính bảo mật như thế nào? Họ giảm thiểu loại vi phạm an ninh cụ thể nào?
+15. Thảo luận ngắn gọn về những nhược điểm của thẻ tín dụng khi dùng làm tiêu chuẩn cho thanh toán trực tuyến. Việc yêu cầu thẻ tín dụng để thanh toán có phân biệt đối xử như thế nào đối với một số người tiêu dùng?
+16. Mô tả các bước chính trong giao dịch thẻ tín dụng trực tuyến.
+17. Tại sao Bitcoin lại gây tranh cãi đến vậy?
+18. NFC là gì và nó hoạt động như thế nào?
+19. Thảo luận tại sao hệ thống EBPP ngày càng trở nên phổ biến.
+20. Các loại hệ thống EBPP chính giống và khác nhau như thế nào?
 
 ## Bài 6: Tiếp thị và quảng cáo thương mại điện tử
 - Các chiến lược và công cụ tiếp thị và quảng cáo thương mại kỹ thuật số
