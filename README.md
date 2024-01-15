@@ -24,8 +24,20 @@ Có 06 loại thương mại điện tử chính:
 - **Thương mại điện tử (M-commerce)** liên quan đến việc sử dụng các thiết bị kỹ thuật số không dây để thực hiện các giao dịch trực tuyến.
 - **Thương mại điện tử địa phương (Local e-commerce)** là một hình thức thương mại điện tử tập trung vào việc thu hút người tiêu dùng dựa trên vị trí địa lý hiện tại của họ.
 8. Tìm hiểu sự phát triển của thương mại điện tử
+Thương mại điện tử đã trải qua ba giai đoạn: đổi mới, hợp nhất và tái tạo.
+
+- Những năm đầu của thương mại điện tử là một thành công về mặt công nghệ, với cơ sở hạ tầng kỹ thuật số được tạo ra trong thời kỳ này đủ vững chắc để duy trì sự tăng trưởng đáng kể về thương mại điện tử trong thập kỷ tiếp theo và thành công trong kinh doanh hỗn hợp, với mức tăng trưởng doanh thu và mức độ sử dụng đáng kể, nhưng tỷ suất lợi nhuận thấp.
+- Thương mại điện tử bước vào thời kỳ hợp nhất bắt đầu từ năm 2001 và kéo dài sang năm 2006.
+- Thương mại điện tử bước vào thời kỳ đổi mới vào năm 2007 với sự xuất hiện của nền tảng số di động, mạng xã hội và ứng dụng Web 2.0 đã thu hút lượng lớn người dùng trong thời gian rất ngắn.
+
 9. Mô tả các chủ đề chính làm cơ sở cho việc nghiên cứu thương mại điện tử.
-10. Xác định các ngành học chính đóng góp cho thương mại điện tử.
+Thương mại điện tử bao gồm ba chủ đề có liên quan chặt chẽ với nhau:
+
+- **Công nghệ:** Để hiểu thương mại điện tử, ta cần có hiểu biết cơ bản về công nghệ thông tin mà nó được xây dựng trên đó, bao gồm Internet, Web và nền tảng di động cũng như một loạt các công nghệ bổ sung như máy tính lớn, máy tính để bàn, điện thoại thông minh, máy tính bảng, mạng cục bộ, máy tính khách/máy chủ, truyền thông chuyển mạch gói, các giao thức như TCP/IP, máy chủ web, HTML và cơ sở dữ liệu quan hệ và phi quan hệ, cùng nhiều cơ sở dữ liệu khác.
+- **Kinh doanh**: Trong khi công nghệ cung cấp cơ sở hạ tầng, thì chính các ứng dụng kinh doanh tiềm năng mang lại lợi tức đầu tư đặc biệt, nhờ đó đã tạo ra sự quan tâm và hứng thú đối với thương mại điện tử. Do đó, ta cũng cần hiểu một số khái niệm kinh doanh chính như thị trường điện tử, hàng hóa thông tin, mô hình kinh doanh, chuỗi giá trị doanh nghiệp và ngành, cấu trúc ngành và hành vi của người tiêu dùng trong thị trường kỹ thuật số.
+- **Xã hội**: Hiểu được áp lực mà thương mại điện tử toàn cầu đặt lên xã hội đương đại là điều quan trọng để thành công trên thị trường thương mại điện tử. Các vấn đề xã hội chính là sở hữu trí tuệ, quyền riêng tư cá nhân và chính sách công.
+
+11. Xác định các ngành học chính đóng góp cho thương mại điện tử.
 ## Bài 2: Hạ tầng cho thương mại điện tử
 - Internet: Nền tảng công nghệ
 - Cơ sở hạ tầng và truy cập Internet
