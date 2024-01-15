@@ -62,6 +62,7 @@ Có hai cách tiếp cận chính đối với thương mại điện tử: kỹ
 17. Tại sao cần có cách tiếp cận đa ngành nếu muốn hiểu được thương mại điện tử?
 18. Một số vấn đề về quyền riêng tư mà Facebook đã tạo ra là gì?
 19. Những người theo phương pháp tiếp cận hành vi nghiên cứu thương mại điện tử quan tâm đến điều gì?
+
 ## Bài 2: Hạ tầng cho thương mại điện tử
 ### Tóm tắt nội dung chính
 1. Xác định các thành phần chính của mô hình kinh doanh thương mại điện tử.
@@ -121,15 +122,43 @@ Thương mại điện tử đã có tác động lớn đến môi trường ki
 18. Năm chiến lược kinh doanh chung để đạt được lợi nhuận trong kinh doanh là gì?
 19. Sự khác biệt giữa cơ hội thị trường và không gian thị trường là gì?
 20. Huy động vốn từ cộng đồng là gì và nó giúp các công ty thương mại điện tử huy động vốn như thế nào?
-## Bài 3: Xây dựng sự hiện diện của thương mại điện tử
-- Tưởng tượng sự hiện diện thương mại điện tử
-- Xây dựng sự hiện diện thương mại điện tử: Cách tiếp cận có hệ thống
-- Chọn phần mềm
-- Chọn phần cứng
-- Công cụ trang web thương mại điện tử khác
-- Phát triển trang web di động và xây dựng ứng dụng di động
-- Nghiên cứu điển hình: Đồ thể thao của Dick: Kiểm soát hoạt động thương mại điện tử
 
+## Bài 3: Cơ sở hạ tầng thương mại điện tử: Internet, Web và nền tảng di động
+### Tóm tắt nội dung chính
+1. Thảo luận về nguồn gốc và các khái niệm công nghệ chủ chốt đằng sau Internet.
+- Internet đã phát triển từ một tập hợp các máy tính lớn đặt tại một số trường đại học ở Hoa Kỳ thành một mạng được kết nối với nhau gồm hàng nghìn mạng và hàng triệu máy tính trên toàn thế giới.
+- Lịch sử của Internet có thể được chia thành ba giai đoạn: Giai đoạn Đổi mới (1961–1974), Giai đoạn Thể chế hóa (1975–1995) và Giai đoạn Thương mại hóa (1995 đến nay).
+- Chuyển mạch gói, TCP/IP và công nghệ máy khách/máy chủ là những khái niệm công nghệ then chốt đằng sau Internet.
+- Nền tảng di động đã trở thành phương tiện chính để truy cập Internet.
+- Điện toán đám mây đề cập đến một mô hình điện toán trong đó các công ty và cá nhân có được sức mạnh tính toán và ứng dụng phần mềm qua Internet, thay vì mua phần cứng và phần mềm rồi cài đặt trên máy tính của họ.
+- Các giao thức Internet và các chương trình tiện ích như BGP, HTTP, SMTP và POP, SSL và TLS, FTP, Telnet, Ping và Tracert cung cấp một số dịch vụ Internet.
+3. Giải thích cấu trúc hiện tại của Internet.
+4. Hiểu những hạn chế của Internet ngày nay và tiềm năng của Internet trong tương lai.
+5. Hiểu cách hoạt động của Web.
+6. Mô tả cách thức các tính năng và dịch vụ của Internet và web hỗ trợ thương mại điện tử.
+7. Hiểu tác động của ứng dụng di động.
+### Câu hỏi ôn tập
+1. Ba khối cơ bản của Internet là gì?
+2. Độ trễ là gì và nó ảnh hưởng đến hoạt động của Internet như thế nào?
+3. Giải thích cách chuyển mạch gói hoạt động.
+4. Giao thức TCP/IP liên quan đến việc truyền thông tin trên Internet như thế nào?
+5. Sự đổi mới công nghệ nào đã giúp cho việc tính toán máy khách/máy chủ trở nên khả thi?
+6. Điện toán đám mây là gì và nó tác động đến Internet như thế nào?
+7. Tại sao điện thoại thông minh là công nghệ đột phá?
+8. ISP cấp 1 đóng vai trò gì trong cơ sở hạ tầng Internet?
+9. IXP phục vụ chức năng gì?
+10. Mục tiêu của dự án Internet2 là gì?
+11. So sánh mạng nội bộ và Internet nói chung.
+12. Một số hạn chế chính của Internet ngày nay là gì?
+13. Một số thách thức của việc kiểm soát Internet là gì? Ai là người có tiếng nói cuối cùng khi nói đến
+nội dung?
+14. So sánh và đối chiếu khả năng của Wi-Fi và mạng không dây di động.
+15. Khả năng cơ bản của máy chủ web là gì?
+16. Những tiến bộ công nghệ quan trọng nào được dự đoán sẽ đi kèm với Internet trong tương lai? Thảo luận về tầm quan trọng của mỗi.
+17. Tại sao sự phát triển của trình duyệt lại có ý nghĩa quan trọng đối với sự phát triển của Web?
+18. HTML5 cung cấp những tiến bộ và tính năng gì?
+19. Kể tên và mô tả năm dịch vụ hiện có trên Web.
+20. Tại sao ứng dụng di động lại là xu hướng quan trọng tiếp theo?
 ## Bài 4: Hệ thống thanh toán và bảo mật thương mại điện tử
 - Môi trường bảo mật thương mại điện tử
 - Các mối đe dọa bảo mật trong môi trường thương mại điện tử
