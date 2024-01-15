@@ -100,6 +100,27 @@ Thương mại điện tử đã có tác động lớn đến môi trường ki
 - Chuỗi giá trị doanh nghiệp: tập hợp các hoạt động được thực hiện trong một doanh nghiệp riêng lẻ để tạo ra sản phẩm cuối cùng từ đầu vào thô bằng cách tăng hiệu quả hoạt động.
 - Chiến lược kinh doanh: một tập hợp các kế hoạch nhằm đạt được lợi nhuận dài hạn vượt trội trên vốn đầu tư vào một công ty bằng cách đưa ra những cách thức độc đáo để khác biệt hóa sản phẩm, đạt được lợi thế về chi phí, cạnh tranh toàn cầu hoặc cạnh tranh trong một thị trường hoặc phân khúc sản phẩm hẹp.
 
+### Câu hỏi ôn tập
+1. Mô hình kinh doanh là gì? Nó khác với một kế hoạch kinh doanh như thế nào?
+2. Tám thành phần chính của một mô hình kinh doanh hiệu quả là gì?
+3. Đề xuất giá trị khách hàng chính của Amazon là gì?
+4. Mô tả năm mô hình doanh thu chính được các công ty thương mại điện tử sử dụng.
+5. Tại sao việc nhắm mục tiêu vào một phân khúc thị trường thường thông minh hơn đối với nhà cung cấp cộng đồng so với việc nhắm mục tiêu vào một phân khúc thị trường lớn?
+6. Bạn cho rằng Amazon và eBay là đối thủ cạnh tranh trực tiếp hay gián tiếp? (Bạn có thể phải truy cập các trang web hoặc ứng dụng để trả lời.)
+7. Một số cách cụ thể mà công ty có thể đạt được lợi thế cạnh tranh là gì?
+8. Ngoài quảng cáo và thử sản phẩm, một số chiến lược thị trường khác mà công ty có thể theo đuổi là gì?
+9. Nhà đầu tư mạo hiểm khác nhà đầu tư thiên thần như thế nào?
+10. Tại sao khó phân loại các mô hình kinh doanh thương mại điện tử?
+11. Ngoài những ví dụ được đưa ra trong chương, còn có một số ví dụ nào khác về cổng dọc và cổng ngang đang tồn tại ngày nay?
+12. Sự khác biệt chính giữa mặt tiền cửa hàng ảo, chẳng hạn như Bluefly và hoạt động truyền thống, chẳng hạn như Walmart là gì? Ưu điểm và nhược điểm của mỗi loại là gì?
+13. Ngoài tin tức và bài viết, nhà cung cấp nội dung còn cung cấp những dạng thông tin hoặc nội dung nào khác?
+14. Đấu giá ngược là gì? Công ty nào là ví dụ về loại hình kinh doanh này?
+15. Các yếu tố thành công chính của sàn giao dịch là gì? Chúng khác với cổng thông tin như thế nào?
+16. Những nét độc đáo của công nghệ thương mại điện tử đã thay đổi cơ cấu ngành trong kinh doanh du lịch như thế nào?
+17. Ai là người chơi chính trong chuỗi giá trị ngành và họ bị tác động như thế nào bởi công nghệ thương mại điện tử?
+18. Năm chiến lược kinh doanh chung để đạt được lợi nhuận trong kinh doanh là gì?
+19. Sự khác biệt giữa cơ hội thị trường và không gian thị trường là gì?
+20. Huy động vốn từ cộng đồng là gì và nó giúp các công ty thương mại điện tử huy động vốn như thế nào?
 ## Bài 3: Xây dựng sự hiện diện của thương mại điện tử
 - Tưởng tượng sự hiện diện thương mại điện tử
 - Xây dựng sự hiện diện thương mại điện tử: Cách tiếp cận có hệ thống
