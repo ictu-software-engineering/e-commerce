@@ -247,11 +247,11 @@ Các câu hỏi bạn phải hỏi và trả lời khi phát triển sự hiện
 ## Bài 5: Hệ thống thanh toán và bảo mật thương mại điện tử
 ### Tóm tắt nội dung chính
 1. Hiểu phạm vi tội phạm thương mại điện tử và các vấn đề bảo mật, các khía cạnh chính của bảo mật thương mại điện tử và sự căng thẳng giữa bảo mật và các giá trị khác.
-   - Trong khi quy mô tổng thể của tội phạm mạng vẫn chưa rõ ràng, tội phạm mạng nhắm vào các trang thương mại điện tử đang gia tăng nhanh chóng, số lượng thiệt hại ngày càng tăng và ban quản lý các trang thương mại điện tử phải chuẩn bị cho nhiều cuộc tấn công tội phạm khác nhau.
-   - Có sáu khía cạnh chính đối với bảo mật thương mại điện tử: tính toàn vẹn, tính không chối bỏ, tính xác thực, tính bảo mật, quyền riêng tư và tính sẵn sàng.
-   - Mặc dù bảo mật máy tính được coi là cần thiết để bảo vệ hoạt động thương mại điện tử nhưng không phải là không có nhược điểm. Hai lĩnh vực chính có căng thẳng giữa hoạt động bảo mật và trang web là:
-   -    Dễ sử dụng—Càng nhiều biện pháp bảo mật được thêm vào một trang web thương mại điện tử thì trang web đó càng khó sử dụng và trang web càng trở nên chậm hơn, cản trở tính dễ sử dụng. Bảo mật được mua với cái giá là làm chậm bộ xử lý và tăng thêm đáng kể nhu cầu lưu trữ dữ liệu. Quá nhiều bảo mật có thể gây tổn hại đến lợi nhuận, trong khi không đủ có thể khiến công ty phá sản.
-  -    An toàn công cộng—Có sự mâu thuẫn giữa yêu cầu của các cá nhân về hành động ẩn danh và nhu cầu của các quan chức nhà nước nhằm duy trì an toàn công cộng có thể bị bọn tội phạm hoặc khủng bố đe dọa.
+- Trong khi quy mô tổng thể của tội phạm mạng vẫn chưa rõ ràng, tội phạm mạng nhắm vào các trang thương mại điện tử đang gia tăng nhanh chóng, số lượng thiệt hại ngày càng tăng và ban quản lý các trang thương mại điện tử phải chuẩn bị cho nhiều cuộc tấn công tội phạm khác nhau.
+- Có sáu khía cạnh chính đối với bảo mật thương mại điện tử: tính toàn vẹn, tính không chối bỏ, tính xác thực, tính bảo mật, quyền riêng tư và tính sẵn sàng.
+- Mặc dù bảo mật máy tính được coi là cần thiết để bảo vệ hoạt động thương mại điện tử nhưng không phải là không có nhược điểm. Hai lĩnh vực chính có căng thẳng giữa hoạt động bảo mật và trang web là:
+   - _Dễ sử dụng_: Càng nhiều biện pháp bảo mật được thêm vào một trang web thương mại điện tử thì trang web đó càng khó sử dụng và trang web càng trở nên chậm hơn, cản trở tính dễ sử dụng. Bảo mật được mua với cái giá là làm chậm bộ xử lý và tăng thêm đáng kể nhu cầu lưu trữ dữ liệu. Quá nhiều bảo mật có thể gây tổn hại đến lợi nhuận, trong khi không đủ có thể khiến công ty phá sản.
+   - _An toàn công cộng_: Có sự mâu thuẫn giữa yêu cầu của các cá nhân về hành động ẩn danh và nhu cầu của các quan chức nhà nước nhằm duy trì an toàn công cộng có thể bị bọn tội phạm hoặc khủng bố đe dọa.
 ### Câu hỏi ôn tập
 1. Tại sao trộm cắp trực tuyến lại ít rủi ro hơn? Giải thích một số cách bọn tội phạm lừa dối người tiêu dùng và người bán.
 2. Giải thích lý do tại sao một trang web thương mại điện tử có thể không muốn báo cáo là mục tiêu của tội phạm mạng.
