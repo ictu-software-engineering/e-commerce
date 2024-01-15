@@ -133,10 +133,25 @@ Thương mại điện tử đã có tác động lớn đến môi trường ki
 - Điện toán đám mây đề cập đến một mô hình điện toán trong đó các công ty và cá nhân có được sức mạnh tính toán và ứng dụng phần mềm qua Internet, thay vì mua phần cứng và phần mềm rồi cài đặt trên máy tính của họ.
 - Các giao thức Internet và các chương trình tiện ích như BGP, HTTP, SMTP và POP, SSL và TLS, FTP, Telnet, Ping và Tracert cung cấp một số dịch vụ Internet.
 3. Giải thích cấu trúc hiện tại của Internet.
+- Các thành phần cấu trúc chính của Internet là đường trục (bao gồm chủ yếu là cáp quang băng thông cao), IXP (trung tâm sử dụng máy tính chuyển mạch tốc độ cao để kết nối với đường trục), CAN (mạng khu vực trường học/công ty) và ISP (liên quan đến dịch vụ “dặm cuối” đến nhà và văn phòng).
+- Các cơ quan quản lý như IAB, ICANN, IESG, IETF, ISOC và W3C có ảnh hưởng trên Internet và giám sát hoạt động của nó, mặc dù họ không kiểm soát nó.
 4. Hiểu những hạn chế của Internet ngày nay và tiềm năng của Internet trong tương lai.
+  - Để hình dung Internet ngày mai sẽ như thế nào, trước tiên chúng ta phải xem xét những hạn chế của Internet ngày nay, bao gồm các hạn chế về băng thông, hạn chế về chất lượng dịch vụ, hạn chế về kiến trúc mạng, hạn chế về ngôn ngữ và các hạn chế phát sinh từ tính chất có dây của mạng Internet.
+- Internet2 là một tập đoàn làm việc cùng nhau để phát triển và thử nghiệm các công nghệ mới có tiềm năng sử dụng trên Internet. Các nhóm khác đang nỗ lực mở rộng băng thông Internet thông qua cải tiến cáp quang. Công nghệ không dây và di động đang cung cấp cho người dùng thiết bị di động khả năng truy cập Internet và các dịch vụ khác nhau ngày càng tăng. Băng thông tăng lên và kết nối được mở rộng sẽ mang lại một số lợi ích, bao gồm các giải pháp về độ trễ; mức độ dịch vụ được đảm bảo; tỷ lệ lỗi thấp hơn; và chi phí giảm dần. Internet of Things sẽ là một phần quan trọng của Internet trong tương lai, với ngày càng nhiều máy móc và thiết bị được trang bị cảm biến kết nối với Internet.
 5. Hiểu cách hoạt động của Web.
+  - Web được phát triển trong thời gian 1989–1991 bởi Tiến sĩ Tim Berners-Lee, người đã tạo ra một chương trình máy tính cho phép các trang được định dạng được lưu trữ trên Internet được liên kết bằng cách sử dụng từ khóa (siêu liên kết). Năm 1993, Marc Andreessen đã tạo ra trình duyệt web đồ họa đầu tiên, cho phép xem các tài liệu trên Web bằng đồ họa và tạo ra khả năng tính toán phổ quát.
+- Các khái niệm chính bạn cần làm quen để hiểu cách thức hoạt động của Web là siêu văn bản, HTTP, URL, HTML, XML, phần mềm máy chủ web, máy khách web và trình duyệt web.
 6. Mô tả cách thức các tính năng và dịch vụ của Internet và web hỗ trợ thương mại điện tử.
+  - Cùng với nhau, Internet và Web làm cho thương mại điện tử trở nên khả thi bằng cách cho phép người dùng máy tính truy cập thông tin sản phẩm và dịch vụ cũng như hoàn tất mua hàng trực tuyến.
+- Một số tính năng cụ thể hỗ trợ thương mại điện tử bao gồm các công cụ giao tiếp như e-mail, ứng dụng nhắn tin, bảng tin trực tuyến, điện thoại Internet, hội nghị truyền hình, trò chuyện video và hiện diện từ xa; công cụ tìm kiếm; và phương tiện truyền thông có thể tải xuống và phát trực tuyến.
+- Các ứng dụng và dịch vụ Web 2.0 bao gồm mạng xã hội, blog và wiki.
+- Công nghệ thực tế ảo, thực tế tăng cường và trí tuệ nhân tạo đã bắt đầu thâm nhập thị trường tiêu dùng và thu hút được sự chú ý đáng kể.
 7. Hiểu tác động của ứng dụng di động.
+- Hiện tượng ứng dụng di động đã tạo ra một hệ sinh thái kỹ thuật số mới.
+- Người dùng điện thoại thông minh và máy tính bảng dành phần lớn thời gian của họ để sử dụng các ứng dụng di động thay vì Web di động.
+- Có nhiều nền tảng khác nhau để phát triển ứng dụng di động bao gồm Objective-C (dành cho thiết bị iOS), Java (điện thoại thông minh Android) và C và C++ (thiết bị di động Windows).
+- Ứng dụng di động dành cho iPhone được phân phối thông qua App Store của Apple, dành cho thiết bị Android thông qua Google Play và dành cho thiết bị di động Windows thông qua Windows Phone Marketplace của Microsoft. Ngoài ra còn có các nhà cung cấp bên thứ ba như Appstore của Amazon.
+
 ### Câu hỏi ôn tập
 1. Ba khối cơ bản của Internet là gì?
 2. Độ trễ là gì và nó ảnh hưởng đến hoạt động của Internet như thế nào?
