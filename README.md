@@ -1,6 +1,7 @@
 # THƯƠNG MẠI ĐIỆN TỬ
 
 ## Bài 1: Giới thiệu về thương mại điện tử
+### Tóm tắt nội dung chính
 1. **Tầm quan trọng của thương mại điện tử**: Năm năm tiếp theo mang đến những cơ hội thú vị—cũng như rủi ro—cho các doanh nghiệp mới và truyền thống khai thác công nghệ kỹ thuật số để giành lợi thế thị trường. Điều quan trọng là phải nghiên cứu thương mại điện tử để có thể nhận thức và hiểu được những cơ hội và rủi ro đang ở phía trước.
 2. Các khái niệm, định nghĩa
    - **Thương mại điện tử (e-commerce)** liên quan đến các giao dịch thương mại được thực hiện bằng kỹ thuật số giữa và giữa các tổ chức và cá nhân.
@@ -41,8 +42,28 @@ Thương mại điện tử bao gồm ba chủ đề có liên quan chặt chẽ
 Có hai cách tiếp cận chính đối với thương mại điện tử: kỹ thuật và hành vi. Mỗi cách tiếp cận này được đại diện bởi một số ngành học thuật.
 - Về mặt kỹ thuật, nó bao gồm khoa học máy tính, quản lý vận hành và hệ thống thông tin.
 - Về mặt hành vi, nó bao gồm các hệ thống thông tin cũng như xã hội học, kinh tế, tài chính kế toán, quản lý và tiếp thị.
-
+### Câu hỏi ôn tập
+1. Thương mại điện tử là gì? Nó khác với kinh doanh điện tử như thế nào? Nó giao nhau với kinh doanh điện tử ở đâu?
+2. Thông tin bất cân xứng là gì?
+3. Một số tính năng độc đáo của công nghệ thương mại điện tử là gì?
+4. Không gian thị trường là gì?
+5. Ba lợi ích của tiêu chuẩn phổ quát là gì?
+6. So sánh giao dịch trực tuyến và truyền thống về mức độ phong phú.
+7. Kể tên ba hậu quả kinh doanh có thể xảy ra do tăng mật độ thông tin.
+8. Web 2.0 là gì? Đưa ra ví dụ về các trang Web 2.0 và giải thích lý do bạn đưa chúng vào danh sách của mình.
+9. Đưa ra ví dụ về B2C, B2B, C2C và thương mại điện tử xã hội, di động và địa phương bên cạnh những ví dụ được liệt kê trong tài liệu của chương.
+10. Các công nghệ thương mại điện tử giống hoặc khác nhau như thế nào so với các công nghệ khác đã làm thay đổi thương mại trong quá khứ?
+11. Mô tả ba giai đoạn khác nhau trong quá trình phát triển của thương mại điện tử.
+12. Định nghĩa việc loại bỏ trung gian và giải thích lợi ích của hiện tượng đó đối với người sử dụng Internet. Việc loại bỏ trung gian tác động như thế nào đến thương mại không có xung đột?
+13. Một số ưu điểm và nhược điểm chính của việc là người đi đầu là gì?
+14. Hiệu ứng mạng là gì và tại sao nó có giá trị?
+15. Thảo luận xem những năm đầu của thương mại điện tử có thể được coi là thành công hay thất bại như thế nào.
+16. Năm điểm khác biệt chính giữa những năm đầu của thương mại điện tử và thương mại điện tử ngày nay là gì?
+17. Tại sao cần có cách tiếp cận đa ngành nếu muốn hiểu được thương mại điện tử?
+18. Một số vấn đề về quyền riêng tư mà Facebook đã tạo ra là gì?
+19. Những người theo phương pháp tiếp cận hành vi nghiên cứu thương mại điện tử quan tâm đến điều gì?
 ## Bài 2: Hạ tầng cho thương mại điện tử
+### Tóm tắt nội dung chính
 - Internet: Nền tảng công nghệ
 - Cơ sở hạ tầng và truy cập Internet
 - Trang web
