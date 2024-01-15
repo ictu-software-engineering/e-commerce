@@ -164,8 +164,7 @@ Thương mại điện tử đã có tác động lớn đến môi trường ki
 10. Mục tiêu của dự án Internet2 là gì?
 11. So sánh mạng nội bộ và Internet nói chung.
 12. Một số hạn chế chính của Internet ngày nay là gì?
-13. Một số thách thức của việc kiểm soát Internet là gì? Ai là người có tiếng nói cuối cùng khi nói đến
-nội dung?
+13. Một số thách thức của việc kiểm soát Internet là gì? Ai là người có tiếng nói cuối cùng khi nói đến nội dung?
 14. So sánh và đối chiếu khả năng của Wi-Fi và mạng không dây di động.
 15. Khả năng cơ bản của máy chủ web là gì?
 16. Những tiến bộ công nghệ quan trọng nào được dự đoán sẽ đi kèm với Internet trong tương lai? Thảo luận về tầm quan trọng của mỗi.
@@ -178,18 +177,19 @@ nội dung?
 ### Tóm tắt nội dung chính
 1. Hiểu các câu hỏi phải hỏi và trả lời cũng như các bước nên thực hiện để phát triển sự hiện diện thương mại điện tử.
 Các câu hỏi bạn phải hỏi và trả lời khi phát triển sự hiện diện thương mại điện tử bao gồm:
-• Tầm nhìn của bạn là gì và bạn hy vọng đạt được nó như thế nào?
-• Mô hình kinh doanh và doanh thu của bạn là gì?
-• Đối tượng mục tiêu là ai và ở đâu?
-• Đặc điểm của thị trường là gì?
-• Nội dung đến từ đâu?
-• Tiến hành phân tích SWOT.
-• Xây dựng bản đồ hiện diện thương mại điện tử.
-• Xây dựng một mốc thời gian.
-• Xây dựng ngân sách chi tiết.
+- Tầm nhìn của bạn là gì và bạn hy vọng đạt được nó như thế nào?
+- Mô hình kinh doanh và doanh thu của bạn là gì?
+- Đối tượng mục tiêu là ai và ở đâu?
+- Đặc điểm của thị trường là gì?
+- Nội dung đến từ đâu?
+- Tiến hành phân tích SWOT.
+- Xây dựng bản đồ hiện diện thương mại điện tử.
+- Xây dựng một mốc thời gian.
+- Xây dựng ngân sách chi tiết.
 2. Giải thích quy trình cần tuân thủ trong việc xây dựng sự hiện diện thương mại điện tử.
 - Các yếu tố bạn phải xem xét khi xây dựng một trang web thương mại điện tử bao gồm phần cứng, phần mềm, năng lực viễn thông, thiết kế trang web và nền tảng di động, nguồn nhân lực và khả năng tổ chức.
 - Vòng đời phát triển hệ thống (một phương pháp để hiểu mục tiêu kinh doanh của hệ thống và thiết kế giải pháp phù hợp) để xây dựng trang web thương mại điện tử bao gồm năm bước chính:
+
   --> Xác định các mục tiêu kinh doanh cụ thể cho trang web và sau đó phát triển danh sách các chức năng hệ thống và yêu cầu thông tin.
 
   --> Phát triển đặc tả thiết kế hệ thống (cả thiết kế logic và thiết kế vật lý).
@@ -197,12 +197,36 @@ Các câu hỏi bạn phải hỏi và trả lời khi phát triển sự hiện
   --> Xây dựng địa điểm bằng nhân sự nội bộ hoặc bằng cách thuê toàn bộ hoặc một phần trách nhiệm của các nhà thầu bên ngoài.
 
   --> Kiểm thử hệ thống (thử nghiệm đơn vị, thử nghiệm hệ thống, thử nghiệm chấp nhận, thử nghiệm A/B (tách) và thử nghiệm đa biến).
+  
   --> Thực hiện và duy trì trang web.
-3. 
-4. Xác định và hiểu những cân nhắc chính liên quan đến việc lựa chọn máy chủ web và phần mềm máy chủ thương mại điện tử.
-5. Hiểu các vấn đề liên quan đến việc lựa chọn phần cứng phù hợp nhất cho trang web thương mại điện tử.
-6. Xác định các công cụ bổ sung có thể cải thiện hiệu suất trang web.
-7. Hiểu những cân nhắc quan trọng liên quan đến việc phát triển trang web di động và xây dựng ứng dụng di động.
+- Các chức năng hệ thống và kinh doanh cơ bản mà một trang web thương mại điện tử nên có bao gồm danh mục kỹ thuật số, cơ sở dữ liệu sản phẩm, theo dõi khách hàng, giỏ hàng/hệ thống thanh toán, blog tại chỗ, cơ sở dữ liệu khách hàng, máy chủ quảng cáo, theo dõi trang web, báo cáo hệ thống và hệ thống quản lý hàng tồn kho.
+- Ưu điểm của việc xây dựng địa điểm nội bộ bao gồm khả năng thay đổi và điều chỉnh địa điểm nhanh chóng theo yêu cầu của thị trường và khả năng xây dựng địa điểm thực hiện chính xác những gì công ty cần.
+- Nhược điểm của việc xây dựng địa điểm nội bộ bao gồm chi phí cao hơn, rủi ro thất bại cao hơn, quy trình tốn nhiều thời gian hơn và thời gian học tập của nhân viên dài hơn khiến thời gian đưa ra thị trường bị trì hoãn.
+- Việc sử dụng các mẫu thiết kế giúp giảm thời gian phát triển nhưng các mẫu cài sẵn cũng có thể hạn chế chức năng.
+- Một quyết định tương tự cũng cần thiết liên quan đến việc thuê ngoài việc lưu trữ trang web so với việc giữ nó trong nội bộ. Việc dựa vào nhà cung cấp bên ngoài đặt gánh nặng về độ tin cậy lên người khác để đổi lấy phí lưu trữ hàng tháng. Nhược điểm là nếu trang web yêu cầu nâng cấp nhanh do lưu lượng truy cập lớn, công ty lưu trữ được chọn có thể có hoặc không có khả năng theo kịp. Độ tin cậy so với khả năng mở rộng là vấn đề trong trường hợp này.
+
+3. Xác định và hiểu những cân nhắc chính liên quan đến việc lựa chọn máy chủ web và phần mềm máy chủ thương mại điện tử.
+- Các trang web ban đầu sử dụng kiến trúc hệ thống một tầng và bao gồm một máy tính có một máy chủ duy nhất cung cấp các trang web tĩnh cho người dùng thực hiện yêu cầu thông qua trình duyệt của họ. Chức năng mở rộng của các trang web ngày nay yêu cầu phát triển kiến trúc hệ thống nhiều tầng, sử dụng nhiều máy chủ web chuyên dụng, cũng như liên kết đến cơ sở dữ liệu công ty cũ hoặc phụ trợ có sẵn.
+- Tất cả các trang thương mại điện tử đều yêu cầu phần mềm máy chủ web cơ bản để trả lời các yêu cầu của khách hàng về các trang HTML và XML. Khi chọn phần mềm máy chủ web, các công ty cũng đang chọn hệ điều hành mà trang web sẽ chạy. Apache, chạy trên hệ thống Unix, là công ty dẫn đầu thị trường.
+- Máy chủ web cung cấp nhiều dịch vụ, bao gồm xử lý các yêu cầu HTML của người dùng, dịch vụ bảo mật, truyền tệp, công cụ tìm kiếm, thu thập dữ liệu, e-mail và các công cụ quản lý trang web.
+- Phần mềm máy chủ động cho phép các trang web cung cấp nội dung động thay vì thông tin tĩnh, không thay đổi. Các chương trình máy chủ ứng dụng web cho phép thực hiện nhiều chức năng thương mại điện tử, bao gồm tạo cơ sở dữ liệu khách hàng, tạo chương trình quảng cáo qua e-mail, chấp nhận và xử lý đơn đặt hàng cũng như nhiều dịch vụ khác.
+- Phần mềm máy chủ thương mại điện tử là một gói phần mềm quan trọng khác cung cấp khả năng hiển thị danh mục, lưu trữ thông tin và theo dõi khách hàng, nhận đơn đặt hàng (giỏ hàng) và xử lý mua hàng bằng thẻ tín dụng. Nền tảng phần mềm thương mại điện tử có thể tiết kiệm thời gian và tiền bạc, nhưng việc tùy chỉnh có thể làm tăng chi phí đáng kể. Các yếu tố cần xem xét khi chọn nền tảng phần mềm thương mại điện tử bao gồm chức năng, hỗ trợ cho các mô hình kinh doanh khác nhau, công cụ quản lý trang web trực quan và hệ thống báo cáo, hiệu suất và khả năng mở rộng, khả năng kết nối với hệ thống kinh doanh hiện tại, tuân thủ các tiêu chuẩn và khả năng toàn cầu và đa văn hóa.
+
+4. Hiểu các vấn đề liên quan đến việc lựa chọn phần cứng phù hợp nhất cho trang web thương mại điện tử.
+- Tốc độ, dung lượng và khả năng mở rộng là ba trong số những yếu tố quan trọng nhất cần cân nhắc khi lựa chọn hệ điều hành và phần cứng mà nó chạy trên đó.
+- Để đánh giá tốc độ của trang web, các công ty cần đánh giá số lượng người dùng đồng thời mà trang web mong đợi, tính chất yêu cầu của họ, loại thông tin được yêu cầu và băng thông có sẵn cho trang web. Câu trả lời cho những câu hỏi này sẽ cung cấp hướng dẫn về bộ xử lý cần thiết để đáp ứng nhu cầu của khách hàng. Trong một số trường hợp, sức mạnh xử lý bổ sung có thể tăng công suất, từ đó cải thiện tốc độ hệ thống.
+- Khả năng mở rộng cũng là một vấn đề quan trọng. Việc tăng nguồn cung xử lý bằng cách mở rộng quy mô để đáp ứng nhu cầu có thể được thực hiện thông qua mở rộng quy mô theo chiều dọc hoặc chiều ngang hoặc bằng cách cải thiện kiến trúc xử lý.
+
+5. Xác định các công cụ bổ sung có thể cải thiện hiệu suất trang web.
+- Ngoài việc cung cấp một trang web nhanh chóng, các công ty cũng phải cố gắng có một trang web được thiết kế tốt để khuyến khích khách truy cập mua hàng. Xây dựng tính tương tác sẽ cải thiện hiệu quả của trang web cũng như các kỹ thuật cá nhân hóa.
+- Các công cụ phần mềm thường được sử dụng để đạt được mức độ tương tác cao trên trang web và cá nhân hóa khách hàng bao gồm tập lệnh Giao diện cổng chung (CGI), Trang máy chủ hoạt động (ASP) và ASP.NET, ứng dụng Java, JavaScript, ActiveX và VBScript, Ajax, PHP, Ruby on Rails (RoR hoặc Rails) và Django.
+
+6. Hiểu những cân nhắc quan trọng liên quan đến việc phát triển trang web di động và xây dựng ứng dụng di động.
+- Khi phát triển sự hiện diện trên thiết bị di động, điều quan trọng là phải hiểu sự khác biệt giữa trang web dành cho thiết bị di động, ứng dụng web dành cho thiết bị di động, ứng dụng gốc và ứng dụng kết hợp.
+- Bước đầu tiên là xác định mục tiêu kinh doanh vì chúng giúp xác định loại hình hiện diện trên thiết bị di động nào là tốt nhất.
+- Thiết kế nên tính đến những hạn chế của nền tảng di động. Các xu hướng gần đây bao gồm thiết kế ưu tiên thiết bị di động, thiết kế web đáp ứng và phân phối web thích ứng.
+- Phát triển một trang web di động có thể là lựa chọn ít tốn kém nhất; ứng dụng web di động đòi hỏi nhiều nỗ lực và chi phí hơn; Các ứng dụng gốc có thể sẽ tốn kém nhất để phát triển.
+
 ### Câu hỏi ôn tập
 1. Các yếu tố chính cần xem xét khi phát triển sự hiện diện thương mại điện tử là gì?
 2. Xác định vòng đời phát triển hệ thống và thảo luận các bước khác nhau liên quan đến việc tạo trang web thương mại điện tử.
