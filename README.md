@@ -33,7 +33,6 @@ Thương mại điện tử đã trải qua ba giai đoạn: đổi mới, hợp
 
 9. Mô tả các chủ đề chính làm cơ sở cho việc nghiên cứu thương mại điện tử.
 Thương mại điện tử bao gồm ba chủ đề có liên quan chặt chẽ với nhau:
-
 - **Công nghệ:** Để hiểu thương mại điện tử, ta cần có hiểu biết cơ bản về công nghệ thông tin mà nó được xây dựng trên đó, bao gồm Internet, Web và nền tảng di động cũng như một loạt các công nghệ bổ sung như máy tính lớn, máy tính để bàn, điện thoại thông minh, máy tính bảng, mạng cục bộ, máy tính khách/máy chủ, truyền thông chuyển mạch gói, các giao thức như TCP/IP, máy chủ web, HTML và cơ sở dữ liệu quan hệ và phi quan hệ, cùng nhiều cơ sở dữ liệu khác.
 - **Kinh doanh**: Trong khi công nghệ cung cấp cơ sở hạ tầng, thì chính các ứng dụng kinh doanh tiềm năng mang lại lợi tức đầu tư đặc biệt, nhờ đó đã tạo ra sự quan tâm và hứng thú đối với thương mại điện tử. Do đó, ta cũng cần hiểu một số khái niệm kinh doanh chính như thị trường điện tử, hàng hóa thông tin, mô hình kinh doanh, chuỗi giá trị doanh nghiệp và ngành, cấu trúc ngành và hành vi của người tiêu dùng trong thị trường kỹ thuật số.
 - **Xã hội**: Hiểu được áp lực mà thương mại điện tử toàn cầu đặt lên xã hội đương đại là điều quan trọng để thành công trên thị trường thương mại điện tử. Các vấn đề xã hội chính là sở hữu trí tuệ, quyền riêng tư cá nhân và chính sách công.
@@ -132,21 +131,21 @@ Thương mại điện tử đã có tác động lớn đến môi trường ki
 - Nền tảng di động đã trở thành phương tiện chính để truy cập Internet.
 - Điện toán đám mây đề cập đến một mô hình điện toán trong đó các công ty và cá nhân có được sức mạnh tính toán và ứng dụng phần mềm qua Internet, thay vì mua phần cứng và phần mềm rồi cài đặt trên máy tính của họ.
 - Các giao thức Internet và các chương trình tiện ích như BGP, HTTP, SMTP và POP, SSL và TLS, FTP, Telnet, Ping và Tracert cung cấp một số dịch vụ Internet.
-3. Giải thích cấu trúc hiện tại của Internet.
+2. Giải thích cấu trúc hiện tại của Internet.
 - Các thành phần cấu trúc chính của Internet là đường trục (bao gồm chủ yếu là cáp quang băng thông cao), IXP (trung tâm sử dụng máy tính chuyển mạch tốc độ cao để kết nối với đường trục), CAN (mạng khu vực trường học/công ty) và ISP (liên quan đến dịch vụ “dặm cuối” đến nhà và văn phòng).
 - Các cơ quan quản lý như IAB, ICANN, IESG, IETF, ISOC và W3C có ảnh hưởng trên Internet và giám sát hoạt động của nó, mặc dù họ không kiểm soát nó.
-4. Hiểu những hạn chế của Internet ngày nay và tiềm năng của Internet trong tương lai.
+3. Hiểu những hạn chế của Internet ngày nay và tiềm năng của Internet trong tương lai.
   - Để hình dung Internet ngày mai sẽ như thế nào, trước tiên chúng ta phải xem xét những hạn chế của Internet ngày nay, bao gồm các hạn chế về băng thông, hạn chế về chất lượng dịch vụ, hạn chế về kiến trúc mạng, hạn chế về ngôn ngữ và các hạn chế phát sinh từ tính chất có dây của mạng Internet.
 - Internet2 là một tập đoàn làm việc cùng nhau để phát triển và thử nghiệm các công nghệ mới có tiềm năng sử dụng trên Internet. Các nhóm khác đang nỗ lực mở rộng băng thông Internet thông qua cải tiến cáp quang. Công nghệ không dây và di động đang cung cấp cho người dùng thiết bị di động khả năng truy cập Internet và các dịch vụ khác nhau ngày càng tăng. Băng thông tăng lên và kết nối được mở rộng sẽ mang lại một số lợi ích, bao gồm các giải pháp về độ trễ; mức độ dịch vụ được đảm bảo; tỷ lệ lỗi thấp hơn; và chi phí giảm dần. Internet of Things sẽ là một phần quan trọng của Internet trong tương lai, với ngày càng nhiều máy móc và thiết bị được trang bị cảm biến kết nối với Internet.
-5. Hiểu cách hoạt động của Web.
+4. Hiểu cách hoạt động của Web.
   - Web được phát triển trong thời gian 1989–1991 bởi Tiến sĩ Tim Berners-Lee, người đã tạo ra một chương trình máy tính cho phép các trang được định dạng được lưu trữ trên Internet được liên kết bằng cách sử dụng từ khóa (siêu liên kết). Năm 1993, Marc Andreessen đã tạo ra trình duyệt web đồ họa đầu tiên, cho phép xem các tài liệu trên Web bằng đồ họa và tạo ra khả năng tính toán phổ quát.
 - Các khái niệm chính bạn cần làm quen để hiểu cách thức hoạt động của Web là siêu văn bản, HTTP, URL, HTML, XML, phần mềm máy chủ web, máy khách web và trình duyệt web.
-6. Mô tả cách thức các tính năng và dịch vụ của Internet và web hỗ trợ thương mại điện tử.
+5. Mô tả cách thức các tính năng và dịch vụ của Internet và web hỗ trợ thương mại điện tử.
   - Cùng với nhau, Internet và Web làm cho thương mại điện tử trở nên khả thi bằng cách cho phép người dùng máy tính truy cập thông tin sản phẩm và dịch vụ cũng như hoàn tất mua hàng trực tuyến.
 - Một số tính năng cụ thể hỗ trợ thương mại điện tử bao gồm các công cụ giao tiếp như e-mail, ứng dụng nhắn tin, bảng tin trực tuyến, điện thoại Internet, hội nghị truyền hình, trò chuyện video và hiện diện từ xa; công cụ tìm kiếm; và phương tiện truyền thông có thể tải xuống và phát trực tuyến.
 - Các ứng dụng và dịch vụ Web 2.0 bao gồm mạng xã hội, blog và wiki.
 - Công nghệ thực tế ảo, thực tế tăng cường và trí tuệ nhân tạo đã bắt đầu thâm nhập thị trường tiêu dùng và thu hút được sự chú ý đáng kể.
-7. Hiểu tác động của ứng dụng di động.
+6. Hiểu tác động của ứng dụng di động.
 - Hiện tượng ứng dụng di động đã tạo ra một hệ sinh thái kỹ thuật số mới.
 - Người dùng điện thoại thông minh và máy tính bảng dành phần lớn thời gian của họ để sử dụng các ứng dụng di động thay vì Web di động.
 - Có nhiều nền tảng khác nhau để phát triển ứng dụng di động bao gồm Objective-C (dành cho thiết bị iOS), Java (điện thoại thông minh Android) và C và C++ (thiết bị di động Windows).
@@ -174,15 +173,46 @@ nội dung?
 18. HTML5 cung cấp những tiến bộ và tính năng gì?
 19. Kể tên và mô tả năm dịch vụ hiện có trên Web.
 20. Tại sao ứng dụng di động lại là xu hướng quan trọng tiếp theo?
-## Bài 4: Hệ thống thanh toán và bảo mật thương mại điện tử
-- Môi trường bảo mật thương mại điện tử
-- Các mối đe dọa bảo mật trong môi trường thương mại điện tử
-- Cái nhìn sâu sắc về xã hội: Vụ vi phạm dữ liệu của Marriott
-- Giải pháp công nghệ
-- Chính sách quản lý, thủ tục kinh doanh và luật công
-- Hệ thống thanh toán thương mại điện tử
-- Thanh toán hóa đơn điện tử
-- Nghiên cứu điển hình: Alipay và WeChat Pay dẫn đầu trong thanh toán di động
+
+## Bài 4: Xây dựng sự hiện diện thương mại điện tử: Trang web, Trang web dành cho thiết bị di động và Ứng dụng
+### Tóm tắt nội dung chính
+1. Hiểu các câu hỏi phải hỏi và trả lời cũng như các bước nên thực hiện để phát triển sự hiện diện thương mại điện tử.
+2. Giải thích quy trình cần tuân thủ trong việc xây dựng sự hiện diện thương mại điện tử.
+3. Xác định và hiểu những cân nhắc chính liên quan đến việc lựa chọn máy chủ web và phần mềm máy chủ thương mại điện tử.
+4. Hiểu các vấn đề liên quan đến việc lựa chọn phần cứng phù hợp nhất cho trang web thương mại điện tử.
+5. Xác định các công cụ bổ sung có thể cải thiện hiệu suất trang web.
+6. Hiểu những cân nhắc quan trọng liên quan đến việc phát triển trang web di động và xây dựng ứng dụng di động.
+### Câu hỏi ôn tập
+1. Các yếu tố chính cần xem xét khi phát triển sự hiện diện thương mại điện tử là gì?
+2. Xác định vòng đời phát triển hệ thống và thảo luận các bước khác nhau liên quan đến việc tạo trang web thương mại điện tử.
+3. Thảo luận về sự khác biệt giữa thiết kế trang web vật lý đơn giản và logic đơn giản.
+4. Tại sao kiểm thử hệ thống lại quan trọng? Kể tên các loại thử nghiệm và mối quan hệ của chúng với nhau.
+5. So sánh chi phí phát triển hệ thống và bảo trì hệ thống. Cái nào đắt hơn, và tại sao?
+6. Tại sao việc duy trì một trang web lại tốn kém đến vậy? Thảo luận về các yếu tố chính ảnh hưởng đến chi phí.
+7. Sự khác biệt chính giữa kiến trúc trang web một tầng và nhiều tầng là gì?
+8. Kể tên các chức năng cơ bản mà máy chủ web cần cung cấp.
+9. Các yếu tố chính cần cân nhắc khi chọn nền tảng phần cứng tốt nhất cho trang web của bạn là gì?
+10. Tại sao băng thông máy chủ web lại là vấn đề quan trọng đối với các trang thương mại điện tử?
+11. So sánh và đối chiếu các phương pháp chia tỷ lệ khác nhau. Giải thích tại sao khả năng mở rộng là vấn đề kinh doanh quan trọng đối với các trang web.
+12. Tám yếu tố quan trọng nhất ảnh hưởng đến thiết kế trang web là gì và chúng ảnh hưởng đến hoạt động của trang web như thế nào?
+13. Java và JavaScript là gì? Họ đóng vai trò gì trong thiết kế trang web?
+14. Kể tên và mô tả ba phương pháp được sử dụng để đối xử với từng khách hàng. Tại sao chúng có ý nghĩa quan trọng đối với thương mại điện tử?
+1. Các yếu tố chính cần xem xét khi phát triển sự hiện diện thương mại điện tử là gì?
+2. Xác định vòng đời phát triển hệ thống và thảo luận các bước khác nhau liên quan đến việc tạo ra một
+trang web thương mại điện tử.
+3. Thảo luận về sự khác biệt giữa thiết kế trang web vật lý đơn giản và logic đơn giản.
+4. Tại sao kiểm thử hệ thống lại quan trọng? Kể tên các loại thử nghiệm và mối quan hệ của chúng với nhau.
+5. So sánh chi phí phát triển hệ thống và bảo trì hệ thống. Cái nào đắt hơn và
+Tại sao?
+6. Tại sao việc duy trì một trang web lại tốn kém đến vậy? Thảo luận về các yếu tố chính ảnh hưởng đến chi phí.
+7. Sự khác biệt chính giữa kiến trúc trang web một tầng và nhiều tầng là gì?
+8. Kể tên các chức năng cơ bản mà máy chủ web cần cung cấp.
+9. Các yếu tố chính cần cân nhắc khi chọn nền tảng phần cứng tốt nhất cho trang web của bạn là gì?
+10. Tại sao băng thông máy chủ web lại là vấn đề quan trọng đối với các trang thương mại điện tử?
+11. So sánh và đối chiếu các phương pháp chia tỷ lệ khác nhau. Giải thích tại sao khả năng mở rộng là vấn đề kinh doanh quan trọng đối với các trang web.
+12. Tám yếu tố quan trọng nhất ảnh hưởng đến thiết kế trang web là gì và chúng ảnh hưởng đến hoạt động của trang web như thế nào?
+13. Java và JavaScript là gì? Họ đóng vai trò gì trong thiết kế trang web?
+14. Kể tên và mô tả ba phương pháp được sử dụng để đối xử với từng khách hàng. Tại sao chúng có ý nghĩa quan trọng đối với thương mại điện tử?
 
 ## Bài 5: Chiến lược kinh doanh thương mại điện tử
 - Mô hình kinh doanh thương mại điện tử
