@@ -1,14 +1,17 @@
 # THƯƠNG MẠI ĐIỆN TỬ
 
-## Bài 1: Cuộc cách mạng mới chỉ bắt đầu
-- Giới thiệu về thương mại điện tử
-- Tính năng độc đáo của công nghệ thương mại điện tử
-- Các loại hình thương mại điện tử
-- Thương mại điện tử: Lịch sử
-- Tìm hiểu về thương mại điện tử: Theo chủ đề
-- Các ngành học liên quan đến thương mại điện tử
-- Nghề nghiệp trong thương mại điện tử
-  
+## Bài 1: Giới thiệu về thương mại điện tử
+1. **Tầm quan trọng của thương mại điện tử**: Năm năm tiếp theo mang đến những cơ hội thú vị—cũng như rủi ro—cho các doanh nghiệp mới và truyền thống khai thác công nghệ kỹ thuật số để giành lợi thế thị trường. Điều quan trọng là phải nghiên cứu thương mại điện tử để có thể nhận thức và hiểu được những cơ hội và rủi ro đang ở phía trước.
+2. Các khái niệm, định nghĩa
+   - **Thương mại điện tử (e-commerce)** liên quan đến các giao dịch thương mại được thực hiện bằng kỹ thuật số giữa và giữa các tổ chức và cá nhân.
+   - **Kinh doanh điện tử (e-business)** chủ yếu đề cập đến việc cho phép kỹ thuật số thực hiện các giao dịch và quy trình trong một công ty, liên quan đến các hệ thống thông tin dưới sự kiểm soát của công ty. Phần lớn, không giống như thương mại điện tử, kinh doanh điện tử không liên quan đến các giao dịch thương mại xuyên qua ranh giới tổ chức nơi giá trị được trao đổi.
+   - Những công nghệ nổi bật đằng sau thương mại điện tử là Internet, Web và ngày càng nhiều nền tảng di động.
+   - Ở góc độ kinh doanh, một trong những xu hướng quan trọng nhất cần lưu ý là tất cả các hình thức thương mại điện tử tiếp tục cho thấy sự tăng trưởng rất mạnh mẽ. Từ góc độ công nghệ, nền tảng di động cuối cùng đã xuất hiện một cách thành công, thúc đẩy sự tăng trưởng vượt bậc trong quảng cáo trên thiết bị di động và biến thương mại điện tử di động thực sự thành hiện thực. Ở cấp độ xã hội, các vấn đề chính bao gồm quyền riêng tư và sự giám sát của chính phủ, bảo vệ sở hữu trí tuệ, bảo mật trực tuyến và quản trị Internet.
+4. Xác định và mô tả các tính năng độc đáo của công nghệ thương mại điện tử
+5. Mô tả các loại hình thương mại điện tử chính.
+6. Tìm hiểu sự phát triển của thương mại điện tử
+7. Mô tả các chủ đề chính làm cơ sở cho việc nghiên cứu thương mại điện tử.
+8. Xác định các ngành học chính đóng góp cho thương mại điện tử.
 ## Bài 2: Hạ tầng cho thương mại điện tử
 - Internet: Nền tảng công nghệ
 - Cơ sở hạ tầng và truy cập Internet
