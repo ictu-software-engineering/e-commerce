@@ -626,12 +626,65 @@ và phúc lợi?
 19. Mô tả mô hình kinh doanh của các công ty cung cấp dịch vụ theo yêu cầu.
 20. Tại sao các công ty dịch vụ theo yêu cầu lại bị coi là gây rối và gây tranh cãi?
 
-## Bài 10: Cộng đồng trực tuyến
-- Mạng xã hội và cộng đồng trực tuyến
-- Đấu giá trực tuyến
-- Cổng thương mại điện tử
-- Nghiên cứu điển hình: eBay phát triển
+## Bài 10: Nội dung và phương tiện trực tuyến
+### Tóm tắt nội dung chính
+1. Hiểu các xu hướng chính trong việc tiêu thụ nội dung truyền thông và trực tuyến, các mô hình doanh thu chính để phân phối nội dung kỹ thuật số, quản lý quyền kỹ thuật số và khái niệm về hội tụ truyền thông.
+- Các xu hướng chính trong việc sử dụng nội dung truyền thông và trực tuyến bao gồm:
+   - Trung bình một người trưởng thành ở Mỹ dành khoảng 4.300 giờ mỗi năm để xem các phương tiện truyền thông khác nhau. Phần lớn thời gian được dành để trực tuyến, sử dụng máy tính để bàn hoặc thiết bị di động, tiếp theo là xem tivi và nghe radio.
+   - Mặc dù một số nghiên cứu chỉ ra rằng thời gian sử dụng Internet làm giảm thời gian dành cho các phương tiện khác của người tiêu dùng, nhưng dữ liệu gần đây cho thấy một bức tranh phức tạp hơn, khi người dùng Internet thực hiện nhiều nhiệm vụ và sử dụng nhiều loại phương tiện hơn những người không sử dụng Internet.
+   - Xét về tổng doanh thu truyền thông, truyền hình và video gia đình chiếm khoảng 34% doanh thu truyền thông, báo in (sách, báo và tạp chí) chiếm 32%, trò chơi điện tử, 9%, phòng vé, 9%, truyền thông Internet ( nhạc và video trực tuyến), 8% và âm nhạc (radio và nhạc ghi âm), 8%. Phương tiện truyền thông Internet, mặc dù hiện nay còn tương đối nhỏ, đang tăng trưởng ở mức 12% mỗi năm, nhanh hơn nhiều so với doanh thu từ phương tiện truyền thông truyền thống.
+   - Ba mô hình doanh thu chính của việc phân phối nội dung kỹ thuật số là mô hình đăng ký, gọi món và mô hình được hỗ trợ bởi quảng cáo (miễn phí và miễn phí).
+   - Xét về nội dung trực tuyến trả phí, truyền hình và phim trực tuyến là hình thức giải trí trực tuyến lớn nhất và phát triển nhanh nhất.
+   - Quản lý quyền kỹ thuật số (DRM) đề cập đến sự kết hợp giữa các phương tiện kỹ thuật và pháp lý để bảo vệ nội dung kỹ thuật số khỏi việc sao chép mà không được phép. Vườn có tường bao quanh là một loại DRM hạn chế việc chia sẻ nội dung một cách rộng rãi.
+- Khái niệm hội tụ truyền thông có ba chiều:
+   - Hội tụ công nghệ, đề cập đến sự phát triển của các thiết bị lai có thể kết hợp chức năng của hai hoặc nhiều nền tảng truyền thông, chẳng hạn như sách, báo, tivi, radio và thiết bị âm thanh nổi, vào một thiết bị duy nhất.
+   - Hội tụ nội dung, liên quan đến thiết kế, sản xuất và phân phối nội dung.
+   - Hội tụ ngành, đề cập đến việc sáp nhập các doanh nghiệp truyền thông thành các tổ hợp mạnh mẽ, hiệp đồng, có thể tiếp thị chéo nội dung trên nhiều nền tảng khác nhau và tạo ra các tác phẩm sử dụng nhiều nền tảng.
+   - Trong những năm đầu của thương mại điện tử, nhiều người tin rằng sự hội tụ của các phương tiện truyền thông sẽ diễn ra nhanh chóng. Tuy nhiên, nhiều nỗ lực ban đầu đã thất bại và những nỗ lực mới giờ đây mới xuất hiện.
 
+2. Hiểu các yếu tố chính ảnh hưởng đến ngành xuất bản trực tuyến.
+- Các yếu tố chính ảnh hưởng đến báo điện tử bao gồm:
+   - Quy mô và tốc độ tăng trưởng của khán giả. Mặc dù ngành báo chí nói chung là bộ phận gặp khó khăn nhất trong ngành xuất bản, nhưng lượng độc giả báo trực tuyến đang tăng lên, được thúc đẩy bởi điện thoại thông minh, máy đọc sách điện tử và máy tính bảng.
+   - Mô hình doanh thu và kết quả. Báo trực tuyến chủ yếu dựa vào cả doanh thu từ quảng cáo và đăng ký. Doanh thu từ quảng cáo kỹ thuật số không đủ để bù lỗ cho quảng cáo trên báo in.
+- Các yếu tố chính ảnh hưởng đến tạp chí trực tuyến bao gồm:
+   - Lượng khán giả trực tuyến và sự tăng trưởng: Doanh số bán tạp chí kỹ thuật số đã tăng vọt, với gần một phần ba dân số Internet hiện đang đọc tạp chí trực tuyến.
+   - Tổng hợp tạp chí: Các công cụ tổng hợp tạp chí (trang web hoặc ứng dụng) cung cấp cho người dùng đăng ký trực tuyến và bán nhiều tạp chí kỹ thuật số.
+- Các yếu tố chính ảnh hưởng đến sách điện tử và xuất bản sách trực tuyến bao gồm:
+   - Quy mô và tốc độ tăng trưởng của khán giả. Tăng trưởng doanh số bán sách điện tử đã chững lại sau một thời kỳ tăng trưởng bùng nổ. Sự tăng trưởng ngày nay được thúc đẩy bởi Amazon Kindle, Apple iPad và điện thoại thông minh. Nền tảng di động của điện thoại thông minh và máy tính bảng đã giúp hàng triệu cuốn sách có sẵn trực tuyến với mức giá thấp hơn so với sách in. Tương lai của sách sẽ là sách kỹ thuật số mặc dù sách in khó có thể biến mất trong tương lai gần.
+   - Những thách thức. Hai thách thức chính mà việc xuất bản sách điện tử phải đối mặt là kiểm soát giá cả và sự phát triển liên tục của mô hình sách điện tử, bao gồm cả dịch vụ cho thuê và đăng ký.
+   - Các mô hình kinh doanh cạnh tranh. Mô hình kinh doanh sách điện tử bao gồm mô hình bán buôn và mô hình đại lý.
+   - Sự hội tụ. Ngành xuất bản đang có những tiến bộ ổn định trong việc hội tụ các phương tiện truyền thông. Sách điện tử mới được sáng tác đang xuất hiện với đa phương tiện tương tác, cho phép người dùng nhấp vào biểu tượng cho video hoặc tài liệu khác và ghi chú.
+
+3. Hiểu được các yếu tố chính ảnh hưởng đến ngành giải trí trực tuyến.
+- Có năm lĩnh vực chính trong lĩnh vực giải trí: truyền hình, phim ảnh, âm nhạc, trò chơi và phát thanh. Phân khúc giải trí hiện đang có sự thay đổi lớn do Internet và nền tảng di động mang lại. Người tiêu dùng đã bắt đầu chấp nhận trả tiền cho nội dung và cũng mong đợi có thể truy cập giải trí trực tuyến từ bất kỳ thiết bị nào vào bất kỳ lúc nào.
+- Các yếu tố chính bao gồm:
+   - Quy mô và tốc độ tăng trưởng của khán giả. Khán giả xem phim và truyền hình trực tuyến đang tăng lên đáng kể.
+   - Sự xuất hiện của các dịch vụ phát trực tuyến và nền tảng di động. Trong lĩnh vực điện ảnh và truyền hình,
+hai xu hướng chính là chuyển sang các dịch vụ phát trực tuyến, từ Amazon và Apple đến Hulu và các kênh khác, đồng thời việc mua và cho thuê trực tuyến tiếp tục gia tăng. Mặc dù doanh số bán sản phẩm vật lý (DVD) đang giảm đáng kể nhưng ngày càng có nhiều người tiêu dùng mua hoặc thuê phim và tập phim truyền hình trên thiết bị di động.
+   - Ngành công nghiệp âm nhạc đang trải qua những xu hướng tương tự như ngành công nghiệp điện ảnh: sự phát triển của các dịch vụ phát trực tuyến hoặc đài phát thanh Internet, lượng mua hàng trực tuyến tiếp tục giảm và lượt tải xuống trên thiết bị di động tăng lên. Tuy nhiên, việc tách một sản phẩm âm nhạc truyền thống, album, thành các bài hát riêng lẻ và sự phát triển của dịch vụ phát trực tuyến, đã làm giảm doanh thu của ngành âm nhạc.
+   - Sự tăng trưởng lớn nhất được dự đoán là ở lĩnh vực trò chơi di động, vì thị trường di động đang nhanh chóng mở rộng trên tất cả các mặt trận thương mại điện tử.
+### Câu hỏi ôn tập
+1. Ba chiều mà thuật ngữ “hội tụ” được áp dụng là gì? Mỗi lĩnh vực hội tụ này đòi hỏi điều gì?
+2. Các mô hình doanh thu cơ bản cho nội dung trực tuyến là gì và thách thức chính của chúng là gì?
+3. Hai mô hình kinh doanh sách điện tử chính là gì?
+4. Sự phát triển của điện toán máy tính bảng có ảnh hưởng gì đến nội dung và giải trí trực tuyến?
+5. Dịch vụ đăng ký nhạc sử dụng những kỹ thuật nào để thực thi DRM?
+6. Apple iPad đại diện cho kiểu hội tụ nào?
+7. Ba mô hình kinh doanh khác nhau mà các tờ báo đã sử dụng để cố gắng thích ứng với Internet là gì?
+8. Các mô hình doanh thu khác nhau mà các tờ báo đã sử dụng là gì?
+9. Các trang tin tức kỹ thuật số thuần túy có lợi thế gì hơn báo in? Báo chí truyền thống có lợi thế gì so với các trang kỹ thuật số thuần túy?
+10. Trải nghiệm của ngành xuất bản sách với Internet khác với trải nghiệm của ngành báo và tạp chí như thế nào?
+11. Internet đã thay đổi cách đóng gói, phân phối, tiếp thị và bán các bản nhạc truyền thống như thế nào?
+12. Công nghệ phát trực tuyến đã tác động đến ngành truyền hình như thế nào?
+13. Tại sao sự phát triển của dịch vụ lưu trữ đám mây lại quan trọng đối với sự phát triển của việc phân phối nội dung di động?
+14. Người tiêu dùng bình thường có trở nên dễ tiếp thu hơn đối với nội dung Internet có hỗ trợ quảng cáo không? Những phát triển nào hỗ trợ điều này?
+15. Cần có những yếu tố nào để hỗ trợ tính phí thành công cho người tiêu dùng đối với nội dung trực tuyến?
+16. Tại sao các ứng dụng lại giúp ích cho ngành báo và tạp chí trong khi các trang web lại thất bại?
+17. Các nhà xuất bản tạp chí có những lựa chọn thay thế nào cho kênh phân phối trực tuyến?
+18. Tại sao Bộ Tư pháp lại kiện các công ty xuất bản lớn và Apple?
+19. Một số thách thức mà ngành xuất bản sách hiện đang phải đối mặt là gì?
+20. Thiết bị di động đang thay đổi ngành công nghiệp trò chơi như thế nào?
+    
 ## Bài 11: Dịch vụ và bán lẻ thương mại điện tử
 - Lĩnh vực bán lẻ trực tuyến
 - Phân tích khả năng tồn tại của các công ty trực tuyến
