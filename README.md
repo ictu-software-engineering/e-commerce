@@ -460,7 +460,7 @@ người dùng trong phạm vi đó, đề xuất các hành động có thể t
 - Người tiêu dùng tìm kiếm thông tin về các doanh nghiệp địa phương sử dụng thiết bị di động tích cực hơn nhiều và
 sẵn sàng mua hơn người dùng máy tính để bàn.
 - Đo lường hiệu quả của chiến dịch trên thiết bị di động dựa trên vị trí bao gồm việc sử dụng các kỹ thuật tương tự được sử dụng cho quảng cáo tìm kiếm và hiển thị hình ảnh dựa trên trình duyệt (số lần hiển thị), nhưng cũng phải bao gồm các khía cạnh của mô hình quy trình tiếp thị xã hội như chuyển đổi, tương tác, khuếch đại, cộng đồng, sức mạnh thương hiệu và doanh số bán hàng.
-- 
+
 ### Câu hỏi ôn tập
 1. Mô tả hai yếu tố làm cho tiếp thị xã hội, địa phương và di động khác với tiếp thị trực tuyến truyền thống.
 2. Tại sao các nỗ lực tiếp thị trên mạng xã hội, di động và địa phương lại có mối liên hệ với nhau?
@@ -484,13 +484,72 @@ sẵn sàng mua hơn người dùng máy tính để bàn.
 20. Liệt kê và mô tả một số công cụ tiếp thị dựa trên vị trí cơ bản.
     
 ## Bài 8: Các vấn đề đạo đức, xã hội và chính trị trong thương mại điện tử
-- Hiểu các vấn đề đạo đức, xã hội và chính trị trong thương mại điện tử
-- Quyền riêng tư và thông tin
-- Quyền sở hữu trí tuệ
-- Quản trị
-- An toàn và phúc lợi công cộng
-- Nghiên cứu điển hình: Các công ty công nghệ lớn có đang “quá lớn” không?
+### Tóm tắt các nội dung chính
+1. Hiểu lý do tại sao thương mại điện tử đặt ra các vấn đề về đạo đức, xã hội và chính trị.
+- Công nghệ Internet và việc sử dụng nó trong thương mại điện tử làm gián đoạn các mối quan hệ và hiểu biết xã hội và kinh doanh hiện có. Đột nhiên, các cá nhân, công ty kinh doanh và các tổ chức chính trị phải đối mặt với những khả năng hành vi mới mà sự hiểu biết, luật pháp và quy tắc về hành vi có thể chấp nhận được vẫn chưa được phát triển. Nhiều công ty kinh doanh và cá nhân đang được hưởng lợi từ sự phát triển thương mại của Internet, nhưng sự phát triển này cũng gây ra tổn thất cho các cá nhân, tổ chức và xã hội. Những chi phí và lợi ích này phải được xem xét cẩn thận bởi những người muốn đưa ra quyết định có trách nhiệm về mặt đạo đức và xã hội trong môi trường mới này, đặc biệt khi chưa có hướng dẫn pháp lý hoặc văn hóa rõ ràng.
+- Các vấn đề chính do thương mại điện tử nêu ra có thể được phân loại một cách lỏng lẻo thành bốn khía cạnh chính:
+   - Quyền thông tin: Các cá nhân có những quyền gì để kiểm soát thông tin cá nhân của mình khi công nghệ Internet khiến việc thu thập thông tin trở nên phổ biến và hiệu quả?
+   - Quyền sở hữu: Quyền sở hữu trí tuệ truyền thống có thể được thực thi như thế nào khi các bản sao hoàn hảo của các tác phẩm được bảo vệ có thể được tạo ra và phân phối dễ dàng trên toàn thế giới thông qua Internet?
+   - Quản trị: Internet và thương mại điện tử có phải tuân theo luật công không? Nếu vậy, cơ quan lập pháp nào có thẩm quyền xét xử—tiểu bang, liên bang và/hoặc quốc tế?
+   - An toàn và phúc lợi công cộng: Nỗ lực nào cần được thực hiện để đảm bảo quyền truy cập công bằng vào Internet và các kênh thương mại điện tử? Nội dung và hoạt động trực tuyến nhất định có gây ra mối đe dọa cho an toàn công cộng không
+và phúc lợi?
+- Những tranh cãi về đạo đức, xã hội và chính trị thường xuất hiện dưới dạng những tình huống khó xử. Những tình huống khó xử về đạo đức có thể được phân tích thông qua quy trình sau:
+   - Xác định và mô tả rõ ràng các sự việc.
+   - Xác định xung đột hoặc vấn đề nan giải và xác định các giá trị cấp cao hơn có liên quan.
+   - Xác định các bên liên quan.
+   - Xác định những lựa chọn mà bạn có thể thực hiện một cách hợp lý.
+   - Xác định những hậu quả tiềm ẩn của các lựa chọn của bạn.
+   - Tham khảo các nguyên tắc đạo đức đã được thiết lập tốt, chẳng hạn như Quy tắc vàng, Chủ nghĩa phổ quát, Độ dốc trơn trượt, Nguyên tắc thực dụng tập thể, Ác cảm rủi ro, Quy tắc không ăn trưa miễn phí, Bài kiểm tra của New York Times và Quy tắc hợp đồng xã hội để giúp bạn quyết định vấn đề.
 
+2. Hiểu các khái niệm cơ bản liên quan đến quyền riêng tư và quyền thông tin, hoạt động của các công ty thương mại điện tử đe dọa quyền riêng tư và các phương pháp khác nhau có thể được sử dụng để bảo vệ quyền riêng tư trực tuyến.
+- Để hiểu các vấn đề liên quan đến quyền riêng tư trực tuyến, trước tiên bạn phải hiểu một số khái niệm cơ bản:
+   - Quyền riêng tư là quyền đạo đức của các cá nhân được ở một mình, không bị người khác giám sát hoặc can thiệp.
+   - Quyền riêng tư về thông tin bao gồm quyền kiểm soát thông tin cá nhân, biết nội dung nào đang được thu thập, quyền thực hiện thủ tục tố tụng hợp pháp và quyền lưu trữ thông tin cá nhân một cách an toàn.
+   - Quy trình hợp pháp được thể hiện trong học thuyết Thực hành Thông tin Công bằng, sự đồng ý có hiểu biết và các chính sách chọn tham gia/chọn không tham gia cũng đóng một vai trò quan trọng trong quyền riêng tư.
+- Khái niệm về quyền riêng tư ở khu vực công và khu vực tư nhân là khác nhau. Trong khu vực công, quyền riêng tư được bảo vệ bởi các tài liệu thành lập. Trong khu vực tư nhân, quyền riêng tư ít được xác định rõ ràng hơn và chỉ mới nổi lên.
+- Hầu hết tất cả các công ty thương mại điện tử đều thu thập một số thông tin nhận dạng cá nhân ngoài thông tin ẩn danh và sử dụng cookie để theo dõi hành vi nhấp chuột của khách truy cập. Mạng quảng cáo và công cụ tìm kiếm cũng theo dõi hành vi của người tiêu dùng trên hàng nghìn trang web phổ biến, không chỉ ở một trang web, thông qua cookie, phần mềm gián điệp, nhắm mục tiêu theo hành vi của công cụ tìm kiếm và các kỹ thuật khác.
+- Có một số phương pháp khác nhau được sử dụng để bảo vệ quyền riêng tư trực tuyến. Chúng bao gồm:
+   - Các biện pháp bảo vệ pháp lý bắt nguồn từ hiến pháp, thông luật, luật liên bang, luật tiểu bang và các quy định của chính phủ. Tại Hoa Kỳ, quyền đối với quyền riêng tư trực tuyến có thể bắt nguồn từ Hiến pháp Hoa Kỳ, luật tra tấn, luật liên bang như Đạo luật bảo vệ quyền riêng tư trực tuyến của trẻ em (COPPA), các nguyên tắc Thực hành thông tin công bằng của FTC, các quy định về quyền riêng tư của ISP băng thông rộng của FCC và một sự đa dạng của pháp luật nhà nước. Tại Châu Âu, Chỉ thị Bảo vệ Dữ liệu và GDPR (Bảo vệ Quyền riêng tư) của Ủy ban Châu Âu đã tiêu chuẩn hóa và mở rộng việc bảo vệ quyền riêng tư ở các quốc gia thuộc Liên minh Châu Âu.
+   - Ngành tự điều chỉnh thông qua các liên minh ngành, chẳng hạn như Liên minh Quyền riêng tư Trực tuyến và Sáng kiến Quảng cáo Mạng, nhằm tìm cách đạt được sự tuân thủ tự nguyện đối với các nguyên tắc về quyền riêng tư của ngành và các bến cảng an toàn. Một số công ty cũng thuê giám đốc quyền riêng tư.
+   - Các giải pháp công nghệ nâng cao quyền riêng tư bao gồm phần mềm gián điệp và trình chặn cửa sổ bật lên, e-mail an toàn, người gửi thư ẩn danh, lướt web ẩn danh, trình quản lý cookie, chương trình xóa tệp đĩa, trình tạo chính sách và chương trình mã hóa khóa công khai.
+
+
+3. Hiểu các hình thức sở hữu trí tuệ khác nhau và những thách thức liên quan đến việc bảo vệ nó.
+- Luật bản quyền bảo vệ các hình thức thể hiện nguyên bản như bài viết, bản vẽ và chương trình máy tính khỏi bị người khác sao chép trong tối thiểu 70 năm. Nó không bảo vệ các ý tưởng – chỉ bảo vệ sự thể hiện của chúng trong một phương tiện hữu hình. Bản quyền, giống như tất cả các quyền, không phải là tuyệt đối. Học thuyết sử dụng hợp pháp cho phép một số bên trong những trường hợp nhất định sử dụng tài liệu có bản quyền mà không được phép. Đạo luật Bản quyền Kỹ thuật số Thiên niên kỷ (DMCA) là nỗ lực lớn đầu tiên nhằm điều chỉnh luật bản quyền cho phù hợp với thời đại Internet. DMCA thực hiện hiệp ước của Tổ chức Sở hữu Trí tuệ Thế giới, trong đó tuyên bố việc sản xuất, phân phối hoặc sử dụng các thiết bị phá vỡ các biện pháp bảo vệ dựa trên công nghệ đối với các tài liệu có bản quyền là bất hợp pháp, đồng thời đưa ra các khoản tiền phạt cứng và án tù nếu vi phạm.
+- Luật sáng chế cấp cho chủ sở hữu bằng sáng chế độc quyền đối với những ý tưởng đằng sau một phát minh trong 20 năm. Bằng sáng chế rất khác với bản quyền ở chỗ chúng bảo vệ chính các ý tưởng chứ không chỉ đơn thuần là sự thể hiện ý tưởng. Có bốn loại phát minh được cấp bằng sáng chế theo luật sáng chế: máy móc, sản phẩm nhân tạo, thành phần vật chất và phương pháp xử lý. Để được cấp bằng sáng chế, người nộp đơn phải chứng minh rằng phát minh đó là mới, nguyên bản, mới, không rõ ràng và không có bằng chứng rõ ràng trong lĩnh vực nghệ thuật và thực tiễn trước đó. Hầu hết các phát minh làm cho Internet và thương mại điện tử trở nên khả thi đều không được cấp bằng sáng chế bởi các nhà phát minh của chúng. Điều này đã thay đổi vào giữa những năm 1990 với sự phát triển thương mại của Web. Các công ty kinh doanh bắt đầu nộp đơn xin “phương pháp kinh doanh” và bằng sáng chế phần mềm.
+- Việc bảo hộ nhãn hiệu tồn tại ở cả cấp liên bang và cấp tiểu bang ở Hoa Kỳ. Luật nhãn hiệu bảo vệ công chúng trên thị trường bằng cách đảm bảo rằng họ nhận được những gì họ trả tiền và mong muốn nhận, đồng thời cũng bảo vệ chủ sở hữu đã dành thời gian, tiền bạc và công sức để đưa sản phẩm ra thị trường chống lại hành vi vi phạm bản quyền và chiếm dụng. Nhãn hiệu liên bang có được, trước tiên, bằng cách sử dụng trong thương mại giữa các tiểu bang, và thứ hai, bằng cách đăng ký với Văn phòng Nhãn hiệu và Bằng sáng chế Hoa Kỳ (USPTO). Nhãn hiệu được cấp có thời hạn 10 năm và có thể được gia hạn vô thời hạn. Việc sử dụng nhãn hiệu gây nhầm lẫn với nhãn hiệu hiện có, gây nhầm lẫn cho người tiêu dùng về thị trường hoặc xuyên tạc về xuất xứ hàng hóa là hành vi vi phạm. Ngoài ra, việc cố ý lạm dụng các từ ngữ và ký hiệu trên thị trường để moi tiền từ các chủ sở hữu nhãn hiệu hợp pháp (“có ý đồ xấu”) đều bị nghiêm cấm. Đạo luật bảo vệ người tiêu dùng chống cướp bóc trên mạng (ACPA) quy định trách nhiệm dân sự đối với bất kỳ ai có ý đồ xấu nhằm kiếm lợi từ một nhãn hiệu nổi tiếng hoặc đặc biệt hiện có bằng cách đăng ký một tên miền Internet giống hệt hoặc tương tự đến mức gây nhầm lẫn, hoặc “pha loãng” tên miền Internet , nhãn hiệu đó. Các hành vi chính trên Internet đã vi phạm luật thương hiệu bao gồm chiếm đoạt trên mạng, vi phạm bản quyền trên mạng, gắn thẻ meta, từ khóa, liên kết và đóng khung.
+- Luật bí mật thương mại bảo vệ quyền sở hữu trí tuệ liên quan đến các thủ tục, quy trình, công thức và phương pháp sản xuất kinh doanh.
+
+4. Hiểu cách Internet được quản lý và lý do tại sao việc đánh thuế thương mại điện tử lại làm nảy sinh các vấn đề về quản trị và quyền tài phán.
+- Quản trị liên quan đến kiểm soát xã hội: ai sẽ kiểm soát thương mại điện tử, những yếu tố nào sẽ được kiểm soát và những kiểm soát đó sẽ được thực hiện như thế nào. Chúng ta hiện đang ở trong một môi trường chính sách có chế độ hỗn hợp, nơi sự tự điều chỉnh, thông qua nhiều cơ quan kỹ thuật và chính sách Internet khác nhau, cùng tồn tại với các quy định hạn chế của chính phủ.
+- Thương mại điện tử đặt ra vấn đề làm thế nào—và có nên—đánh thuế bán hàng từ xa hay không. Đặc điểm quốc gia và quốc tế của việc bán hàng qua Internet đã tàn phá các hệ thống thuế ở Hoa Kỳ được xây dựng từ những năm 1930 và dựa trên thương mại địa phương và các khu vực pháp lý địa phương. Thương mại điện tử đã được hưởng lợi từ trợ cấp thuế kể từ khi thành lập. Các nhà kinh doanh thương mại điện tử đã lập luận rằng hình thức thương mại mới này cần được nuôi dưỡng và khuyến khích, và rằng trong bất kỳ trường hợp nào, các chế độ thuế sử dụng và bán hàng điên cuồng sẽ khó quản lý đối với các nhà kinh doanh trên Internet. Năm 1998, Quốc hội đã thông qua Đạo luật Tự do Thuế Internet, trong đó đưa ra lệnh tạm hoãn đánh các loại thuế đa dạng hoặc mang tính phân biệt đối xử đối với thương mại điện tử cũng như mọi khoản thuế truy cập Internet, và kể từ thời điểm đó đã gia hạn lệnh cấm nhiều lần và vào năm 2016, lệnh cấm đã được áp dụng vĩnh viễn. . Luật liên bang nhằm thực hiện một bộ quy tắc thống nhất về thu thuế đối với hoạt động bán hàng thương mại điện tử hiện đang chờ Quốc hội thông qua. Tính trung lập ròng đề cập đến ý tưởng rằng các nhà cung cấp dịch vụ Internet (ISP), bao gồm Internet cáp và các nhà cung cấp dịch vụ không dây, nên xử lý tất cả dữ liệu trên Internet theo cùng một cách và không phân biệt đối xử hoặc định giá khác nhau theo nội dung, giao thức, nền tảng, phần cứng hoặc ứng dụng. .
+
+5. Xác định các vấn đề lớn về an toàn và phúc lợi công cộng do thương mại điện tử đưa ra.
+- Các vấn đề quan trọng về an toàn và phúc lợi công cộng trong thương mại điện tử bao gồm:
+   - Bảo vệ trẻ em và có quan điểm mạnh mẽ chống lại nội dung khiêu dâm. Một số nỗ lực của Quốc hội nhằm lập pháp trong lĩnh vực này đã bị bác bỏ vì cho là vi hiến. Tuy nhiên, Đạo luật Bảo vệ Internet cho Trẻ em (CIPA), yêu cầu các trường học và thư viện ở Hoa Kỳ cài đặt “các biện pháp bảo vệ công nghệ” (phần mềm lọc) nhằm nỗ lực bảo vệ trẻ em khỏi nội dung khiêu dâm, tuy nhiên, đã được tán thành bởi chính phủ. Tòa án Tối cao.
+   - Nỗ lực kiểm soát cờ bạc và hạn chế bán thuốc lá và ma túy. Tại Hoa Kỳ, thuốc lá, cờ bạc, thuốc y tế và thuốc giải trí gây nghiện đều bị cấm hoặc bị quản lý chặt chẽ bởi luật pháp liên bang và tiểu bang. Nhiều địa điểm ở nước ngoài cung cấp các sản phẩm và dịch vụ này đã bị đóng cửa sau áp lực của chính phủ. Cờ bạc trực tuyến đang phát triển nhưng chậm hơn dự kiến. Cá cược thể thao ảo trực tuyến đang phát triển nhanh chóng.
+
+### Câu hỏi ôn tập
+1. Việc nghiên cứu đạo đức đưa ra giả định cơ bản nào về cá nhân?
+2. Những nguyên tắc cơ bản của đạo đức là gì?
+3. Giải thích quan điểm của Google rằng YouTube không vi phạm quyền sở hữu trí tuệ của chủ sở hữu bản quyền.
+4. Định nghĩa chủ nghĩa phổ quát, độ dốc trơn trượt, bài kiểm tra của New York Times và quy tắc khế ước xã hội khi chúng áp dụng vào đạo đức.
+5. Giải thích lý do tại sao một người mắc bệnh nghiêm trọng có thể lo lắng về việc nghiên cứu tình trạng của mình trực tuyến, chẳng hạn như thông qua các công cụ tìm kiếm y tế hoặc các trang web dược phẩm. Công nghệ nào có thể ngăn danh tính của một người bị tiết lộ?
+6. Kể tên một số thông tin cá nhân được các trang web thu thập về khách truy cập.
+7. Thông tin được thu thập qua các biểu mẫu trực tuyến khác với nhật ký giao dịch trên trang web như thế nào? Điều nào có khả năng cung cấp hồ sơ người tiêu dùng đầy đủ hơn?
+8. Mô hình chọn tham gia của sự đồng ý có hiểu biết khác với mô hình chọn không tham gia như thế nào? Trong loại mô hình nào người tiêu dùng giữ được nhiều quyền kiểm soát hơn?
+9. Hai nguyên tắc cốt lõi trong nguyên tắc Thực hành Thông tin Công bằng của FTC là gì?
+10. Chính sách Bảo vệ Quyền riêng tư được Liên minh Châu Âu và Hoa Kỳ áp dụng là gì?
+11. Hãy kể tên ba cách mà các mạng quảng cáo trực tuyến đã cải tiến hoặc bổ sung vào các kỹ thuật tiếp thị ngoại tuyến truyền thống.
+12. Giải thích cách nhắm mục tiêu theo hành vi được cho là mang lại lợi ích cho cả người tiêu dùng và doanh nghiệp.
+13. Internet có thể thay đổi khả năng bảo vệ quyền sở hữu trí tuệ như thế nào? Năng lực nào khiến việc thực thi luật sở hữu trí tuệ trở nên khó khăn hơn?
+14. Đạo luật bản quyền kỹ thuật số thiên niên kỷ (DMCA) cố gắng thực hiện điều gì? Tại sao nó được ban hành? Nó cố gắng ngăn chặn những loại vi phạm nào?
+15. Định nghĩa cybersquat. Nó khác với vi phạm bản quyền mạng như thế nào? Cybersquatting gây ra loại vi phạm sở hữu trí tuệ nào?
+16. Liên kết sâu là gì và tại sao nó lại là vấn đề về nhãn hiệu? So sánh nó với việc đóng khung – nó giống và khác nhau như thế nào?
+17. Một số chiến thuật mà các doanh nghiệp bất hợp pháp ở Hoa Kỳ sử dụng để hoạt động ngoài vòng pháp luật trên Internet là gì?
+18. Tại sao các trang web khiêu dâm không thể bị cấm ở Hoa Kỳ? Tại sao Tòa án Tối cao lại bãi bỏ đạo luật nhằm bảo vệ trẻ em khỏi nội dung khiêu dâm?
+19. “Quyền được lãng quên” là gì? Một số rủi ro và lợi ích của việc thiết lập quyền này là gì?
+20. Học thuyết “sử dụng hợp lý” là gì? Tại sao tòa án quyết định rằng việc quét sách có bản quyền của Google là "sử dụng hợp pháp"?
 ## Bài 9: Phương tiện truyền thông trực tuyến
 - Nội dung trực tuyến
 - Ngành xuất bản trực tuyến
