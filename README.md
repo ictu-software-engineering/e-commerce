@@ -444,8 +444,45 @@ chiến dịch tiếp thị trong môi trường mới này. Khi thiết kế ch
 - Cơ hội tiếp thị chính trong tiếp thị trên thiết bị di động là quảng cáo tìm kiếm, quảng cáo hiển thị hình ảnh, video và đa phương tiện, nhắn tin (SMS/MMS/PPS) và các định dạng quen thuộc khác như e-mail, phân loại và tạo khách hàng tiềm năng.
 - Hiệu quả của tiếp thị trên thiết bị di động có thể được đo lường bằng cách sử dụng các khía cạnh của mô hình quy trình tiếp thị xã hội: thu hút người hâm mộ, mức độ tương tác, khuếch đại, cộng đồng, sức mạnh thương hiệu và doanh số bán hàng. Các số liệu dựa trên trình duyệt web truyền thống cũng có thể được sử dụng khi đo lường các chiến dịch trên thiết bị di động
 
-
+3. Hiểu được khả năng tiếp thị địa phương dựa trên vị trí.
+- Tiếp thị dựa trên vị trí là việc nhắm mục tiêu các thông điệp tiếp thị đến người dùng dựa trên vị trí của họ. Nói chung, tiếp thị dựa trên vị trí liên quan đến việc tiếp thị các dịch vụ dựa trên vị trí.
+- Ví dụ về các dịch vụ dựa trên vị trí là các dịch vụ điều hướng cá nhân, điểm ưa thích, đánh giá, tìm bạn bè và theo dõi gia đình.
+- Tiếp thị dựa trên vị trí phụ thuộc vào hai công nghệ: phần mềm lập bản đồ chính xác và công nghệ định vị địa lý trên thiết bị di động như GPS, dữ liệu vị trí mạng Wi-Fi và công nghệ Bluetooth tiết kiệm năng lượng (BLE).
+- Tiếp thị trên thiết bị di động dựa trên vị trí hiện là một phần nhỏ của môi trường tiếp thị trực tuyến nhưng dự kiến sẽ tăng gấp đôi trong hai năm tới và đang phát triển nhanh hơn bất kỳ hình thức quảng cáo kỹ thuật số nào khác.
+- Các định dạng quảng cáo được sử dụng trong tiếp thị trên thiết bị di động địa phương rất quen thuộc—quảng cáo tìm kiếm, quảng cáo hiển thị hình ảnh, quảng cáo trên mạng xã hội/gốc, video và tin nhắn văn bản SMS. Một tỷ lệ rất lớn các quảng cáo trên thiết bị di động địa phương này sẽ được phân phối bởi các công cụ tìm kiếm như Google và các trang xã hội như Facebook.
+- Những người chơi chủ chốt trong tiếp thị di động dựa trên vị trí cũng chính là những gã khổng lồ quảng cáo thống trị môi trường tiếp thị di động: Google, Facebook, Apple, Twitter, YP (trước đây là Yellow Pages), Pandora và Millennial Media.
+- Kỹ thuật nhận biết địa lý xác định vị trí thiết bị của người dùng và sau đó nhắm mục tiêu tiếp thị đến thiết bị, đề xuất các hành động trong tầm tay.
+- Nhắm mục tiêu theo địa lý của quảng cáo liên quan đến việc gửi quảng cáo dựa trên vị trí của người dùng.
+- Kỹ thuật tiếp thị vùng lân cận xác định chu vi xung quanh một vị trí thực tế và sau đó nhắm mục tiêu quảng cáo tới
+người dùng trong phạm vi đó, đề xuất các hành động có thể thực hiện được trong khu vực có rào chắn.
+- Nhắn tin tại cửa hàng liên quan đến việc nhắn tin cho người tiêu dùng khi bước vào và duyệt qua cửa hàng bán lẻ. Cái này
+đòi hỏi phải tính toán rất chính xác vị trí.
+- Người tiêu dùng tìm kiếm thông tin về các doanh nghiệp địa phương sử dụng thiết bị di động tích cực hơn nhiều và
+sẵn sàng mua hơn người dùng máy tính để bàn.
+- Đo lường hiệu quả của chiến dịch trên thiết bị di động dựa trên vị trí bao gồm việc sử dụng các kỹ thuật tương tự được sử dụng cho quảng cáo tìm kiếm và hiển thị hình ảnh dựa trên trình duyệt (số lần hiển thị), nhưng cũng phải bao gồm các khía cạnh của mô hình quy trình tiếp thị xã hội như chuyển đổi, tương tác, khuếch đại, cộng đồng, sức mạnh thương hiệu và doanh số bán hàng.
+- 
 ### Câu hỏi ôn tập
+1. Mô tả hai yếu tố làm cho tiếp thị xã hội, địa phương và di động khác với tiếp thị trực tuyến truyền thống.
+2. Tại sao các nỗ lực tiếp thị trên mạng xã hội, di động và địa phương lại có mối liên hệ với nhau?
+3. Tại sao sự kết nối giữa tiếp thị xã hội, di động và địa phương lại quan trọng đối với các nhà tiếp thị?
+4. Mục tiêu của tiếp thị xã hội là gì?
+5. Các trang mạng xã hội lớn là gì?
+6. Năm yếu tố của quá trình tiếp thị xã hội là gì?
+7. Ba tính năng quan trọng nhất của Facebook mà các nhà tiếp thị cần cân nhắc là gì?
+8. Liệt kê và mô tả ngắn gọn các công cụ marketing cơ bản của Facebook.
+9. Bạn có thể đo lường kết quả của chiến dịch tiếp thị xã hội trên Facebook bằng cách nào?
+10. Liệt kê và mô tả ngắn gọn các công cụ tiếp thị của Twitter.
+11. Làm thế nào bạn có thể đo lường kết quả của chiến dịch tiếp thị xã hội Twitter?
+12. Các bài đăng trên Pinterest giống với quảng cáo hiển thị hình ảnh ở điểm nào?
+13. Liệt kê và mô tả ngắn gọn một số công cụ tiếp thị của Pinterest.
+14. Tại sao tiếp thị trên thiết bị di động khác với tiếp thị trên máy tính để bàn?
+15. Nền tảng thương mại điện tử nào phát triển nhanh nhất và tại sao?
+16. Tại sao quảng cáo trong ứng dụng lại quan trọng đối với các nhà tiếp thị?
+17. Môi trường đa màn hình là gì và nó thay đổi hoạt động tiếp thị như thế nào?
+18. Những loại định dạng quảng cáo nào được tìm thấy trên thiết bị di động?
+19. Tại sao tiếp thị dựa trên vị trí lại hấp dẫn các nhà tiếp thị đến vậy?
+20. Liệt kê và mô tả một số công cụ tiếp thị dựa trên vị trí cơ bản.
+    
 ## Bài 8: Các vấn đề đạo đức, xã hội và chính trị trong thương mại điện tử
 - Hiểu các vấn đề đạo đức, xã hội và chính trị trong thương mại điện tử
 - Quyền riêng tư và thông tin
