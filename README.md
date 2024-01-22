@@ -685,22 +685,134 @@ hai xu hướng chính là chuyển sang các dịch vụ phát trực tuyến, 
 19. Một số thách thức mà ngành xuất bản sách hiện đang phải đối mặt là gì?
 20. Thiết bị di động đang thay đổi ngành công nghiệp trò chơi như thế nào?
     
-## Bài 11: Dịch vụ và bán lẻ thương mại điện tử
-- Lĩnh vực bán lẻ trực tuyến
-- Phân tích khả năng tồn tại của các công ty trực tuyến
-- Thương mại điện tử đang hoạt động: Mô hình kinh doanh bán lẻ điện tử
-- Lĩnh vực dịch vụ: Ngoại tuyến và Trực tuyến
-- Dịch vụ tài chính trực tuyến
-- Dịch vụ du lịch trực tuyến
-- Dịch vụ nghề nghiệp trực tuyến
-- Các công ty dịch vụ theo yêu cầu
-- Nghiên cứu điển hình: OpenTable: Đặt chỗ của bạn đang chờ
+## Bài 11: Mạng xã hội, đấu giá và cổng thông tin
+### Tóm tắt nội dung chính
+1. Mô tả các loại mạng xã hội và cộng đồng trực tuyến khác nhau cũng như mô hình kinh doanh:
+- Mạng xã hội bao gồm một nhóm người, sự tương tác xã hội được chia sẻ, mối quan hệ chung giữa các thành viên và một khu vực chung trong một khoảng thời gian. Mạng xã hội trực tuyến là mạng nơi những người có chung điểm chung có thể tương tác trực tuyến với nhau.
+- Các loại mạng xã hội và cộng đồng khác nhau cũng như mô hình kinh doanh của chúng bao gồm:
+   - Cộng đồng chung: Các thành viên có thể tương tác với một lượng khán giả chung được chia thành nhiều nhóm khác nhau. Hầu hết các cộng đồng nói chung bắt đầu như những nỗ lực dựa trên đăng ký phi thương mại, nhưng nhiều cộng đồng đã được các trang cổng thông tin cộng đồng lớn hơn mua lại.
+   - Mạng lưới thực hành: Thành viên có thể tham gia vào các nhóm thảo luận và nhận trợ giúp hoặc thông tin liên quan đến một lĩnh vực thực hành chung, chẳng hạn như nghệ thuật, giáo dục hoặc y học. Những công ty này thường có mô hình kinh doanh phi lợi nhuận, trong đó họ chỉ cố gắng thu đủ phí đăng ký, hoa hồng bán hàng và quảng cáo hạn chế để trang trải chi phí hoạt động.
+   - Cộng đồng dựa trên sở thích: Các thành viên có thể tham gia vào các nhóm thảo luận tập trung về mối quan tâm chung.Mô hình kinh doanh quảng cáo đã phát huy tác dụng vì đối tượng mục tiêu rất hấp dẫn đối với các nhà tiếp thị. Các hợp đồng thuê nhà và tài trợ cũng mang lại một nguồn doanh thu tương tự khác.
+   - Cộng đồng quan hệ: Các thành viên có thể tham gia vào các cuộc thảo luận tập trung với những người khác có cùng mối quan hệ hoặc nhận dạng nhóm. Mô hình kinh doanh là sự kết hợp giữa doanh thu đăng ký từ nội dung và dịch vụ cao cấp, quảng cáo, cho thuê/tài trợ và thỏa thuận phân phối.
+   - Cộng đồng được tài trợ: Thành viên có thể tham gia vào các cộng đồng trực tuyến do chính phủ, tổ chức phi lợi nhuận hoặc tổ chức vì lợi nhuận tạo ra nhằm mục đích theo đuổi các mục tiêu của tổ chức. Họ sử dụng các công nghệ và kỹ thuật của cộng đồng để phân phối thông tin hoặc mở rộng tầm ảnh hưởng của thương hiệu. Mục tiêu của trang web sản phẩm có thương hiệu là tăng doanh số bán sản phẩm ngoại tuyến. Những trang web này không tìm cách kiếm lợi nhuận và thường là trung tâm chi phí.
 
+2. Mô tả các loại đấu giá chính, lợi ích và chi phí của chúng, cách thức hoạt động, thời điểm sử dụng chúng cũng như khả năng lạm dụng và gian lận trong đấu giá.
+- Đấu giá là thị trường có giá cả khác nhau (định giá động) tùy thuộc vào sự cạnh tranh giữa những người tham gia mua hoặc bán sản phẩm hoặc dịch vụ. Chúng có thể được phân loại rộng rãi là C2C hoặc B2C, mặc dù thuật ngữ chung đấu giá C2C đề cập đến địa điểm diễn ra việc bán hàng, ví dụ: một trang web hướng đến người tiêu dùng như eBay, cũng đấu giá các mặt hàng từ các thương gia thành lập. Đấu giá B2C đề cập đến một thương gia trực tuyến được thành lập cung cấp các cuộc đấu giá của riêng mình. Ngoài ra còn có nhiều cuộc đấu giá trực tuyến B2B dành cho người mua các bộ phận công nghiệp, nguyên liệu thô, hàng hóa và dịch vụ. Trong ba loại đấu giá rộng này có một số loại đấu giá chính được phân loại dựa trên cách hoạt động của cơ chế đấu giá trong mỗi hệ thống:
+   - Đấu giá bằng tiếng Anh: Một mặt hàng được rao bán từ một người bán duy nhất. Nhiều người mua đấu giá với nhau trong một khung thời gian cụ thể với người trả giá cao nhất sẽ giành được món đồ miễn là giá thầu cao vượt quá giá thầu dự trữ do người bán đặt ra, dưới mức giá đó họ sẽ từ chối bán.
+   - Đấu giá trên Internet kiểu Hà Lan: Người bán có nhiều mặt hàng giống hệt nhau để bán niêm yết mức giá tối thiểu hoặc giá khởi điểm, còn người mua chỉ ra cả giá dự thầu và số lượng mong muốn. Giá thầu trúng thầu thấp nhất đủ số lượng sẵn có sẽ được trả bởi tất cả những người trúng thầu. Những người trả giá cao nhất yên tâm nhận được số lượng mong muốn nhưng chỉ phải trả số tiền của người trả giá thành công thấp nhất (quy tắc định giá thống nhất).
+   - Đặt tên cho giá của riêng bạn hoặc đấu giá ngược: Người mua chỉ định mức giá họ sẵn sàng trả cho một mặt hàng và nhiều người bán đấu giá cho doanh nghiệp của họ. Đây là một ví dụ về định giá phân biệt đối xử, trong đó người chiến thắng có thể trả số tiền khác nhau cho cùng một sản phẩm hoặc dịch vụ tùy thuộc vào số tiền họ đặt giá thầu.
+   - Đấu giá xu (phí đấu thầu): Nhà thầu trả một khoản phí không hoàn lại để mua hồ sơ dự thầu.
+- Lợi ích của đấu giá bao gồm: tính thanh khoản, khám phá giá, minh bạch về giá, hiệu quả thị trường, chi phí giao dịch thấp hơn, tập hợp người tiêu dùng, hiệu ứng mạng và lợi ích của nhà tạo lập thị trường.
+- Chi phí đấu giá bao gồm: tiêu thụ chậm, chi phí giám sát, chi phí thiết bị, rủi ro lòng tin và chi phí thực hiện.
+- Các trang đấu giá đã tìm cách giảm thiểu những rủi ro này thông qua nhiều phương pháp khác nhau bao gồm hệ thống xếp hạng, danh sách theo dõi và đấu thầu ủy quyền.
+- Đấu giá có thể là kênh thích hợp để doanh nghiệp bán các mặt hàng trong nhiều tình huống khác nhau. Các yếu tố doanh nghiệp cần xem xét bao gồm loại sản phẩm, vòng đời sản phẩm, quản lý kênh, loại đấu giá, giá ban đầu, mức tăng giá thầu, thời lượng đấu giá, số lượng mặt hàng, phân bổ giá và đấu thầu kín so với mở.
+- Đấu giá đặc biệt dễ xảy ra gian lận, tạo ra sự bất cân xứng thông tin giữa người mua và người bán. Một số hành vi lạm dụng và gian lận có thể xảy ra bao gồm gian lận giá thầu, khớp giá, phản hồi phòng thủ, phản hồi xúc phạm, tống tiền phản hồi, can thiệp vào giao dịch, thao túng giá thầu, không thanh toán sau khi trúng thầu, đấu thầu shill, giao dịch không thực hiện, không -bán người bán, và bòn rút giá thầu
 
-## Bài 12: Thương mại điện tử B2B
-- Tổng quan về thương mại điện tử B2B
-- Quy trình mua sắm và chuỗi cung ứng
-- Xu hướng quản lý chuỗi cung ứng và thương mại hợp tác
-- Thị trường ròng: Mặt bán hàng của B2B
-- Mạng lưới công nghiệp tư nhân
-- Nghiên cứu điển hình: Elemia: Hợp tác, hợp tác và cộng đồng
+3. Mô tả các loại cổng Internet chính và mô hình kinh doanh của chúng.
+- Cổng thông tin là cổng vào hàng tỷ trang web có sẵn trên Internet. Ban đầu, mục đích chính của chúng là giúp người dùng tìm thông tin trên Web, nhưng chúng đã phát triển thành các trang đích cung cấp vô số nội dung từ tin tức đến giải trí. Ngày nay, các cổng phục vụ ba mục đích chính: điều hướng Web (tìm kiếm), nội dung và thương mại.
+- Trong số các loại cổng thông tin chính là:
+   - Cổng thông tin doanh nghiệp: Các tập đoàn, trường đại học, nhà thờ và các tổ chức khác tạo ra những trang này để giúp nhân viên hoặc thành viên điều hướng đến những nội dung quan trọng như tin tức công ty hoặc thông báo của tổ chức.
+   - Cổng thông tin đa năng: Ví dụ như AOL, Yahoo và MSN, cố gắng thu hút một lượng lớn khán giả nói chung bằng cách cung cấp nhiều kênh nội dung chuyên sâu theo chiều dọc. Một số còn cung cấp dịch vụ ISP trên cơ sở đăng ký, công cụ tìm kiếm, e-mail, trò chuyện, bảng thông báo và trang chủ cá nhân.
+   - Cổng thị trường dọc: Còn được gọi là trang web đích, họ cố gắng thu hút lượng khán giả trung thành, tập trung cao độ với mối quan tâm sâu sắc đến cộng đồng mà họ thuộc về hoặc mối quan tâm mà họ nắm giữ. Cổng thị trường dọc có thể được chia thành hai phân loại chính, mặc dù cũng tồn tại những loại kết hợp trùng lặp giữa hai phân loại này.
+   - Nhóm sở thích: Được thiết kế để phục vụ tập hợp những người tự xác định mình bằng thái độ, giá trị, niềm tin và hành vi của họ.
+   - Cổng nội dung tập trung: Các trang này chứa thông tin chuyên sâu về một chủ đề cụ thể mà tất cả thành viên quan tâm. Họ có thể cung cấp nội dung về các chủ đề rộng như thể thao, tin tức, thời tiết, giải trí, tài chính hoặc kinh doanh hoặc họ có thể thu hút một nhóm lợi ích tập trung hơn nhiều như những người đam mê thuyền, ngựa hoặc trò chơi điện tử.
+- Cổng nhận doanh thu từ một số nguồn khác nhau. Mô hình kinh doanh hiện đang thay đổi và thích ứng với sự sụt giảm trong một số dòng doanh thu nhất định, đặc biệt là doanh thu quảng cáo. Nguồn doanh thu có thể bao gồm quảng cáo chung, hợp đồng thuê nhà, phí đăng ký và hoa hồng bán hàng.
+- Chiến lược tồn tại của các cổng thông tin đa năng là phát triển nội dung dọc phong phú, sâu sắc nhằm thu hút các nhà quảng cáo đến các nhóm thích hợp khác nhau mà họ có thể nhắm mục tiêu bằng các quảng cáo tập trung. Chiến lược dành cho các cổng thị trường dọc nhỏ là xây dựng một tập hợp các cổng dọc, từ đó tạo ra một mạng lưới các trang web có nội dung phong phú, sâu sắc vì lý do tương tự.
+
+### Câu hỏi ôn tập
+1. Mạng xã hội, đấu giá và cổng thông tin có điểm gì chung?
+2. Bốn yếu tố xác định của mạng xã hội—trực tuyến hay ngoại tuyến là gì?
+3. Tại sao Pinterest được coi là mạng xã hội và nó khác với Facebook như thế nào?
+4. Ba mạng xã hội di động là gì?
+5. Tại sao mạng xã hội di động lại phát triển nhanh đến vậy?
+6. Hai biện pháp nào có thể được sử dụng để hiểu tầm quan trọng của mạng xã hội và để
+so sánh chúng với những trải nghiệm Internet khác?
+7. Cộng đồng chung sở thích là gì và mô hình kinh doanh của nó là gì?
+8. Liệt kê và mô tả bốn loại đấu giá khác nhau.
+9. Sự khác biệt giữa đấu giá C2C và B2C là gì?
+10. Cuộc đấu giá Đặt tên theo giá của riêng bạn, chẳng hạn như của Priceline, hoạt động như thế nào?
+11. Liệt kê và giải thích ngắn gọn ba lợi ích của thị trường đấu giá.
+12. Bốn chi phí chính mà người tiêu dùng phải chịu khi tham gia đấu giá là gì?
+13. Tại sao FTC lại cảnh báo người tiêu dùng về các cuộc đấu giá bằng đồng xu (phí đấu thầu)?
+14. Hành vi bầy đàn là gì và nó tác động như thế nào đến các cuộc đấu giá?
+15. Kể tên và mô tả năm loại lạm dụng và gian lận có thể xảy ra trong đấu giá.
+16. Những loại sản phẩm nào phù hợp với thị trường đấu giá? Tại thời điểm nào trong vòng đời sản phẩm
+thị trường đấu giá có thể mang lại lợi ích cho các nhà tiếp thị?
+17. Ba đặc điểm nào xác định một trang web cổng thông tin ngày nay?
+18. Hai loại cổng thị trường dọc chính là gì và chúng được phân biệt với nhau như thế nào?
+19. Liệt kê và giải thích ngắn gọn các nguồn doanh thu chính của mô hình kinh doanh cổng thông tin.
+20. Tại sao Yahoo gặp khó khăn trong ba năm qua?
+
+## Bài 12: Thương mại điện tử B2B: Quản lý chuỗi cung ứng và thương mại hợp tác
+### Tóm tắt nội dung chính
+1. Thảo luận về sự phát triển và tăng trưởng của thương mại điện tử B2B, cũng như những lợi ích và thách thức tiềm ẩn của nó.
+- Trước khi có Internet, các giao dịch giữa doanh nghiệp với doanh nghiệp được gọi đơn giản là thương mại giữa các công ty hoặc quy trình mua sắm. Ngày nay, chúng tôi sử dụng thuật ngữ thương mại B2B để mô tả tất cả các loại hình thương mại giữa các công ty nhằm trao đổi giá trị xuyên qua các ranh giới của tổ chức, bao gồm cả việc mua đầu vào cũng như tiếp thị, bán và phân phối sản phẩm và dịch vụ, và thuật ngữ thương mại điện tử B2B để mô tả cụ thể phần thương mại B2B được kích hoạt bởi Internet và các ứng dụng di động.
+- Để hiểu được sự phát triển của thương mại điện tử B2B, bạn phải hiểu một số giai đoạn chính:
+   - Hệ thống nhập đơn hàng tự động, được phát triển vào những năm 1970, liên quan đến việc sử dụng modem điện thoại để gửi đơn đặt hàng kỹ thuật số.
+   - EDI hay trao đổi dữ liệu điện tử, được phát triển vào cuối những năm 1970, là một tiêu chuẩn truyền thông để chia sẻ các tài liệu mua sắm khác nhau bao gồm hóa đơn, đơn đặt hàng, hóa đơn vận chuyển, sản phẩm
+số lượng hàng tồn kho (SKU) và thông tin thanh toán cho một ngành.
+   - Các trang web thương mại điện tử B2B xuất hiện vào những năm 1990 cùng với quá trình thương mại hóa Internet. Chúng là các danh mục trực tuyến chứa các sản phẩm được cung cấp cho công chúng bởi một
+nhà cung cấp duy nhất.
+   - Chợ trực tuyến nổi lên vào cuối những năm 1990 như một sự mở rộng và mở rộng quy mô tự nhiên của các cửa hàng điện tử. Thị trường trực tuyến liên quan đến khía cạnh tiếp thị, bán hàng và phân phối của thương mại điện tử B2B. Đặc điểm cơ bản của tất cả các thị trường Net là chúng tập hợp hàng trăm nhà cung cấp, mỗi nhà cung cấp có danh mục trực tuyến riêng, cùng với hàng nghìn công ty mua hàng tiềm năng để tạo thành một thị trường dựa trên Internet duy nhất.
+   - Mạng công nghiệp tư nhân cũng xuất hiện vào cuối những năm 1990 với việc thương mại hóa Internet như một phần mở rộng tự nhiên của hệ thống EDI và các mối quan hệ chặt chẽ hiện có đã phát triển giữa các công ty công nghiệp lớn và nhà cung cấp của họ.
+- Lợi ích tiềm năng của thương mại điện tử B2B bao gồm chi phí hành chính thấp hơn; giảm chi phí tìm kiếm cho người mua; giảm chi phí tồn kho; chi phí giao dịch thấp hơn; nâng cao chất lượng sản phẩm; giảm thời gian chu kỳ sản phẩm; tăng cơ hội hợp tác với các nhà cung cấp và nhà phân phối; minh bạch về giá hơn; đồng thời tăng cường khả năng hiển thị và chia sẻ thông tin theo thời gian thực giữa tất cả những người tham gia vào mạng lưới chuỗi cung ứng.
+- Rủi ro và thách thức tiềm ẩn bao gồm thiếu dữ liệu theo thời gian thực, tác động đến môi trường, thiên tai, lo ngại về lao động và tác động của bất ổn kinh tế, tài chính và chính trị.
+
+2. Hiểu cách mua sắm và chuỗi cung ứng liên quan đến thương mại điện tử B2B.
+- Quá trình thu mua đề cập đến cách các doanh nghiệp mua hàng hóa họ cần để sản xuất ra hàng hóa mà cuối cùng họ sẽ bán cho người tiêu dùng. Các công ty mua hàng hóa từ một nhóm nhà cung cấp, sau đó các công ty này mua đầu vào từ một nhóm nhà cung cấp. Các công ty này được liên kết trong một loạt các giao dịch được kết nối. Chuỗi cung ứng là một chuỗi các giao dịch liên kết các tập hợp các công ty kinh doanh với nhau. Nó không chỉ bao gồm bản thân các công ty mà còn bao gồm các mối quan hệ giữa chúng và các quá trình kết nối chúng.
+- Có hai hình thức mua sắm khác nhau (mua hàng trực tiếp và mua hàng gián tiếp) và hai phương thức mua hàng khác nhau (mua theo hợp đồng và mua tại chỗ).
+- Thuật ngữ chuỗi cung ứng nhiều tầng được sử dụng để mô tả chuỗi giao dịch phức tạp tồn tại giữa một công ty với nhiều nhà cung cấp chính, các nhà cung cấp thứ cấp kinh doanh với các nhà cung cấp chính đó và các nhà cung cấp cấp ba kinh doanh với các nhà cung cấp thứ cấp.
+3. Xác định các xu hướng chính trong quản lý chuỗi cung ứng và thương mại hợp tác.
+- Quản lý chuỗi cung ứng (SCM) đề cập đến nhiều hoạt động khác nhau mà các công ty và ngành sử dụng để điều phối các bên tham gia chính trong quá trình mua sắm của họ.
+- Sản xuất đúng lúc là một phương pháp quản lý chi phí tồn kho nhằm loại bỏ lượng tồn kho dư thừa đến mức tối thiểu.
+- Sản xuất tinh gọn là tập hợp các phương pháp và công cụ sản xuất tập trung vào việc loại bỏ lãng phí trong toàn bộ chuỗi giá trị khách hàng.
+- Đơn giản hóa chuỗi cung ứng liên quan đến việc giảm quy mô của chuỗi cung ứng và hợp tác chặt chẽ hơn với một nhóm nhỏ hơn các công ty cung cấp chiến lược để giảm cả chi phí sản phẩm và chi phí hành chính, đồng thời cải thiện chất lượng
+- Chuỗi cung ứng thích ứng cho phép các công ty ứng phó với sự gián đoạn trong chuỗi cung ứng ở một khu vực cụ thể bằng cách chuyển sản xuất sang khu vực khác.
+- Chuỗi cung ứng có trách nhiệm là những chuỗi cung ứng mà điều kiện lao động ở các nước sản xuất kém phát triển, lương thấp được thể hiện rõ ràng và được người tiêu dùng cuối cùng chấp nhận về mặt đạo đức ở các xã hội công nghiệp phát triển hơn.
+- Chuỗi cung ứng bền vững liên quan đến việc sử dụng các phương tiện sản xuất, phân phối và hậu cần hiệu quả nhất về môi trường.
+- EDI vẫn rất quan trọng trong thương mại điện tử B2B.
+- B2B di động ngày càng trở nên quan trọng trong mọi khía cạnh của thương mại điện tử B2B, thông qua tất cả các bước của quy trình mua sắm và trong toàn bộ chuỗi cung ứng.
+- Hệ thống B2B dựa trên đám mây chuyển phần lớn chi phí của hệ thống B2B từ công ty sang nhà cung cấp mạng B2B, đôi khi được gọi là trung tâm dữ liệu hoặc nền tảng B2B.
+- Hệ thống quản lý chuỗi cung ứng (SCM) hiện đại dựa trên việc đơn giản hóa chuỗi cung ứng, sản xuất tinh gọn và kịp thời, tập trung vào các đối tác chiến lược trong quy trình sản xuất, hệ thống doanh nghiệp và bổ sung hàng tồn kho liên tục.
+- Thương mại hợp tác liên quan đến việc sử dụng công nghệ kỹ thuật số để cho phép các công ty hợp tác thiết kế, phát triển, xây dựng, tiếp thị và quản lý sản phẩm trong suốt vòng đời của chúng và là sự mở rộng trực tiếp của hệ thống quản lý chuỗi cung ứng cũng như đơn giản hóa chuỗi cung ứng. Thương mại hợp tác ngày nay liên quan đến máy chủ đám mây, công cụ kinh doanh xã hội và thiết bị di động.
+- Mạng xã hội đang cung cấp sự kết nối mật thiết giữa khách hàng, nhà cung cấp và đối tác hậu cần.
+- Bất chấp quy mô của thương mại điện tử B2B, tiếp thị B2B vẫn chỉ chiếm một phần tương đối nhỏ trong tổng số tiền chi cho tiếp thị và quảng cáo kỹ thuật số, một phần do tốc độ thay đổi công nghệ chậm trong chuỗi cung ứng và quản lý mua sắm và một phần do tính chất rất khác nhau của thương mại điện tử B2B so với thương mại điện tử B2C. Để tìm nguồn cung ứng lâu dài, các mối quan hệ giữa các cá nhân, mạng lưới, thương hiệu và tiếp thị nội dung thông tin bằng cách sử dụng sách trắng, video, podcast, hội thảo trên web, blog, sách điện tử, hội nghị và hiệp hội nghề nghiệp là những công cụ tiếp thị chính và hiệu quả nhất. Tuy nhiên, tại các thị trường mua hàng giao ngay, tiếp thị B2B sử dụng nhiều chiến thuật và công cụ tiếp thị giống như tiếp thị B2C: quảng cáo hiển thị hình ảnh, tiếp thị qua công cụ tìm kiếm, trang web, kênh mạng xã hội, video và quảng cáo trên thiết bị di động.
+
+4. Hiểu các đặc điểm và loại thị trường Net khác nhau.
+- Thị trường trực tuyến là môi trường kỹ thuật số bên bán, nơi người bán và người mua được kết nối với nhau.
+- Đặc điểm của thị trường Net bao gồm sự thiên vị (bên bán so với bên mua so với trung lập), quyền sở hữu (ngành so với bên thứ ba), cơ chế định giá (danh mục có giá cố định, đấu giá và RFP/RFQ), phạm vi/tập trung ( ngang và dọc), tạo giá trị (khách hàng/nhà cung cấp) và tiếp cận thị trường (công và tư).
+- Có bốn loại thị trường trực tuyến “thuần túy” chính:
+   - Nhà phân phối điện tử là các trung gian thuộc sở hữu độc lập cung cấp cho khách hàng công nghiệp một nguồn duy nhất để mua hàng giao ngay hàng hóa gián tiếp hoặc MRO. Các nhà phân phối điện tử hoạt động trong một thị trường ngang phục vụ nhiều ngành công nghiệp khác nhau với các sản phẩm từ nhiều nhà cung cấp khác nhau.
+   - Mua sắm điện tử Thị trường mạng là các trung gian thuộc sở hữu độc lập kết nối hàng trăm nhà cung cấp trực tuyến cung cấp hàng triệu hàng hóa MRO cho các doanh nghiệp trả phí để tham gia thị trường. Mua sắm điện tử Các thị trường mạng hoạt động trong một thị trường ngang, trong đó các hợp đồng mua bán dài hạn được sử dụng để mua hàng hóa gián tiếp.
+   - Sàn giao dịch là các thị trường trực tuyến thuộc sở hữu độc lập, kết nối hàng trăm đến hàng nghìn nhà cung cấp và người mua trong môi trường thời gian thực năng động. Chúng thường là các thị trường dọc trong đó việc mua hàng giao ngay có thể được thực hiện đối với các đầu vào trực tiếp (cả hàng hóa và dịch vụ). Trao đổi kiếm tiền bằng cách tính phí hoa hồng cho mỗi giao dịch.
+   - Các tập đoàn công nghiệp là các thị trường dọc thuộc sở hữu của ngành, nơi các hợp đồng mua đầu vào trực tiếp dài hạn có thể được thực hiện từ một nhóm người tham gia được mời có giới hạn. Các tập đoàn phục vụ nhằm giảm bớt sự thiếu hiệu quả của chuỗi cung ứng bằng cách thống nhất chuỗi cung ứng cho một ngành thông qua một nền tảng máy tính và mạng chung.
+
+5. Hiểu mục tiêu của mạng lưới công nghiệp tư nhân, vai trò của chúng trong việc hỗ trợ thương mại hợp tác và các rào cản đối với việc thực hiện chúng.
+- Mục tiêu của mạng lưới công nghiệp tư nhân bao gồm phát triển các quy trình kinh doanh mua bán hiệu quả trên toàn ngành; phát triển quy hoạch nguồn lực toàn ngành để bổ sung cho việc hoạch định nguồn lực toàn doanh nghiệp; tăng khả năng hiển thị chuỗi cung ứng; đạt được mối quan hệ người mua-nhà cung cấp chặt chẽ hơn; hoạt động trên quy mô toàn cầu; và giảm rủi ro của ngành bằng cách ngăn ngừa sự mất cân bằng cung và cầu.
+- Mạng lưới công nghiệp tư nhân đang chuyển đổi chuỗi cung ứng bằng cách tập trung vào việc phối hợp quy trình kinh doanh liên tục giữa các công ty. Sự phối hợp này bao gồm nhiều thứ hơn là chỉ hỗ trợ giao dịch và quản lý chuỗi cung ứng. Thiết kế sản phẩm, dự báo nhu cầu, quản lý tài sản, kế hoạch bán hàng và tiếp thị đều có thể được phối hợp giữa các thành viên mạng lưới. Một số hình thức cộng tác được các mạng công nghiệp tư nhân sử dụng bao gồm:
+- CPFR hoặc lập kế hoạch, dự báo và bổ sung nguồn lực hợp tác toàn ngành bao gồm làm việc với các thành viên mạng lưới để dự báo nhu cầu, phát triển kế hoạch sản xuất và điều phối các hoạt động vận chuyển, kho bãi và dự trữ.
+- Khả năng hiển thị của chuỗi cung ứng và chuỗi phân phối đề cập đến thực tế là trước đây không thể biết được năng lực dư thừa tồn tại ở đâu trong chuỗi cung ứng hoặc phân phối. Loại bỏ hàng tồn kho dư thừa bằng cách ngừng sản xuất hàng hóa tồn kho quá mức có thể nâng cao tỷ suất lợi nhuận cho tất cả các thành viên mạng lưới vì sản phẩm sẽ không cần phải giảm giá để chuyển chúng ra khỏi kệ hàng nữa.
+- Hợp tác tiếp thị và thiết kế sản phẩm có thể được sử dụng để thu hút sự tham gia của các nhà cung cấp của công ty vào các hoạt động tiếp thị và thiết kế sản phẩm cũng như các hoạt động liên quan của các đối tác trong chuỗi cung ứng và phân phối của họ. Điều này có thể đảm bảo rằng các bộ phận được sử dụng để tạo nên sản phẩm đáp ứng được yêu cầu của nhà tiếp thị. Các ứng dụng thương mại hợp tác được sử dụng trong mạng công nghiệp tư nhân cũng có thể tạo ra khả năng tiếp thị khép kín trong đó phản hồi của khách hàng sẽ tác động trực tiếp đến thiết kế sản phẩm.
+
+### Câu hỏi ôn tập
+1. Giải thích sự khác biệt giữa thương mại B2B tổng thể và thương mại điện tử B2B.
+2. Các thuộc tính chính của trang web thương mại điện tử B2B là gì? Họ có nguồn gốc từ công nghệ ban đầu nào?
+3. Liệt kê ít nhất năm lợi ích tiềm năng của thương mại điện tử B2B.
+4. Kể tên và xác định hai loại hình mua sắm riêng biệt mà các công ty thực hiện. Giải thích sự khác biệt giữa hai.
+5. Kể tên và xác định hai phương thức mua hàng.
+6. Định nghĩa thuật ngữ chuỗi cung ứng và giải thích những gì hệ thống SCM cố gắng thực hiện. Việc đơn giản hóa chuỗi cung ứng đòi hỏi điều gì?
+7. Giải thích sự khác biệt giữa thị trường ngang và thị trường dọc.
+8. Dịch vụ quản lý chuỗi giá trị do các công ty đấu thầu điện tử cung cấp mang lại lợi ích như thế nào cho người mua? Họ cung cấp những dịch vụ gì cho nhà cung cấp?
+9. Ba khía cạnh đặc trưng của thị trường đấu thầu điện tử dựa trên chức năng kinh doanh của nó là gì? Kể tên hai đặc điểm thị trường khác của thị trường mạng mua sắm điện tử.
+10. Xác định và giải thích ngắn gọn các khả năng phản cạnh tranh vốn có trên thị trường Internet.
+11. Liệt kê ba mục tiêu của mạng lưới công nghiệp tư nhân.
+12. Nguyên nhân chính khiến nhiều sàn giao dịch độc lập phát triển trong những ngày đầu thương mại điện tử thất bại là gì?
+13. Giải thích sự khác biệt giữa tập đoàn công nghiệp và mạng lưới công nghiệp tư nhân.
+14. CPFR là gì và nó có thể mang lại lợi ích gì cho các thành viên của mạng lưới công nghiệp tư nhân?
+15. Những rào cản đối với việc triển khai hoàn chỉnh mạng lưới công nghiệp tư nhân là gì?
+16. EDI là gì và tại sao nó quan trọng?
+17. Mô tả sáu xu hướng chính trong quản lý và hợp tác chuỗi cung ứng.
+18. Mô tả những thách thức vốn có của thương mại điện tử B2B.
+19. Chuỗi cung ứng đa tầng là gì và tại sao nó đặt ra thách thức cho thương mại điện tử B2B?
+20. Nền tảng B2B dựa trên đám mây là gì và nó mang lại những lợi thế gì?
+21. Mô tả sự khác biệt và tương đồng giữa tiếp thị B2C và B2B.
