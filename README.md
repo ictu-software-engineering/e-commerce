@@ -404,12 +404,19 @@ Các câu hỏi bạn phải hỏi và trả lời khi phát triển sự hiện
 20. Phân tích trang web là gì và chúng được sử dụng như thế nào?
 
 ## Bài 7: Tiếp thị xã hội, di động và địa phương
-- Giới thiệu về tiếp thị xã hội, di động và địa phương
-- Tiếp thị xã hội
-- Tiếp thị di động
-- Tiếp thị di động dựa trên địa điểm và địa điểm
-- Nghiên cứu điển hình: ExchangeHunterJumper.com: Xây dựng thương hiệu quốc tế bằng tiếp thị xã hội
-
+### Tóm tắt nội dung chính
+- Hiểu sự khác biệt giữa tiếp thị trực tuyến truyền thống và các nền tảng tiếp thị xã hội-di động-địa phương mới cũng như mối quan hệ giữa tiếp thị xã hội, di động và địa phương.
+   - Tiếp thị xã hội, di động và địa phương đã thay đổi bối cảnh tiếp thị trực tuyến. Các xu hướng và khái niệm chính bao gồm:
+   - Sự nhấn mạnh trong tiếp thị trực tuyến đã chuyển từ việc giới thiệu cho người tiêu dùng các thông điệp sang việc thu hút họ vào các cuộc trò chuyện về thương hiệu của bạn.
+   - Tiếp thị xã hội có nghĩa là tất cả những thứ mang tính xã hội: lắng nghe, thảo luận, tương tác, đồng cảm và thu hút người tiêu dùng.
+   - Tiếp thị và quảng cáo trên mạng xã hội không chỉ đơn giản là một “kênh quảng cáo mới” mà là tập hợp các công cụ dựa trên công nghệ để giao tiếp với người mua hàng.
+   - Trước đây, các doanh nghiệp có thể kiểm soát chặt chẽ thông điệp thương hiệu của mình và dẫn dắt người tiêu dùng theo một kênh tín hiệu dẫn đến mua hàng. Đây không còn là trường hợp. Thay vào đó, quyết định mua hàng của người tiêu dùng ngày càng được thúc đẩy bởi các cuộc trò chuyện, lựa chọn, thị hiếu và ý kiến trên mạng xã hội của người tiêu dùng.
+- Tiếp thị xã hội, di động và địa phương là những hình thức tiếp thị trực tuyến phát triển nhanh nhất.
+- Tiếp thị kỹ thuật số trên mạng xã hội, di động và địa phương đang tự củng cố và kết nối.
+- Tiếp thị địa phương và di động có liên quan chặt chẽ với nhau: các nhà quảng cáo địa phương thường nhắm mục tiêu đến thiết bị di động nhất.
+- Mối quan hệ chặt chẽ giữa tiếp thị xã hội, di động và địa phương có ý nghĩa quan trọng trong việc quản lý một
+chiến dịch tiếp thị trong môi trường mới này. Khi thiết kế chiến dịch tiếp thị xã hội, bạn cũng phải cân nhắc rằng khách hàng của mình sẽ truy cập chiến dịch bằng thiết bị di động và thường thì họ cũng sẽ tìm kiếm nội dung địa phương.
+### Câu hỏi ôn tập
 ## Bài 8: Các vấn đề đạo đức, xã hội và chính trị trong thương mại điện tử
 - Hiểu các vấn đề đạo đức, xã hội và chính trị trong thương mại điện tử
 - Quyền riêng tư và thông tin
