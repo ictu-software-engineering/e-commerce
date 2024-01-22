@@ -550,7 +550,19 @@ và phúc lợi?
 18. Tại sao các trang web khiêu dâm không thể bị cấm ở Hoa Kỳ? Tại sao Tòa án Tối cao lại bãi bỏ đạo luật nhằm bảo vệ trẻ em khỏi nội dung khiêu dâm?
 19. “Quyền được lãng quên” là gì? Một số rủi ro và lợi ích của việc thiết lập quyền này là gì?
 20. Học thuyết “sử dụng hợp lý” là gì? Tại sao tòa án quyết định rằng việc quét sách có bản quyền của Google là "sử dụng hợp pháp"?
-## Bài 9: Phương tiện truyền thông trực tuyến
+## Bài 9: Bán lẻ và dịch vụ trực tuyến
+### Tóm tắt nội dung chính
+1. Hiểu môi trường mà lĩnh vực bán lẻ trực tuyến hoạt động ngày nay.
+- Tiêu dùng cá nhân đối với hàng hóa và dịch vụ bán lẻ chiếm khoảng 69% và chiếm khoảng 12,7 nghìn tỷ USD trong tổng GDP.
+- Ngành bán lẻ có thể được chia thành bảy loại doanh nghiệp chính: hàng hóa tổng hợp, hàng hóa lâu bền, cửa hàng đặc sản, thực phẩm và đồ uống, xăng và nhiên liệu, MOTO và các công ty bán lẻ trực tuyến. Mỗi loại đều mang lại cơ hội cho bán lẻ trực tuyến. Lĩnh vực MOTO giống nhất với lĩnh vực bán lẻ trực tuyến.
+- Trong những ngày đầu của thương mại điện tử, một số người dự đoán rằng ngành bán lẻ sẽ được cách mạng hóa, dựa trên việc giảm chi phí tìm kiếm, chi phí gia nhập tiếp thị thấp hơn, sự thay thế những người bán hàng tại cửa hàng thực tế bằng các công ty trực tuyến, loại bỏ người trung gian (hủy trung gian) và siêu trung gian hóa .
+- Ngày nay, rõ ràng là rất ít giả định ban đầu về tương lai của bán lẻ trực tuyến là đúng. Ngoài ra, cấu trúc của thị trường bán lẻ ở Hoa Kỳ vẫn chưa được cách mạng hóa. Thực tế là:
+   - Người tiêu dùng trực tuyến không chủ yếu bị chi phối bởi chi phí—thay vào đó, họ bị chi phối bởi thương hiệu và bị ảnh hưởng bởi giá trị cảm nhận như những người tiêu dùng ngoại tuyến.
+   - Chi phí gia nhập thị trường trực tuyến cũng như chi phí thu hút khách hàng mới được đánh giá thấp.
+   - Các công ty truyền thống lâu đời hơn, chẳng hạn như các công ty buôn bán tổng hợp khổng lồ và các nhà bán lẻ dựa trên danh mục lâu đời, đang chiếm lĩnh vị trí các trang web bán lẻ trực tuyến hàng đầu.
+   - Việc loại bỏ trung gian không xảy ra. Ngược lại, bán lẻ trực tuyến đã trở thành một ví dụ về vai trò to lớn của các trung gian trong thương mại bán lẻ.
+
+### Câu hỏi ôn tập
 - Nội dung trực tuyến
 - Ngành xuất bản trực tuyến
 - Nghiên cứu điển hình: Netflix: Bộ phim này kết thúc như thế nào?
