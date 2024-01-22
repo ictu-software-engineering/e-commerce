@@ -562,10 +562,69 @@ và phúc lợi?
    - Các công ty truyền thống lâu đời hơn, chẳng hạn như các công ty buôn bán tổng hợp khổng lồ và các nhà bán lẻ dựa trên danh mục lâu đời, đang chiếm lĩnh vị trí các trang web bán lẻ trực tuyến hàng đầu.
    - Việc loại bỏ trung gian không xảy ra. Ngược lại, bán lẻ trực tuyến đã trở thành một ví dụ về vai trò to lớn của các trung gian trong thương mại bán lẻ.
 
+2. Giải thích cách phân tích khả năng tồn tại về mặt kinh tế của một công ty trực tuyến.
+- Khả năng tồn tại về mặt kinh tế hoặc khả năng tồn tại của một công ty trong một khoảng thời gian nhất định có thể được phân tích bằng cách xem xét các yếu tố chiến lược quan trọng của ngành, các yếu tố chiến lược liên quan cụ thể đến công ty và báo cáo tài chính của công ty.
+- Các yếu tố chiến lược quan trọng của ngành bao gồm rào cản gia nhập, quyền lực của nhà cung cấp, quyền lực của khách hàng, sự tồn tại của các sản phẩm thay thế, chuỗi giá trị ngành và bản chất của cạnh tranh nội ngành.
+- Các yếu tố chiến lược quan trọng của công ty bao gồm chuỗi giá trị của công ty, năng lực cốt lõi, sự phối hợp, công nghệ hiện tại của công ty và những thách thức xã hội và pháp lý mà công ty phải đối mặt.
+- Các yếu tố tài chính quan trọng bao gồm doanh thu, chi phí bán hàng, tỷ suất lợi nhuận gộp, chi phí hoạt động, tỷ suất lợi nhuận hoạt động, tỷ suất lợi nhuận ròng và bảng cân đối kế toán của công ty.
+
+3. Xác định những thách thức mà các loại hình nhà bán lẻ trực tuyến khác nhau phải đối mặt.
+- Người bán ảo là các công ty thương mại điện tử một kênh tạo ra toàn bộ doanh thu từ việc bán hàng trực tuyến. Những thách thức của họ bao gồm xây dựng doanh nghiệp và thương hiệu một cách nhanh chóng, nhiều đối thủ cạnh tranh trên thị trường ảo, chi phí đáng kể để xây dựng và duy trì sự hiện diện thương mại điện tử, chi phí tiếp thị đáng kể, chi phí thu hút khách hàng lớn, đường cong học tập dốc và nhu cầu. nhanh chóng đạt được hiệu quả kinh doanh nhằm bảo toàn lợi nhuận. Amazon là ví dụ nổi tiếng nhất về một thương gia ảo.
+- Người bán đa kênh (truyền thống và nhấp chuột) có mạng lưới cửa hàng thực tế làm kênh bán lẻ chính nhưng cũng có hoạt động trực tuyến. Những thách thức của họ bao gồm chi phí xây dựng cơ sở vật chất cao, chi phí cho đội ngũ nhân viên bán hàng lớn, nhu cầu điều phối giá giữa các kênh, nhu cầu phát triển các phương pháp xử lý hàng trả lại qua kênh từ nhiều địa điểm, xây dựng sự hiện diện thương mại điện tử đáng tin cậy, tuyển dụng nhân viên mới có tay nghề cao. nhân viên và xây dựng hệ thống nhập và thực hiện đơn hàng phản ứng nhanh. Macy's là một ví dụ về công ty truyền thống.
+- Người bán theo danh mục là những công ty được thành lập có hoạt động bán lẻ qua danh mục ngoại tuyến trên toàn quốc như là kênh bán lẻ lớn nhất nhưng cũng có khả năng trực tuyến. Những thách thức của họ bao gồm chi phí in ấn và gửi thư cao, nhu cầu tận dụng tài sản và năng lực hiện có của họ với môi trường công nghệ mới, nhu cầu phát triển các phương pháp xử lý lợi nhuận qua kênh, xây dựng sự hiện diện thương mại điện tử và tuyển dụng nhân viên lành nghề mới. Lands’ End là một ví dụ về người bán hàng qua catalog.
+- Người bán trực tiếp từ nhà sản xuất là nhà sản xuất đơn kênh hoặc đa kênh bán hàng trực tuyến cho người tiêu dùng mà không có sự can thiệp của nhà bán lẻ. Những thách thức của họ bao gồm xung đột kênh, nhanh chóng phát triển hệ thống thực hiện và đặt hàng trực tuyến phản ứng nhanh; chuyển từ mô hình cung đẩy (sản phẩm được sản xuất trước khi nhận đơn đặt hàng dựa trên nhu cầu ước tính) sang mô hình cầu kéo (sản phẩm không được sản xuất cho đến khi nhận được đơn đặt hàng); và tạo ra các hoạt động bán hàng, dịch vụ và hỗ trợ trực tuyến. Dell là một ví dụ về nhà sản xuất bán hàng trực tiếp.
+
+4. Mô tả các đặc điểm chính của lĩnh vực dịch vụ trực tuyến.
+- Khu vực dịch vụ là bộ phận lớn nhất và phát triển nhanh nhất trong nền kinh tế của các quốc gia công nghiệp tiên tiến.
+- Các nhóm ngành dịch vụ chủ yếu là dịch vụ tài chính, bảo hiểm, bất động sản, dịch vụ kinh doanh và dịch vụ y tế.
+- Trong các nhóm ngành dịch vụ này, các công ty có thể được phân loại thành những công ty liên quan đến môi giới giao dịch và những công ty liên quan đến việc cung cấp dịch vụ “thực hành”.
+- Ngoại trừ một số trường hợp ngoại lệ, ngành dịch vụ nhìn chung là một ngành có hàm lượng tri thức và thông tin cao. Vì lý do này, nhiều dịch vụ đặc biệt phù hợp với thương mại điện tử và thế mạnh của Internet.
+- Thương mại điện tử mang đến những cơ hội đặc biệt để cải thiện hiệu quả giao dịch và do đó nâng cao năng suất trong một lĩnh vực mà năng suất cho đến nay chưa bị ảnh hưởng rõ rệt bởi sự bùng nổ công nghệ thông tin.
+
+5. Thảo luận về các xu hướng đang diễn ra trong ngành dịch vụ tài chính trực tuyến.
+- Lĩnh vực dịch vụ tài chính trực tuyến là một ví dụ điển hình về câu chuyện thành công của thương mại điện tử, nhưng thành công có phần khác so với những gì được dự đoán trong những ngày đầu của thương mại điện tử. Ngày nay, các công ty tài chính được thành lập đa kênh đang phát triển nhanh nhất và có triển vọng tốt nhất để tồn tại lâu dài.
+- Các công ty đa kênh có cả chi nhánh thực tế và dịch vụ trực tuyến vững chắc đã chiếm vị trí dẫn đầu thị trường so với các công ty trực tuyến thuần túy.
+- Cổng tài chính cung cấp các dịch vụ so sánh mua sắm và hướng người tiêu dùng đến các nhà cung cấp trực tuyến để được tư vấn tài chính độc lập và lập kế hoạch tài chính.
+- Tổng hợp tài khoản là một dịch vụ tài chính trực tuyến đang phát triển nhanh chóng khác, tập hợp tất cả dữ liệu tài chính của khách hàng trên một trang web được cá nhân hóa duy nhất.
+- Mặc dù có khởi đầu khó khăn, thị trường thế chấp trực tuyến đang phát triển chậm chạp; nó bị chi phối bởi các ngân hàng trực tuyến lâu đời và các công ty dịch vụ tài chính trực tuyến khác, các nhà cung cấp thế chấp truyền thống và một số công ty thế chấp trực tuyến thành công.
+- Bảo hiểm nhân thọ có kỳ hạn nổi bật như một nhóm sản phẩm hỗ trợ tầm nhìn ban đầu về chi phí tìm kiếm thấp hơn, tăng tính minh bạch về giá và tiết kiệm cho người tiêu dùng. Tuy nhiên, trong các dòng sản phẩm bảo hiểm khác, Web mang đến cho các công ty bảo hiểm những cơ hội mới để phân biệt hóa sản phẩm và dịch vụ cũng như phân biệt giá cả.
+- Tầm nhìn ban đầu cho rằng ngành bất động sản địa phương, phức tạp và do đại lý định hướng sẽ chuyển đổi thành một thị trường phi trung gian, nơi người mua và người bán có thể giao dịch trực tiếp vẫn chưa được hiện thực hóa.
+- Tác động chính của ngành bất động sản trực tuyến là ảnh hưởng đến việc mua hàng ngoại tuyến và dịch vụ chính là danh sách các ngôi nhà có sẵn, với các liên kết thứ cấp đến người cho vay thế chấp, cơ quan báo cáo tín dụng, thông tin khu vực lân cận, máy tính khoản vay, báo cáo thẩm định, giá bán lịch sử theo khu phố, dữ liệu khu học chánh và báo cáo tội phạm.
+
+6. Mô tả các xu hướng chính trong ngành dịch vụ du lịch trực tuyến ngày nay.
+- Internet đã trở thành kênh phổ biến nhất được người tiêu dùng sử dụng để nghiên cứu các lựa chọn du lịch và đặt vé máy bay, thuê xe, phòng khách sạn và các chuyến du lịch.
+- Các xu hướng chính trong dịch vụ du lịch trực tuyến bao gồm sự hợp nhất, sự gia tăng của các công cụ tìm kiếm meta, thiết bị di động và phương tiện truyền thông xã hội.
+
+7. Xác định các xu hướng hiện tại trong ngành dịch vụ nghề nghiệp trực tuyến.
+- Bên cạnh dịch vụ du lịch, dịch vụ tìm việc là một trong những dịch vụ trực tuyến thành công nhất trên Internet vì chúng tiết kiệm tiền cho cả người tìm việc và người sử dụng lao động.
+- Tuyển dụng trực tuyến cũng có thể phục vụ việc thiết lập giá cả và điều kiện thị trường, từ đó xác định cả mức lương cho các công việc cụ thể và các kỹ năng cần thiết để đạt được mức lương đó.
+- Các xu hướng chính trong ngành dịch vụ nghề nghiệp trực tuyến là mạng xã hội, thiết bị di động, công cụ tìm kiếm việc làm, hợp nhất, đa dạng hóa và bản địa hóa.
+
+8. Hiểu mô hình kinh doanh của các công ty dịch vụ theo yêu cầu.
+- Các công ty dịch vụ theo yêu cầu cung cấp một nền tảng cho phép cung cấp nhiều dịch vụ khác nhau theo yêu cầu, bằng cách kết nối các nhà cung cấp (“người bán”) muốn khai thác các tài nguyên “dự phòng” của họ, chẳng hạn như ô tô, phòng có giường và khả năng để thực hiện các dịch vụ khác nhau thông qua lao động cá nhân của họ, với người tiêu dùng (“người mua”) muốn sử dụng các tài nguyên và dịch vụ đó. Các công ty thu phí từ cả người bán và người mua khi sử dụng nền tảng này.
+- Uber, dịch vụ cho thuê ô tô và Airbnb, dịch vụ cho thuê phòng, là những công ty cung cấp dịch vụ theo yêu cầu nổi tiếng nhất. Họ cũng nằm trong số những người gây rối và gây tranh cãi nhất.
+
 ### Câu hỏi ôn tập
-- Nội dung trực tuyến
-- Ngành xuất bản trực tuyến
-- Nghiên cứu điển hình: Netflix: Bộ phim này kết thúc như thế nào?
+1. Tại sao ban đầu có rất nhiều doanh nhân bắt đầu kinh doanh trong lĩnh vực bán lẻ trực tuyến?
+2. Điều gì thường tạo nên sự khác biệt giữa hoạt động kinh doanh trực tuyến có lợi nhuận và không có lợi nhuận ngày nay?
+3. Phân khúc kinh doanh bán lẻ ngoại tuyến nào giống với bán lẻ trực tuyến nhất? Tại sao?
+4. Hãy mô tả cuộc cách mạng công nghệ bán lẻ trước sự phát triển của thương mại điện tử. Một số đổi mới đã giúp cho việc bán lẻ trực tuyến sau này trở nên khả thi là gì?
+5. Nêu tên hai giả định mà các nhà phân tích thương mại điện tử đã đưa ra từ rất sớm về người tiêu dùng và hành vi mua hàng của họ nhưng hóa ra lại sai.
+6. Giải thích sự khác biệt giữa loại bỏ trung gian và siêu trung gian khi nó liên quan đến bán lẻ trực tuyến.
+7. So sánh và đối chiếu các thương gia ảo và các công ty truyền thống. Loại nhà bán lẻ trực tuyến nào giống người bán ảo nhất?
+8. Sự khác biệt giữa mô hình bán hàng theo cung đẩy và cầu kéo là gì? Tại sao hầu hết các công ty do nhà sản xuất trực tiếp gặp khó khăn khi chuyển đổi từ hình thức sản xuất trước sang hình thức sau?
+9. Năm vấn đề chiến lược liên quan cụ thể đến năng lực của công ty là gì? Chúng khác với các vấn đề chiến lược liên quan đến ngành như thế nào?
+10. Đâu là thước đo tốt hơn về tình hình tài chính của một công ty: doanh thu, tỷ suất lợi nhuận gộp hay tỷ suất lợi nhuận ròng? Tại sao?
+11. Một số khó khăn khi cung cấp dịch vụ trên môi trường trực tuyến là gì? Ví dụ, những yếu tố nào phân biệt khu vực dịch vụ với khu vực bán lẻ?
+12. So sánh hai loại hình dịch vụ trực tuyến chính. Hai đặc điểm chính nào giúp phân biệt dịch vụ với các ngành khác?
+13. Yếu tố cản trở lớn nhất đối với sự phát triển của ngành bảo hiểm trực tuyến trên toàn quốc là gì?
+14. Xác định xung đột kênh và giải thích cách áp dụng xung đột này vào ngành bán lẻ.
+15. Mục đích sử dụng phổ biến nhất của các trang web bất động sản là gì? Hầu hết người tiêu dùng làm gì khi đến gặp họ?
+16. Các nhà cung cấp dịch vụ du lịch được hưởng lợi như thế nào từ việc người tiêu dùng sử dụng các trang web du lịch?
+17. Kể tên và mô tả năm công cụ tuyển dụng truyền thống mà các công ty sử dụng để xác định và thu hút nhân viên. Những nhược điểm của các công cụ như vậy so với các trang web việc làm trực tuyến là gì?
+18. Ngoài việc kết nối người xin việc với các vị trí sẵn có, các trang web việc làm trực tuyến còn có chức năng gì lớn hơn? Giải thích làm thế nào các trang web như vậy có thể ảnh hưởng đến tiền lương và tỷ lệ làm việc.
+19. Mô tả mô hình kinh doanh của các công ty cung cấp dịch vụ theo yêu cầu.
+20. Tại sao các công ty dịch vụ theo yêu cầu lại bị coi là gây rối và gây tranh cãi?
 
 ## Bài 10: Cộng đồng trực tuyến
 - Mạng xã hội và cộng đồng trực tuyến
