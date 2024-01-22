@@ -405,17 +405,46 @@ Các câu hỏi bạn phải hỏi và trả lời khi phát triển sự hiện
 
 ## Bài 7: Tiếp thị xã hội, di động và địa phương
 ### Tóm tắt nội dung chính
-- Hiểu sự khác biệt giữa tiếp thị trực tuyến truyền thống và các nền tảng tiếp thị xã hội-di động-địa phương mới cũng như mối quan hệ giữa tiếp thị xã hội, di động và địa phương.
-   - Tiếp thị xã hội, di động và địa phương đã thay đổi bối cảnh tiếp thị trực tuyến. Các xu hướng và khái niệm chính bao gồm:
+1. Hiểu sự khác biệt giữa tiếp thị trực tuyến truyền thống và các nền tảng tiếp thị xã hội-di động-địa phương mới cũng như mối quan hệ giữa tiếp thị xã hội, di động và địa phương.
+- Tiếp thị xã hội, di động và địa phương đã thay đổi bối cảnh tiếp thị trực tuyến. Các xu hướng và khái niệm chính bao gồm:
    - Sự nhấn mạnh trong tiếp thị trực tuyến đã chuyển từ việc giới thiệu cho người tiêu dùng các thông điệp sang việc thu hút họ vào các cuộc trò chuyện về thương hiệu của bạn.
    - Tiếp thị xã hội có nghĩa là tất cả những thứ mang tính xã hội: lắng nghe, thảo luận, tương tác, đồng cảm và thu hút người tiêu dùng.
    - Tiếp thị và quảng cáo trên mạng xã hội không chỉ đơn giản là một “kênh quảng cáo mới” mà là tập hợp các công cụ dựa trên công nghệ để giao tiếp với người mua hàng.
    - Trước đây, các doanh nghiệp có thể kiểm soát chặt chẽ thông điệp thương hiệu của mình và dẫn dắt người tiêu dùng theo một kênh tín hiệu dẫn đến mua hàng. Đây không còn là trường hợp. Thay vào đó, quyết định mua hàng của người tiêu dùng ngày càng được thúc đẩy bởi các cuộc trò chuyện, lựa chọn, thị hiếu và ý kiến trên mạng xã hội của người tiêu dùng.
-- Tiếp thị xã hội, di động và địa phương là những hình thức tiếp thị trực tuyến phát triển nhanh nhất.
+   - Tiếp thị xã hội, di động và địa phương là những hình thức tiếp thị trực tuyến phát triển nhanh nhất.
 - Tiếp thị kỹ thuật số trên mạng xã hội, di động và địa phương đang tự củng cố và kết nối.
 - Tiếp thị địa phương và di động có liên quan chặt chẽ với nhau: các nhà quảng cáo địa phương thường nhắm mục tiêu đến thiết bị di động nhất.
 - Mối quan hệ chặt chẽ giữa tiếp thị xã hội, di động và địa phương có ý nghĩa quan trọng trong việc quản lý một
 chiến dịch tiếp thị trong môi trường mới này. Khi thiết kế chiến dịch tiếp thị xã hội, bạn cũng phải cân nhắc rằng khách hàng của mình sẽ truy cập chiến dịch bằng thiết bị di động và thường thì họ cũng sẽ tìm kiếm nội dung địa phương.
+2. Hiểu quy trình tiếp thị xã hội từ thu hút người hâm mộ đến bán hàng và khả năng tiếp thị của các nền tảng tiếp thị xã hội như Facebook, Twitter và Pinterest.
+- Trong tiếp thị xã hội, mục tiêu là khuyến khích khách hàng tiềm năng trở thành người hâm mộ các sản phẩm và dịch vụ của công ty bạn và tương tác với doanh nghiệp của bạn bằng cách tham gia trò chuyện với doanh nghiệp.
+- Có năm bước trong mô hình quy trình tiếp thị xã hội: thu hút người hâm mộ, tương tác, khuếch đại, cộng đồng, sức mạnh thương hiệu và doanh số bán hàng.
+- Facebook là mạng xã hội được thiết kế để khuyến khích mọi người tiết lộ càng nhiều thông tin cá nhân về bản thân càng tốt, bao gồm các hoạt động, hành vi, ảnh, nhạc, phim và mua hàng.
+- Các tính năng của Facebook được xây dựng nhằm tối đa hóa sự kết nối giữa mọi người dưới hình thức thông báo, gắn thẻ, nhắn tin, đăng bài và chia sẻ. Trong nhiều trường hợp, việc di chuyển thông tin cá nhân lan rộng đến mức người dùng không thể hiểu được.
+- Mật độ xã hội đề cập đến số lượng tương tác giữa các thành viên trong một nhóm và phản ánh “sự kết nối” của một nhóm, ngay cả khi những kết nối này bị ép buộc đối với người dùng.
+- Facebook có nhiều công cụ tiếp thị, bao gồm nút Phản ứng, Trang thương hiệu, quảng cáo trên Bảng tin, quảng cáo ở thanh bên phải, quảng cáo trên thiết bị di động, quảng cáo video và Facebook Exchange.
+- Hiệu quả của quảng cáo trên Facebook có thể được đo lường bằng năm giai đoạn của mô hình tiếp thị xã hội: thu hút người hâm mộ, tương tác, khuếch đại, cộng đồng và cuối cùng là củng cố thương hiệu và bán hàng.
+- Twitter là một trang mạng xã hội viết blog nhỏ cho phép người dùng gửi và nhận tin nhắn 140 ký tự cũng như xem trước video, ảnh và bài viết.
+- Các công cụ tiếp thị của Twitter bao gồm Tweet được quảng cáo, Xu hướng được quảng cáo, Tài khoản được quảng cáo, Trang hồ sơ nâng cao, chương trình Khuếch đại Twitter, nhắm mục tiêu lại quảng cáo trên truyền hình, Thẻ tạo khách hàng tiềm năng cũng như quảng cáo tương tác với ứng dụng và cài đặt ứng dụng.
+- Đo lường kết quả tiếp thị trên Twitter cũng tương tự như đo lường kết quả của Facebook và các nền tảng tiếp thị xã hội khác, với một số thay đổi nhỏ để thể hiện những phẩm chất độc đáo của Twitter.
+- Pinterest là trang mạng xã hội cung cấp cho người dùng một bảng trực tuyến để họ có thể “ghim” những bức ảnh thú vị vào đó. Thành công của Pinterest một phần dựa trên sự thay đổi hành vi của người tiêu dùng nhờ công nghệ mới: mọi người nói về thương hiệu bằng hình ảnh thay vì lời nói.
+- Các công cụ tiếp thị của Pinterest bao gồm Ghim quảng cáo; thêm logo Pin It vào trang web của bạn; ghim ảnh vào Pinterest và hướng người dùng đến trang web của bạn; tạo bảng Pin It theo chủ đề; đặt URL tới các cửa hàng mà bạn hỗ trợ và nhận phí tạo khách hàng tiềm năng từ đó; tích hợp ghim và bảng của bạn với các trang xã hội khác; kết nối với người dùng và người theo dõi.
+- Các chiến dịch Pinterest có thể được đo lường bằng các quy trình tương tự như đối với Facebook và Twitter. Các khía cạnh chính cần đo lường là thu hút, tương tác, khuếch đại, cộng đồng và bán hàng của người hâm mộ (người theo dõi).
+- Các mạng xã hội khác như Instagram, LinkedIn và Snapchat cũng mang lại cơ hội quảng cáo tương tự cho các nhà tiếp thị.
+- Một nhược điểm của tiếp thị xã hội là các thương hiệu mất quyền kiểm soát đáng kể đối với nơi quảng cáo của họ xuất hiện về mặt nội dung khác và những gì mọi người nói về thương hiệu của họ trên các trang xã hội.
+
+2. Xác định các yếu tố chính của chiến dịch tiếp thị trên thiết bị di động.
+- Mặc dù vẫn còn ở giai đoạn sơ khai, tiếp thị trên thiết bị di động liên quan đến việc sử dụng các thiết bị di động như điện thoại thông minh và máy tính bảng để hiển thị quảng cáo biểu ngữ, đa phương tiện, video, trò chơi, e-mail, tin nhắn văn bản, nhắn tin trong cửa hàng, mã QuickResponse (QR) và phiếu giảm giá.
+- Thiết bị di động thể hiện sự khởi đầu hoàn toàn so với các công nghệ tiếp thị trước đây đơn giản vì các thiết bị này tích hợp rất nhiều hoạt động của con người và người tiêu dùng từ gọi điện thoại hoặc nhắn tin cho bạn bè, nghe nhạc, xem video và sử dụng Web để mua sắm hàng hóa.
+- Nền tảng di động đã thay đổi trong vài năm qua và hiện nay số lượng người dùng máy tính bảng gần bằng số lượng người dùng điện thoại thông minh tại Hoa Kỳ.
+- Người dùng di động dành phần lớn thời gian của họ để sử dụng các ứng dụng dành cho thiết bị di động thay vì trình duyệt web trên thiết bị di động. Các nhà tiếp thị cần đặt quảng cáo trong các ứng dụng mà người tiêu dùng dành phần lớn thời gian của họ.
+- Thiết bị di động tạo ra một thế giới đa màn hình: điện thoại thông minh, máy tính bảng, máy tính để bàn và tivi. Thực tế và tương lai của các thiết bị điện toán là người tiêu dùng sẽ đa nền tảng: sử dụng máy tính để bàn và máy tính xách tay tại nơi làm việc và ở nhà cũng như điện thoại thông minh và máy tính bảng ở nhà cũng như khi di chuyển.
+- Ý nghĩa của nền tảng đa thiết bị hoặc môi trường đa dạng về màn hình là hoạt động tiếp thị cần được thiết kế cho bất kỳ thiết bị nào mà người tiêu dùng đang sử dụng và việc xây dựng thương hiệu nhất quán trên các nền tảng sẽ rất quan trọng.
+- Không giống như tiếp thị xã hội, tiếp thị trên thiết bị di động không đòi hỏi nhiều vốn từ vựng về tiếp thị mới. Tất cả các định dạng tiếp thị có sẵn trên máy tính để bàn cũng có sẵn trên thiết bị di động. Với một vài ngoại lệ, tiếp thị trên thiết bị di động rất giống tiếp thị trên máy tính để bàn—ngoại trừ nó nhỏ hơn, di động và luôn ở bên người dùng.
+- Cơ hội tiếp thị chính trong tiếp thị trên thiết bị di động là quảng cáo tìm kiếm, quảng cáo hiển thị hình ảnh, video và đa phương tiện, nhắn tin (SMS/MMS/PPS) và các định dạng quen thuộc khác như e-mail, phân loại và tạo khách hàng tiềm năng.
+- Hiệu quả của tiếp thị trên thiết bị di động có thể được đo lường bằng cách sử dụng các khía cạnh của mô hình quy trình tiếp thị xã hội: thu hút người hâm mộ, mức độ tương tác, khuếch đại, cộng đồng, sức mạnh thương hiệu và doanh số bán hàng. Các số liệu dựa trên trình duyệt web truyền thống cũng có thể được sử dụng khi đo lường các chiến dịch trên thiết bị di động
+
+
 ### Câu hỏi ôn tập
 ## Bài 8: Các vấn đề đạo đức, xã hội và chính trị trong thương mại điện tử
 - Hiểu các vấn đề đạo đức, xã hội và chính trị trong thương mại điện tử
