@@ -1,3 +1,16 @@
+# CÂU HỎI ÔN TẬP
+1. Tại sao cần có cách tiếp cận đa ngành nếu muốn hiểu được thương mại điện tử?
+2. Tám thành phần chính của một mô hình kinh doanh hiệu quả là gì?
+3. HTML5 cung cấp những tiến bộ và tính năng gì?
+4. Tại sao ứng dụng di động lại là xu hướng quan trọng tiếp theo?
+5. Xác định vòng đời phát triển hệ thống và thảo luận các bước khác nhau liên quan đến việc tạo trang web thương mại điện tử.
+6. Tại sao trộm cắp trực tuyến lại ít rủi ro hơn? Giải thích một số cách bọn tội phạm lừa dối người tiêu dùng và người bán.
+7. Tại sao Bitcoin lại gây tranh cãi đến vậy?
+8. NFC là gì và nó hoạt động như thế nào?
+9. Phân tích một số các lý do khiến quà tặng miễn phí, chẳng hạn như dịch vụ Internet miễn phí và quà tặng, không có tác dụng tạo ra doanh thu tại một trang web?
+10. Tại sao tiếp thị dựa trên vị trí lại hấp dẫn các nhà tiếp thị đến vậy?
+
+
 # THƯƠNG MẠI ĐIỆN TỬ
 
 ## Bài 1: Giới thiệu về thương mại điện tử
