@@ -1,14 +1,59 @@
-# CÂU HỎI ÔN TẬP
-1. Tại sao cần có cách tiếp cận đa ngành nếu muốn hiểu được thương mại điện tử?
-2. Tám thành phần chính của một mô hình kinh doanh hiệu quả là gì?
-3. HTML5 cung cấp những tiến bộ và tính năng gì?
-4. Tại sao ứng dụng di động lại là xu hướng quan trọng tiếp theo?
-5. Xác định vòng đời phát triển hệ thống và thảo luận các bước khác nhau liên quan đến việc tạo trang web thương mại điện tử.
-6. Tại sao trộm cắp trực tuyến lại ít rủi ro hơn? Giải thích một số cách bọn tội phạm lừa dối người tiêu dùng và người bán.
-7. Tại sao Bitcoin lại gây tranh cãi đến vậy?
-8. NFC là gì và nó hoạt động như thế nào?
-9. Phân tích một số các lý do khiến quà tặng miễn phí, chẳng hạn như dịch vụ Internet miễn phí và quà tặng, không có tác dụng tạo ra doanh thu tại một trang web?
-10. Tại sao tiếp thị dựa trên vị trí lại hấp dẫn các nhà tiếp thị đến vậy?
+# ĐỀ THI
+
+## Đề 01 
+### Câu 1: Bài 3: Cơ sở hạ tầng thương mại điện tử: Internet, Web và nền tảng di động
+a. Điện toán đám mây là gì và nó tác động đến Internet như thế nào?
+b. HTML5 cung cấp những tiến bộ và tính năng gì?
+c. Kể tên và mô tả năm dịch vụ hiện có trên Web.
+d. Tại sao ứng dụng di động lại là xu hướng quan trọng tiếp theo?
+
+### Câu 2: Bài 5: Hệ thống thanh toán và bảo mật thương mại điện tử
+a. Tại sao phần mềm quảng cáo hoặc phần mềm gián điệp được coi là mối đe dọa bảo mật?
+b. Thiết bị sinh trắc học giúp nâng cao tính bảo mật như thế nào? Họ giảm thiểu loại vi phạm an ninh cụ thể nào?
+c. Tại sao Bitcoin lại gây tranh cãi đến vậy?
+d. NFC là gì và nó hoạt động như thế nào?
+
+## Đề 02: 
+### Câu 1: Bài 6: Khái niệm tiếp thị và quảng cáo thương mại điện tử
+a. Hệ thống tự động hóa tiếp thị là gì và nó được sử dụng như thế nào?
+b. Kể tên một số hạn chế của kỹ thuật khai thác dữ liệu được sử dụng trong tiếp thị trên Internet.
+c. Một số lý do khiến quà tặng miễn phí, chẳng hạn như dịch vụ Internet miễn phí và quà tặng, không có tác dụng tạo ra doanh thu tại một trang web là gì?
+d. Phân tích trang web là gì và chúng được sử dụng như thế nào?
+
+### Câu 2: Bài 7: Tiếp thị xã hội, di động và địa phương
+a. Năm yếu tố của quá trình tiếp thị xã hội là gì?
+b. Nền tảng thương mại điện tử nào phát triển nhanh nhất và tại sao?
+c. Môi trường đa màn hình là gì và nó thay đổi hoạt động tiếp thị như thế nào?
+d. Liệt kê và mô tả một số công cụ tiếp thị dựa trên vị trí cơ bản.
+
+
+## Đề 03
+### Câu 1: Bài 10: Nội dung và phương tiện trực tuyến
+1. Ba chiều mà thuật ngữ “hội tụ” được áp dụng là gì? Mỗi lĩnh vực hội tụ này đòi hỏi điều gì?
+2. Các mô hình doanh thu cơ bản cho nội dung trực tuyến là gì và thách thức chính của chúng là gì?
+3. Hai mô hình kinh doanh sách điện tử chính là gì?
+4. Sự phát triển của điện toán máy tính bảng có ảnh hưởng gì đến nội dung và giải trí trực tuyến?
+5. Dịch vụ đăng ký nhạc sử dụng những kỹ thuật nào để thực thi DRM?
+6. Apple iPad đại diện cho kiểu hội tụ nào?
+7. Ba mô hình kinh doanh khác nhau mà các tờ báo đã sử dụng để cố gắng thích ứng với Internet là gì?
+8. Các mô hình doanh thu khác nhau mà các tờ báo đã sử dụng là gì?
+9. Các trang tin tức kỹ thuật số thuần túy có lợi thế gì hơn báo in? Báo chí truyền thống có lợi thế gì so với các trang kỹ thuật số thuần túy?
+10. Trải nghiệm của ngành xuất bản sách với Internet khác với trải nghiệm của ngành báo và tạp chí như thế nào?
+11. Internet đã thay đổi cách đóng gói, phân phối, tiếp thị và bán các bản nhạc truyền thống như thế nào?
+12. Công nghệ phát trực tuyến đã tác động đến ngành truyền hình như thế nào?
+13. Tại sao sự phát triển của dịch vụ lưu trữ đám mây lại quan trọng đối với sự phát triển của việc phân phối nội dung di động?
+14. Người tiêu dùng bình thường có trở nên dễ tiếp thu hơn đối với nội dung Internet có hỗ trợ quảng cáo không? Những phát triển nào hỗ trợ điều này?
+15. Cần có những yếu tố nào để hỗ trợ tính phí thành công cho người tiêu dùng đối với nội dung trực tuyến?
+16. Tại sao các ứng dụng lại giúp ích cho ngành báo và tạp chí trong khi các trang web lại thất bại?
+17. Các nhà xuất bản tạp chí có những lựa chọn thay thế nào cho kênh phân phối trực tuyến?
+18. Tại sao Bộ Tư pháp lại kiện các công ty xuất bản lớn và Apple?
+19. Một số thách thức mà ngành xuất bản sách hiện đang phải đối mặt là gì?
+20. Thiết bị di động đang thay đổi ngành công nghiệp trò chơi như thế nào?
+a.
+b.
+c.
+d.
+### Câu 2:
 
 
 # THƯƠNG MẠI ĐIỆN TỬ
