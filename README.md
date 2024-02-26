@@ -2,10 +2,10 @@
 
 ## Đề 01 
 ### Câu 1: Bài 3: Cơ sở hạ tầng thương mại điện tử: Internet, Web và nền tảng di động
-a. Điện toán đám mây là gì và nó tác động đến Internet như thế nào?
-b. HTML5 cung cấp những tiến bộ và tính năng gì?
-c. Kể tên và mô tả năm dịch vụ hiện có trên Web.
-d. Tại sao ứng dụng di động lại là xu hướng quan trọng tiếp theo?
+- Điện toán đám mây là gì và nó tác động đến Internet như thế nào?
+- HTML5 cung cấp những tiến bộ và tính năng gì?
+- Kể tên và mô tả năm dịch vụ hiện có trên Web.
+- Tại sao ứng dụng di động lại là xu hướng quan trọng tiếp theo?
 
 ### Câu 2: Bài 5: Hệ thống thanh toán và bảo mật thương mại điện tử
 a. Tại sao phần mềm quảng cáo hoặc phần mềm gián điệp được coi là mối đe dọa bảo mật?
