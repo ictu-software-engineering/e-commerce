@@ -1,40 +1,37 @@
-# ĐỀ THI
+# Nội dung ôn tập
 
-## Đề 01 
-### Câu 1: Bài 3: Cơ sở hạ tầng thương mại điện tử: Internet, Web và nền tảng di động
+## Bài 3: Cơ sở hạ tầng thương mại điện tử: Internet, Web và nền tảng di động
 - Điện toán đám mây là gì và nó tác động đến Internet như thế nào?
 - HTML5 cung cấp những tiến bộ và tính năng gì?
 - Kể tên và mô tả năm dịch vụ hiện có trên Web.
 - Tại sao ứng dụng di động lại là xu hướng quan trọng tiếp theo?
 
-### Câu 2: Bài 5: Hệ thống thanh toán và bảo mật thương mại điện tử
+## Bài 5: Hệ thống thanh toán và bảo mật thương mại điện tử
 - Tại sao phần mềm quảng cáo hoặc phần mềm gián điệp được coi là mối đe dọa bảo mật?
 - Thiết bị sinh trắc học giúp nâng cao tính bảo mật như thế nào? Họ giảm thiểu loại vi phạm an ninh cụ thể nào?
 - Tại sao Bitcoin lại gây tranh cãi đến vậy?
 - NFC là gì và nó hoạt động như thế nào?
 
-## Đề 02: 
-### Câu 1: Bài 6: Khái niệm tiếp thị và quảng cáo thương mại điện tử
+## Bài 6: Khái niệm tiếp thị và quảng cáo thương mại điện tử
 - Hệ thống tự động hóa tiếp thị là gì và nó được sử dụng như thế nào?
 - Kể tên một số hạn chế của kỹ thuật khai thác dữ liệu được sử dụng trong tiếp thị trên Internet.
 - Một số lý do khiến quà tặng miễn phí, chẳng hạn như dịch vụ Internet miễn phí và quà tặng, không có tác dụng tạo ra doanh thu tại một trang web là gì?
 - Phân tích trang web là gì và chúng được sử dụng như thế nào?
 
-### Câu 2: Bài 7: Tiếp thị xã hội, di động và địa phương
+## Bài 7: Tiếp thị xã hội, di động và địa phương
 - Năm yếu tố của quá trình tiếp thị xã hội là gì?
 - Nền tảng thương mại điện tử nào phát triển nhanh nhất và tại sao?
 - Môi trường đa màn hình là gì và nó thay đổi hoạt động tiếp thị như thế nào?
 - Liệt kê và mô tả một số công cụ tiếp thị dựa trên vị trí cơ bản.
 
 
-## Đề 03
-### Câu 1: Bài 10: Nội dung và phương tiện trực tuyến
+## Bài 10: Nội dung và phương tiện trực tuyến
 - Các mô hình doanh thu cơ bản cho nội dung trực tuyến là gì và thách thức chính của chúng là gì?
 - Sự phát triển của điện toán máy tính bảng có ảnh hưởng gì đến nội dung và giải trí trực tuyến?
 - Tại sao sự phát triển của dịch vụ lưu trữ đám mây lại quan trọng đối với sự phát triển của việc phân phối nội dung di động?
 - Thiết bị di động đang thay đổi ngành công nghiệp trò chơi như thế nào?
 
-### Câu 2:
+### Bài 11: Đấu giá và cổng thông tin
 - Cộng đồng chung sở thích là gì và mô hình kinh doanh của nó là gì?
 - Bốn chi phí chính mà người tiêu dùng phải chịu khi tham gia đấu giá là gì?
 - Kể tên và mô tả năm loại lạm dụng và gian lận có thể xảy ra trong đấu giá.
